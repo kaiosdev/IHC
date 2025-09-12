@@ -1,0 +1,14 @@
+# 2.1 Domínio e objetivo do sistema
+O domínio do Discord está inserido no setor de comunicação digital, com foco específico em comunidades virtuais e interação em tempo real. A plataforma opera oferecendo recursos que vão desde chats de texto, chamadas de voz e vídeo, até a criação de servidores temáticos, integração com bots, transmissões ao vivo (streaming) e ferramentas de organização comunitária. Além disso, o Discord se destaca por ser uma solução multiplataforma, acessível por desktop, dispositivos móveis e navegador, permitindo que usuários de diferentes perfis e regiões se conectem de maneira prática e fluida.
+
+Já o objetivo principal do sistema do Discord é proporcionar um espaço de comunicação dinâmico e colaborativo, simplificando a criação e a gestão de comunidades online. Os objetivos específicos incluem:
+
+* Facilitar a interação entre pessoas por meio de canais de texto, voz e vídeo em tempo real;
+
+* Oferecer flexibilidade na criação de servidores personalizados, adaptáveis a diferentes contextos (jogos, estudos, trabalho, eventos ou lazer);
+
+* Ampliar a colaboração, com integrações de bots, ferramentas de organização e compartilhamento de conteúdo;
+
+* Garantir acessibilidade e mobilidade, permitindo que usuários participem de suas comunidades a qualquer hora e lugar;
+
+* Promover a inclusão digital, criando ambientes onde pessoas de diferentes culturas, interesses e objetivos possam se conectar e construir comunidades.
