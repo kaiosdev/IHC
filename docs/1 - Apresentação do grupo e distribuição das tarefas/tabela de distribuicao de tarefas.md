@@ -14,7 +14,7 @@ Equipe:
 * A2: Kaio Sobral 
 * A3: Jean Carlos Baraúna
 * A4: Gustavo Pinheiro Souza
-* A5: Giovana Amorin
+* A5: Geovanna Beathryz A. Paiva
 
 <br/>
 
