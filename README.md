@@ -11,11 +11,11 @@
 
 | Membro | Nome Completo |
 |--------|---------------|
-| A1 | Iasmim Braga Belém |
-| A2 | Kaio Sobral |
-| A3 | Jean Carlos Baraúna |
-| A4 | Gustavo Pinheiro Souza |
-| A5 | Geovanna Beathryz A. Paiva |
+| A1 | GEOVANNA BEATHRYZ AMORIM PAIVA
+| A2 | GUSTAVO PINHEIRO DE SOUZA 
+| A3 | IASMIM BRAGA BELÉM
+| A4 | JEAN CARLOS DOS SANTOS BARAÚNA 
+| A5 | KAIO SOBRAL MOREIRA 
 
 ## Objetivo do Trabalho
 
