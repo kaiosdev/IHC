@@ -29,7 +29,7 @@ Toda informação coletada nesta avaliação é confidencial e seu nome não ser
 Sua participação nesta avaliação é muito importante e voluntária. Você tem o direito de não querer participar ou de sair desta avaliação a qualquer momento, sem penalidades. Em caso de você decidir se retirar da avaliação, favor notificar o avaliador responsável.
 
 Os responsáveis pela avaliação poderão fornecer qualquer esclarecimento sobre o mesmo, assim como tirar dúvidas, bastando entrar em contato pelos seguintes e-mails:
-**Avaliador(es):** gusttasouza334@gmail.com iasmim.belem@ufam.edu.br jean.barauna@ufam.edu.br geovanna.paiva@ufam.edu.br kaio.moreira@ufam.edu.br
+**Avaliador(es):** gusttasouza334@gmail.com  iasmim.belem@ufam.edu.br  jean.barauna@ufam.edu.br  geovanna.paiva@ufam.edu.br  kaio.moreira@ufam.edu.br
 
 
 ---
