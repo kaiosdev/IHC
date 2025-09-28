@@ -20,8 +20,6 @@ Dados do projeto
 
 #### 1.2. Lista de Tarefas
 
-[cite_start]A seguir, a lista de tarefas planejadas para o projeto[cite: 30]:
-
 * **T1 - Organização da Equipe:** Definição dos membros e criação da tabela de distribuição.
 * **T2 - Descrição do Sistema:** Documentação do domínio, contexto, objetivos e personas do Discord Web.
 * **T3 - Detecção Individual (Inspeção):** Execução da avaliação heurística individual por cada membro.
