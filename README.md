@@ -118,6 +118,7 @@ trabalho-patrico-I/
 
 ---
 
+
 **Universidade:** [Instituto de Ciências Exatas e Tecnologia (ICET)]  
 **Período:** 2025/02  
 **Data de Conclusão:** [29/09/2025]
