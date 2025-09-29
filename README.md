@@ -73,7 +73,7 @@ O objetivo central é identificar falhas de usabilidade e comunicabilidade, prop
 
 [**Acessar Análise**](https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/4%20-%20Teste%20de%20usabilidade%20)
 
-### 4. Conclusões e Reflexões sobre o Aprendizado
+### 4. Conclusões e Reflexões sobre o Aprendizado2
 **Conteúdo:** Síntese dos resultados obtidos, lições aprendidas durante o processo de avaliação e recomendações para melhorias no Discord.
 
 **Escopo:** Análise crítica dos métodos aplicados, principais descobertas e contribuições para o campo de IHC.
