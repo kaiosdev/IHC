@@ -14,8 +14,4 @@ Papel do Trabalho Prático (TP) no Aprendizado em IHC
 O Trabalho Prático (TP) me ajudou a desenvolver habilidades em IHC. Ele transformou o que eu aprendi na teoria em competências práticas e me tornou mais crítica em relação ao design e à usabilidade. O TP me ajudou das seguintes formas:
 Compreensão do impacto da UX: Agora sei o que realmente afeta a experiência dos usuários. Isso vem de observar o que os frustra ou os ajuda. Isso me permite conectar a forma como a interface é construída, o que os usuários dizem e como é sua experiência de uso.
 Desenvolvimento de uma mentalidade crítica: O processo me ensinou a revisar os sistemas com mais atenção. Agora consigo identificar possíveis problemas de usabilidade, navegação e acessibilidade logo no início, antes mesmo dos testes.
-Habilidades práticas de avaliação: Ganhei experiência no uso de métodos de avaliação. Isso inclui criar planos de teste, formulários e entender os dados para propor melhorias.
-
-Conclusão
-
-De forma geral, o TP me fez perceber que um sistema funciona melhor quando é acessível, simples de usar e não exige esforço mental excessivo dos usuários. Minhas habilidades em IHC estão mais fortes porque aprendi que entender as necessidades dos usuários é o primeiro passo para o sucesso de qualquer projeto em relação a isso.
+Habilidades práticas de avaliação: Ganhei experiência no uso de métodos de avaliação. Isso inclui criar planos de teste, formulários e entender os dados para propor melhorias. De forma geral, o TP me fez perceber que um sistema funciona melhor quando é acessível, simples de usar e não exige esforço mental excessivo dos usuários. Minhas habilidades em IHC estão mais fortes porque aprendi que entender as necessidades dos usuários é o primeiro passo para o sucesso de qualquer projeto em relação a isso.
