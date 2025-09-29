@@ -1,0 +1,185 @@
+# Relatório de Usabilidade: Discord 249.3 - Alpha
+
+**Data do Relatório:** 29 de setembro de 2025
+
+## Resumo Executivo
+
+Este relatório detalha os resultados dos testes de usabilidade conduzidos com a versão `249.3 - Alpha` do **Discord**. O software foi classificado como **"Não Aceitável"**, atingindo uma pontuação SUS preliminar de **40**. As principais barreiras identificadas incluem uma curva de aprendizado acentuada para usuários de plataformas concorrentes (como Slack e Teams), baixa visibilidade de funções essenciais e feedback de sistema inadequado durante operações críticas.
+
+---
+
+## 1. Dados do Projeto e Ambiente
+
+| Categoria | Detalhes |
+| :--- | :--- |
+| **Produto** | Discord |
+| **Versão Testada** | 249.3 - Alpha |
+| **Ambiente de Teste** | Desktop (Linux - Zorin OS) |
+| **Data dos Testes** | `xx/xx/xxxx` (Piloto) e `xx/xx/xxxx` (Oficial) |
+
+### 1.1. Participantes
+
+Os dados dos participantes foram anonimizados para proteger sua privacidade. Um total de 8 usuários participaram da fase oficial, além de um teste piloto.
+
+| Fase | ID | Perfil do Usuário |
+| :--- | :--- | :--- |
+| Piloto | `P00` | Participante Piloto |
+| Oficial | `P01` | Participante 01 |
+| Oficial | `P02` | Participante 02 |
+| Oficial | `...` | ... |
+| Oficial | `P08` | Participante 08 |
+
+---
+
+## 2. Pontuação Chave e Conclusão
+
+### 2.1. Conclusão da Usabilidade
+
+A versão alpha do **Discord** falhou em entregar uma experiência de usuário aceitável para o conjunto de tarefas propostas. O resultado quantitativo é um reflexo direto das falhas qualitativas observadas durante os testes, indicando a necessidade de ações urgentes em UX/UI antes do lançamento.
+
+| Métrica | Valor | Classificação |
+| :--- | :--- | :--- |
+| **System Usability Scale (SUS)** | **40** / 100 | Não Aceitável / Péssimo |
+| **Taxa de Sucesso Média** | Baixa | Inferior a `XX%` em `X` das `XX` tarefas |
+
+---
+
+## 3. Análise dos Objetivos do Teste
+
+A análise do cumprimento dos objetivos demonstra onde a aplicação apresenta as maiores dificuldades para o usuário. A seguir, o detalhamento do desempenho em cada objetivo proposto.
+
+*(Esta seção está aguardando a inserção dos dados detalhados dos objetivos e suas respectivas métricas de sucesso, erro e tempo de execução.)*
+
+| ID do Objetivo | Descrição do Objetivo | Taxa de Sucesso | Observações Principais |
+| :--- | :--- | :--- | :--- |
+| **OBJ-01** | Criar e configurar um novo servidor a partir de um template. | `XX%` | *[Adicionar observação]* |
+| **OBJ-02** | Iniciar uma chamada de voz e gerenciar permissões de microfone. | `XX%` | *[Adicionar observação]* |
+| **OBJ-03** | Utilizar a busca avançada para encontrar uma mensagem específica. | `XX%` | *[Adicionar observação]* |
+
+
+# Relatório de Avaliação de Usabilidade
+
+Este documento resume os principais problemas de usabilidade identificados através de uma avaliação heurística e testes com usuários. O objetivo é priorizar as correções que trarão maior impacto para a experiência do usuário e a eficiência da plataforma.
+
+## Visão Geral
+
+A avaliação revelou pontos de atrito significativos que afetam a navegação, a prevenção de erros e a eficiência em tarefas comuns e administrativas. Embora a funcionalidade principal da aplicação esteja presente, a experiência do usuário pode ser drasticamente melhorada.
+
+Os problemas foram agrupados em três categorias principais de impacto:
+
+* **🔴 Crítico:** Questões que levam a erros graves, perda de dados ou grande frustração.
+* **🟡 Moderado:** Dificuldades que tornam os fluxos de trabalho ineficientes e pouco intuitivos.
+* **🟢 Menor:** Inconsistências ou problemas estéticos que afetam a qualidade da interface.
+
+---
+
+## Recomendações Prioritárias
+
+Com base no impacto, as seguintes ações são recomendadas como prioritárias:
+
+1.  **Implementar Confirmações para Ações Destrutivas:** Adicionar diálogos de confirmação para iniciar chamadas (`L-02`), descartar alterações (`L-03`) e, principalmente, deletar canais (`L-09`) para prevenir perda de dados.
+2.  **Reestruturar as Configurações:** A organização confusa (`L-10`) é uma barreira constante. A implementação de uma busca global nas configurações é a correção de maior impacto.
+3.  **Melhorar o Feedback Visual do Sistema:** Garantir que o usuário sempre saiba o que está acontecendo, com indicadores de upload visíveis (`L-06`), feedback claro em testes de microfone (`L-05`) e ícones de status inequívocos (`L-11`).
+4.  **Simplificar Ferramentas Avançadas:** Tornar recursos poderosos, como a busca avançada (`L-08`) e o gerenciamento de cargos (`L-07`), acessíveis através de interfaces gráficas, em vez de exigir que o usuário memorize comandos ou realize tarefas repetitivas.
+
+---
+
+## Tabela Detalhada de Problemas
+
+A tabela abaixo detalha cada um dos problemas identificados durante a avaliação.
+
+| ID | Localização (Tela/Fluxo) | Problema (Resumo) | Heurística | Recomendação de Correção | Benefício Esperado |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **L-01** | Criação de Servidor | A opção de pular modelo é pouco visível. | 8 | Transformar "Pular" em um botão secundário para aumentar contraste e área de clique. | Aumenta a clareza da interface e melhora a acessibilidade. |
+| **L-02** | Cabeçalho do Canal | Chamada de voz iniciada sem confirmação. | 5 | Adicionar um pop-up de confirmação ao clicar no ícone de chamada. | Reduz significativamente o número de chamadas acidentais. |
+| **L-03** | Editar Mensagem | Perda de alterações ao pressionar "Esc". | 3 | Exibir um diálogo para confirmar o descarte das alterações. | Previne perda de trabalho e frustração do usuário. |
+| **L-04** | Lista de Membros | Lista de membros visualmente poluída. | 8 | Oferecer um "modo simples" sem as cores dos cargos. | Melhora a legibilidade e a velocidade de busca. |
+| **L-05** | Config. -> Voz e Vídeo | Feedback insuficiente no teste de microfone. | 1 | Adicionar mensagem de texto ("Gravando...") e um "beep" ao final. | Aumenta a confiança do usuário e a acessibilidade. |
+| **L-06** | Upload de Arquivo | Progresso de upload com baixa visibilidade. | 1 | Manter um indicador de progresso global em um local fixo da interface. | Garante que o usuário tenha feedback contínuo do sistema. |
+| **L-07** | Config. do Servidor | Ausência de gerenciamento de cargos em lote. | 7 | Implementar checkboxes para atribuir cargos a múltiplos usuários. | Aumenta significativamente a eficiência para administradores. |
+| **L-08** | Barra de Busca | Sintaxe de busca avançada precisa ser memorizada. | 6, 10 | Adicionar um botão "Busca Avançada" com uma interface de filtros. | Torna o recurso acessível a todos os usuários. |
+| **L-09** | Menu do Canal | A exclusão de canal é permanente e irreversível. | 5 | Implementar uma "lixeira" para canais com restauração temporária. | Previne a perda catastrófica e irreversível de dados. |
+| **L-10** | Menus de Configuração | A divisão de configurações é confusa. | 4 | Reorganizar os menus e adicionar uma busca global de configurações. | Reduz o tempo gasto para encontrar configurações específicas. |
+| **L-11** | Canal de Voz | Os ícones de status (silenciado/ensurdecido) são ambíguos. | 1 | Redesenhar os ícones para que a diferença seja mais óbvia. | Melhora a comunicação não-verbal e o entendimento do status. |
+
+# Análise Heurística de Usabilidade do Discord
+
+Este relatório consolida os resultados de uma avaliação de usabilidade realizada por múltiplos inspetores. O objetivo é identificar os principais pontos de atrito na experiência do usuário do Discord, agrupar os problemas recorrentes e propor recomendações de melhoria.
+
+## Resumo dos Problemas Mais Críticos
+
+A análise revelou padrões claros de problemas que foram identificados por quase todos os inspetores. As áreas mais críticas são:
+
+* **Prevenção de Erros:** Ações importantes e disruptivas, como iniciar chamadas ou deletar canais, não possuem salvaguardas adequadas, levando a ações acidentais.
+* **Visibilidade e Feedback:** O sistema falha em comunicar o status de operações em andamento (como uploads) e em fornecer feedback claro sobre o estado dos usuários (ícones de status).
+* **Curva de Aprendizado:** Funções poderosas como a Busca Avançada e a formatação de texto dependem da memorização de sintaxe, excluindo usuários menos técnicos e aumentando a carga cognitiva.
+
+---
+
+## Detalhamento dos Problemas e Recomendações
+
+A seguir, a lista consolidada de todos os problemas de usabilidade identificados, agrupados por similaridade.
+
+### 🔴 Problema 1: Início de Chamada de Voz sem Confirmação
+* **Localização:** Canal de Texto -> Cabeçalho -> Ícone de Chamada.
+* **Descrição:** Um clique único no ícone de chamada de voz inicia uma chamada imediatamente. Esta é uma ação disruptiva que, segundo os inspetores, é muito fácil de ser acionada por engano, atrapalhando conversas e atividades.
+* **Heurística Violada:** 5. Prevenção de erros.
+* **Identificado por:** A1-D02, A2-D03, A4-D02.
+* **Recomendação:** Implementar um diálogo de confirmação simples ("Deseja iniciar uma chamada de voz neste canal?") ao clicar no ícone.
+
+### 🔴 Problema 2: Exclusão de Canal Permanente
+* **Localização:** Config. do Servidor -> Menu do Canal.
+* **Descrição:** Se um administrador deleta um canal, mesmo que acidentalmente, a ação é permanente e irreversível. Não há uma "lixeira" ou um período de carência para desfazer a ação.
+* **Heurística Violada:** 5. Prevenção de erros.
+* **Identificado por:** A3-D04.
+* **Recomendação:** Criar uma funcionalidade de "lixeira" onde canais excluídos permaneçam por um tempo determinado (ex: 7 dias) antes da exclusão permanente, permitindo a restauração.
+
+### 🟡 Problema 3: Opção "Pular" com Baixa Visibilidade
+* **Localização:** Criação de Servidor -> Escolha de Template.
+* **Descrição:** O botão para "Pular esta questão" é um texto cinza de baixo contraste, parecendo mais um rodapé do que uma ação. Isso faz o usuário pensar que a escolha de um template é obrigatória e o força a tomar uma decisão sem entender seu impacto.
+* **Heurística Violada:** 8. Estética e design minimalista.
+* **Identificado por:** A1-D01, A3-D01, A5-D01.
+* **Recomendação:** Transformar o texto "Pular" em um botão secundário (com contorno e sem preenchimento) para aumentar sua visibilidade e área de clique.
+
+### 🟡 Problema 4: Progresso de Upload não Persistente
+* **Localização:** Canal de Texto -> Upload de Arquivo.
+* **Descrição:** A barra de progresso de um upload fica restrita à caixa de texto. Se o usuário rolar a conversa ou mudar de canal, ele perde completamente a visibilidade do andamento, gerando incerteza.
+* **Heurística Violada:** 1. Visibilidade do status do sistema.
+* **Identificado por:** A2-D02, A3-D03.
+* **Recomendação:** Implementar um indicador de progresso global em um local fixo da interface (canto inferior, por exemplo) que permaneça visível durante todos os uploads ativos.
+
+### 🟡 Problema 5: Busca Avançada Dependente de Memorização
+* **Localização:** Qualquer Canal -> Barra de Busca.
+* **Descrição:** Para usar filtros de busca avançada (ex: `from:`, `in:`, `has:`), o usuário precisa memorizar a sintaxe. Não há uma interface gráfica que o auxilie, o que torna o recurso inacessível e força a busca por guias externos.
+* **Heurísticas Violadas:** 6. Reconhecimento em vez de memorização; 10. Ajuda e documentação.
+* **Identificado por:** A3-D02, A5-D02.
+* **Recomendação:** Adicionar um botão "Busca Avançada" que abra um formulário com campos intuitivos para cada filtro, eliminando a necessidade de memorização.
+
+### 🟡 Problema 6: Perda de Trabalho ao Editar com "Esc"
+* **Localização:** Canal de Texto -> Editar Mensagem.
+* **Descrição:** Ao editar uma mensagem, pressionar a tecla "Esc" descarta todas as alterações instantaneamente e sem aviso. Embora seja um atalho útil para alguns, causa perda de trabalho para usuários que o pressionam por engano.
+* **Heurística Violada:** 3. Controle e liberdade para o usuário.
+* **Identificado por:** A1-D03, A4-D03.
+* **Recomendação:** Ao pressionar "Esc" durante a edição, exibir um micro-diálogo de confirmação perguntando se o usuário deseja "Descartar alterações".
+
+### 🟢 Problema 7: Falta de Feedback no Teste de Microfone
+* **Localização:** Configurações do Usuário -> Voz e Vídeo.
+* **Descrição:** O teste de microfone não informa o que fará com a gravação, gerando desconfiança. Além disso, o feedback é apenas visual, excluindo usuários com deficiência visual.
+* **Heurística Violada:** 1. Visibilidade do status do sistema.
+* **Identificado por:** A2-D01, A4-D01.
+* **Recomendação:** Adicionar um texto explicativo ("Gravaremos 3s do seu áudio e o reproduziremos para você") e um feedback sonoro (um "beep" no início e no fim da gravação).
+
+### 🟢 Problema 8: Ícones de Status Ambíguos
+* **Localização:** Canal de Voz -> Ícones de status.
+* **Descrição:** Os ícones para "silenciado" (microfone cortado) e "ensurdecido" (fone cortado) são visualmente muito semelhantes. Isso pode confundir o usuário, que não entende por que não consegue ouvir os outros.
+* **Heurística Violada:** 1. Visibilidade do status do sistema.
+* **Identificado por:** A5-D04.
+* **Recomendação:** Redesenhar os ícones para aumentar a diferenciação visual entre microfone e fone de ouvido de forma mais clara.
+
+### 🟢 Problema 9: Outros Pontos de Melhoria
+| ID | Localização | Descrição do Problema | Heurística Violada |
+| :--- | :--- | :--- | :--- |
+| **A1-D04** | Lista de Membros | Muitas cores de cargos poluem a lista e dificultam a busca por nomes. | 8. Estética e design minimalista |
+| **A2-D04** | Config. do Servidor -> Cargos | Não há gerenciamento de cargos em lote, tornando a administração ineficiente. | 7. Flexibilidade e eficiência de uso |
+| **A4-D04** | Caixa de Chat | A formatação de texto exige conhecimento de Markdown, sem botões de ajuda. | 6. Reconhecimento em vez de memorização |
+| **A5-D03** | Menus de Configuração | A separação entre "Config. do Usuário" e "Config. do Servidor" é confusa. | 4. Consistência e padrões |
