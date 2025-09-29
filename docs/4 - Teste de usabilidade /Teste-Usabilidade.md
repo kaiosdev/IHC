@@ -1,10 +1,10 @@
 # Relatório de Usabilidade: Discord 249.3 - Alpha
 
-**Data do Relatório:** 29 de setembro de 2025
+**Data do Relatório:** xx de setembro de 2025
 
 ## Resumo Executivo
 
-Este relatório detalha os resultados dos testes de usabilidade conduzidos com a versão `249.3 - Alpha` do **Discord**. O software foi classificado como **"Não Aceitável"**, atingindo uma pontuação SUS preliminar de **40**. As principais barreiras identificadas incluem uma curva de aprendizado acentuada para usuários de plataformas concorrentes (como Slack e Teams), baixa visibilidade de funções essenciais e feedback de sistema inadequado durante operações críticas.
+Este relatório detalha os resultados dos testes de usabilidade conduzidos com a versão `249.3 - Alpha` do **Discord**. O software foi classificado como **"Não Aceitável"**, atingindo uma pontuação SUS preliminar de **xx**. As principais barreiras identificadas incluem uma curva de aprendizado acentuada para usuários de plataformas concorrentes (como Slack e Teams), baixa visibilidade de funções essenciais e feedback de sistema inadequado durante operações críticas.
 
 ---
 
