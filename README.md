@@ -29,6 +29,8 @@ O objetivo central é identificar falhas de usabilidade e comunicabilidade, prop
 
 ## Estrutura do Trabalho
 
+[**Acesso ao Notion**](https://www.notion.so/27c2667c527180268521fda1bb72b8e1?v=27c2667c52718153b836000cf31abb9e&source=copy_link)
+
 ### 1. Apresentação do Grupo e Distribuição das Tarefas
 **Descrição:** Apresentação formal dos membros da equipe e definição das responsabilidades individuais no desenvolvimento do projeto.
 
