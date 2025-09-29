@@ -1,7 +1,9 @@
-Problemas Durante as Quatro Avaliações
+Desafios Durante as Quatro Avaliações
 
-O principal problema foi a experiência do usuário. Especificamente, foi sobre como os usuários navegavam e utilizavam a interface. Por exemplo, as tarefas eram às vezes complexas, o que deixava os usuários mentalmente cansados. Eles acharam as tarefas no Discord difíceis e cansativas. Isso foi um problema para mim como avaliadora, porque dificultou a realização das tarefas pelos participantes. Também a dificuldade e o cansaço se refletiram na fase de coleta de dados. Os usuários hesitaram em responder ao formulário ou às perguntas abertas após realizarem as tarefas.
+O principal desafio foi a experiência do usuário. Especificamente, foi sobre como os usuários navegavam e utilizavam a interface. Por exemplo, as tarefas eram às vezes complexas, o que deixava os usuários mentalmente cansados. Eles acharam as tarefas no Discord difíceis e cansativas. Isso foi um problema para mim como avaliadora, porque dificultou a realização das tarefas pelos participantes. Também a dificuldade e o cansaço se refletiram na fase de coleta de dados. Os usuários hesitaram em responder ao formulário ou às perguntas abertas após realizarem as tarefas.
+
 Lições Sobre Métodos e Ferramentas
+
 O processo de avaliação me ajudou a aprender mais sobre os métodos e ferramentas utilizados na Interação Humano-Computador (IHC). Mostrou como é importante ver tudo do ponto de vista do usuário em cada etapa. Como por exemplo:
 Foco na usabilidade e acessibilidade: Aprendi que tornar um sistema acessível e fácil de usar é muito importante. Os problemas enfrentados pelos usuários mostraram que a acessibilidade não é opcional. É um requisito básico que afeta o quão fácil e satisfatório o sistema é.
 Funcionalidades centradas no usuário: Percebi como os métodos e ferramentas colocam o usuário no centro do desenvolvimento do sistema. Observar como os usuários interagiam confirmou que a escolha dos métodos de avaliação (como o think-aloud ou testes de usabilidade) precisa ser feita com cuidado. Isso ajuda a obter insights úteis mesmo em situações difíceis.
