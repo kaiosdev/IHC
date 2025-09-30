@@ -1,14 +1,9 @@
-Nota-se que o traba
+Nota-se que o trabalho de mais exigido se dá em muita alta dificuldade principalmente pela própria aplicação se encontra com muitas defici~encias
 Diagnóstico Crítico & Rota de Correção
 A versão Alpha do Discord (249.3) apresenta uma experiência de usuário inaceitável, confirmada por uma pontuação de usabilidade crítica de 40 (SUS). O estado atual representa um risco significativo para a adoção e retenção de usuários.
-
 A análise revela três falhas fundamentais que comprometem o produto:
-
 Alta Fricção para Novos Usuários: A quebra de padrões de mercado cria uma barreira de entrada íngreme, arriscando a perda imediata de usuários que migram de plataformas concorrentes.
-
 Erosão da Confiança: A falta de feedback visual claro sobre ações em andamento (como uploads) gera incerteza e mina a confiança do usuário na estabilidade e confiabilidade da plataforma.
-
 Baixo Engajamento com Recursos-Chave: As funcionalidades mais poderosas do Discord são inacessíveis para o usuário comum, resultando em baixo engajamento e uma percepção de valor reduzida do produto.
-
 Diretriz Estratégica:
 A recomendação é congelar o desenvolvimento de novas features e executar um sprint de emergência focado exclusivamente em refinar a usabilidade central. O objetivo é transformar a experiência de "frustrante" para "intuitiva", garantindo a retenção de usuários e a competitividade do produto no lançamento.
