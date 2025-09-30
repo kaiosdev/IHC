@@ -80,7 +80,7 @@ O objetivo central é identificar falhas de usabilidade e comunicabilidade, prop
 
 **Escopo:** Análise crítica dos métodos aplicados, principais descobertas e contribuições para o campo de IHC.
 
-[**Acessar Documentação**](https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/7%20-%20conclus%C3%B5es%20e%20Reflex%C3%B5es%20sobre%20o%20Aprendizado)
+[**Acessar Documentação**](https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/7%20-%20conclus%C3%B5es%20e%20Reflex%C3%B5es%20sobre%20o%20AprendizadO)
 
 ## Metodologia de Avaliação
 
