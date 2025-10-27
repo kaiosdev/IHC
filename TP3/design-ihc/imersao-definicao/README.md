@@ -12,13 +12,10 @@
 6. MoSCoW  
 
 ## Equipe
-- Pessoa 1 – Briefing  
-- Pessoa 2 – Matriz CSD  
-- Pessoa 3 – Benchmarking  
-- Pessoa 4 – Personas  
-- Pessoa 5 – Jornadas do Usuário  
-- Pessoa 6 – Integração e MoSCoW  
+- Kaio Sobral – Briefing  
+- Gustavo Souza – Matriz CSD  
+- Jean Baraúna – Benchmarking  
+- Iasmim Braga – Personas  
+- Pedro Jheivison – Jornadas do Usuário  
+- Geovanna Beathryz – Integração e MoSCoW  
 
-## Observações
-- Todos os arquivos e evidências seguem o modelo do professor.  
-- Apenas a Pessoa 6 realiza os commits finais.  
