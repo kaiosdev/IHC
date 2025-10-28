@@ -12,11 +12,6 @@
   * JEAN BARAÚNA 
   * ΚΑΙΟ SOBRAL
   * PEDRO JHEIVISON
-
-UNIVERSIDADE FEDERAL DO AMAZONAS
-INSTITUTO DE CIÊNCIAS EXATAS E TECNOLOGIA- ICET
-ITACOTIARA-AM 
-2025 
 -----
 
 ## Sumário
@@ -41,13 +36,13 @@ ITACOTIARA-AM
 
 -----
 
-Este trabalho tem como objetivo integrar conceitos de Interação Humano-Computador (IHC) e Aprendizado de Máquina (Machine Learning) para resolver um problema de classificação supervisionada[cite: 37]. [cite\_start]O foco é utilizar métricas de interação para prever a qualidade da usabilidade de um sistema, conforme proposto nos objetivos do projeto[cite: 38].
+Este trabalho tem como objetivo integrar conceitos de Interação Humano-Computador (IHC) e Aprendizado de Máquina (Machine Learning) para resolver um problema de classificação supervisionada[cite: 37]. [cite\_start]O foco é utilizar métricas de interação para prever a qualidade da usabilidade de um sistema, conforme proposto nos objetivos do projeto.
 
 ## 1\. Contexto e Motivação
 
-O problema de classificação foi formulado no contexto de um aplicativo hipotético chamado "Agenda Fácil", projetado para profissionais autônomos (como manicures, barbeiros e personal trainers) gerenciarem seus agendamentos de clientes[cite: 40]. [cite\_start]A principal proposta de valor do aplicativo é ser simples e eficiente, minimizando a chance de erros comuns em agendamentos manuais[cite: 41].
+O problema de classificação foi formulado no contexto de um aplicativo hipotético chamado "Agenda Fácil", projetado para profissionais autônomos (como manicures, barbeiros e personal trainers) gerenciarem seus agendamentos de clientes. A principal proposta de valor do aplicativo é ser simples e eficiente, minimizando a chance de erros comuns em agendamentos manuais.
 
-A motivação para este estudo é investigar se é possível treinar um modelo de machine learning para classificar automaticamente o nível de usabilidade de uma sessão de uso, com base em dados quantitativos da interação do usuário[cite: 42]. [cite\_start]Tal modelo poderia, no futuro, ajudar desenvolvedores a identificar pontos de atrito na interface e a validar melhorias de design de forma automatizada, prevendo se uma interação foi positiva ou negativa[cite: 43].
+A motivação para este estudo é investigar se é possível treinar um modelo de machine learning para classificar automaticamente o nível de usabilidade de uma sessão de uso, com base em dados quantitativos da interação do usuário. Tal modelo poderia, no futuro, ajudar desenvolvedores a identificar pontos de atrito na interface e a validar melhorias de design de forma automatizada, prevendo se uma interação foi positiva ou negativa.
 
 ## 2\. Atributos Preditores
 
