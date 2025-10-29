@@ -73,22 +73,22 @@ Cada valor representa uma avaliação da interação: Alta indica uma experiênc
 
 ## 5\. Descrição da Base Sintética
 
-[cite\_start]A base de dados utilizada neste trabalho, denominada `base_sintetica.arff`, foi gerada artificialmente para simular o comportamento de usuários no aplicativo "Agenda Fácil"[cite: 64]. [cite\_start]O objetivo foi criar um conjunto de dados controlado para treinar um modelo de Machine Learning capaz de classificar o nível de usabilidade de uma interação com base em métricas de desempenho[cite: 65]. [cite\_start]A geração foi guiada por um conjunto de regras explícitas, detalhadas na proposta do projeto[cite: 66].
+A base de dados utilizada neste trabalho, denominada `base_sintetica.arff`, foi gerada artificialmente para simular o comportamento de usuários no aplicativo "Agenda Fácil"[cite: 64]. [cite\_start]O objetivo foi criar um conjunto de dados controlado para treinar um modelo de Machine Learning capaz de classificar o nível de usabilidade de uma interação com base em métricas de desempenho[cite: 65]. [cite\_start]A geração foi guiada por um conjunto de regras explícitas, detalhadas na proposta do projeto[cite: 66].
 
-[cite\_start]A base de dados contém 200 instâncias e 6 atributos, sendo 5 atributos preditores e 1 atributo-alvo (a classe)[cite: 67]. Os atributos são descritos a seguir:
+A base de dados contém 200 instâncias e 6 atributos, sendo 5 atributos preditores e 1 atributo-alvo (a classe)[cite: 67]. Os atributos são descritos a seguir:
 
   * [cite\_start]**tempo\_agendar (Numérico):** Representa o tempo total, em segundos, que o usuário levou para concluir um agendamento[cite: 70].
   * [cite\_start]**passos\_concluir (Numérico):** Indica o número de cliques ou toques que o usuário realizou para finalizar a tarefa[cite: 71].
   * [cite\_start]**usou\_lista\_clientes (Nominal: {sim, nao}):** Informa se o usuário utilizou a lista de clientes pré-cadastrados, um recurso que otimiza o fluxo[cite: 72].
   * [cite\_start]**ativou\_lembrete (Nominal: {sim, nao}):** Verifica se o usuário ativou funcionalidades adicionais, como lembretes para o agendamento[cite: 73].
   * [cite\_start]**erros\_fluxo (Numérico):** Quantifica o número de erros cometidos pelo usuário durante o processo de agendamento[cite: 74].
-  * **nivel\_usabilidade (Nominal: {Alta, Media, Baixa}):** Este é o atributo-alvo (classe). [cite\_start]Ele classifica a interação do usuário em três níveis de usabilidade, com base nas regras de geração de dados[cite: 75, 76].
+  * **nivel\_usabilidade (Nominal: {Alta, Media, Baixa}):** Este é o atributo-alvo (classe). [cite\_start]Ele classifica a interação do usuário em três níveis de usabilidade, com base nas regras de geração de dados.
 
-[cite\_start]Esse conjunto de dados serve como alicerce para os experimentos, permitindo a aplicação de algoritmos de classificação para identificar padrões que se correlacionam com uma experiência de usuário positiva ou negativa[cite: 77].
+Esse conjunto de dados serve como alicerce para os experimentos, permitindo a aplicação de algoritmos de classificação para identificar padrões que se correlacionam com uma experiência de usuário positiva ou negativa.
 
 ## 6\. Descrição dos Experimentos no Weka
 
-[cite\_start]Nesta etapa, foi utilizada a ferramenta Weka Explorer para a análise exploratória e experimental da base de dados `base_sintetica.arff`[cite: 79].
+Nesta etapa, foi utilizada a ferramenta Weka Explorer para a análise exploratória e experimental da base de dados `base_sintetica.arff`.
 
 ### 6.1 Análise Visual dos Dados
 
@@ -189,14 +189,13 @@ O IBk é um classificador baseado em instâncias. [cite\_start]Foi utilizado com
 | IBk (KNN) | 98,48% | 65/66 |
 | J48 | 100% | 66/66 |
 | Naive Bayes | 100% | 66/66 |
-[cite\_start][cite: 149]
 
 ## 8\. Análise do Modelo da Árvore de Decisão (J48)
 
-[cite\_start]Uma das principais vantagens do algoritmo J48 é a alta interpretabilidade do seu modelo[cite: 151]. [cite\_start]A árvore de decisão gerada revela um conjunto de regras hierárquicas e claras que o algoritmo "descobriu" a partir dos dados, fornecendo insights valiosos sobre a relação entre os atributos e o nível de usabilidade[cite: 152].
+Uma das principais vantagens do algoritmo J48 é a alta interpretabilidade do seu modelo[cite: 151]. [cite\_start]A árvore de decisão gerada revela um conjunto de regras hierárquicas e claras que o algoritmo "descobriu" a partir dos dados, fornecendo insights valiosos sobre a relação entre os atributos e o nível de usabilidade[cite: 152].
 
 **O Fator Decisivo: Tempo na Tarefa (tempo\_agendar)**
-[cite\_start]A raiz da árvore, e portanto o atributo mais importante, é o `tempo_agendar`[cite: 153]. O modelo aprendeu um limiar crítico de 120 segundos. [cite\_start]Se o tempo para concluir a tarefa excede esse valor, a usabilidade é incondicionalmente classificada como Baixa[cite: 154]. [cite\_start]Isso demonstra que, no contexto do sistema avaliado, a eficiência é o principal pilar da percepção de usabilidade[cite: 155].
+A raiz da árvore, e portanto o atributo mais importante, é o `tempo_agendar`[cite: 153]. O modelo aprendeu um limiar crítico de 120 segundos. [cite\_start]Se o tempo para concluir a tarefa excede esse valor, a usabilidade é incondicionalmente classificada como Baixa[cite: 154]. [cite\_start]Isso demonstra que, no contexto do sistema avaliado, a eficiência é o principal pilar da percepção de usabilidade[cite: 155].
 
 **O Diferencial para a Qualidade: Ausência de Erros (erros\_fluxo)**
 [cite\_start]Para tarefas concluídas em tempo aceitável (\<= 120 segundos), o fator determinante para a qualidade da experiência passa a ser a ocorrência de erros[cite: 157, 159]. O modelo aprendeu que:
@@ -204,53 +203,53 @@ O IBk é um classificador baseado em instâncias. [cite\_start]Foi utilizado com
   * [cite\_start]Se o usuário comete pelo menos um erro (\> 0), a usabilidade é classificada como Média[cite: 160].
   * [cite\_start]Apenas quando a tarefa é concluída de forma eficiente e sem nenhum erro (\<= 0) a usabilidade atinge o nível Alta[cite: 161].
 
-[cite\_start]As regras extraídas da árvore de decisão validam empiricamente conceitos fundamentais de Interação Humano-Computador[cite: 162]. [cite\_start]O modelo confirmou que uma boa usabilidade é uma função direta da eficiência (baixo tempo para completar a tarefa) e da eficácia (ausência de erros)[cite: 163]. [cite\_start]A clareza do modelo J48 não só resultou em uma acurácia perfeita, mas também forneceu uma explicação lógica e alinhada com a teoria de IHC para o problema de classificação proposto[cite: 164].
+As regras extraídas da árvore de decisão validam empiricamente conceitos fundamentais de Interação Humano-Computador[cite: 162]. [cite\_start]O modelo confirmou que uma boa usabilidade é uma função direta da eficiência (baixo tempo para completar a tarefa) e da eficácia (ausência de erros)[cite: 163]. [cite\_start]A clareza do modelo J48 não só resultou em uma acurácia perfeita, mas também forneceu uma explicação lógica e alinhada com a teoria de IHC para o problema de classificação proposto[cite: 164].
 
 ## 9\. Resultados (tabelas, matrizes de confusão, prints de tela)
 
 #### Figura 1 - Aba "Visualize"
+<img width="892" height="688" alt="Captura de tela 2025-10-28 195730" src="https://github.com/user-attachments/assets/31e12011-6949-43ff-baeb-774de27605da" />
 
-[cite\_start][cite: 167]
-*(Arraste a imagem `Figura 1.png` para cá)*
+
 
 #### Figura 2 - Gráfico de Dispersão: tempo\_agendar
 
-[cite\_start][cite: 179]
-*(Arraste a imagem `Figura 2.png` para cá)*
+<img width="901" height="658" alt="Captura de tela 2025-10-28 195912" src="https://github.com/user-attachments/assets/a893653b-aedb-4bad-8325-31898e63b964" />
+
 
 #### Figura 3 - Gráfico de Dispersão: passos\_concluir
 
-[cite\_start][cite: 199]
-*(Arraste a imagem `Figura 3.png` para cá)*
+<img width="900" height="707" alt="Captura de tela 2025-10-28 200041" src="https://github.com/user-attachments/assets/91d0025d-81c0-44bd-8f1f-e494e1aabbf7" />
+
 
 #### Figura 4 - ZeroR (Baseline)
+<img width="919" height="744" alt="Captura de tela 2025-10-28 200213" src="https://github.com/user-attachments/assets/b79d83d6-985f-41cc-9896-38e343c3ad1c" />
 
-[cite\_start][cite: 221]
-*(Arraste a imagem `Figura 4.png` para cá)*
+
 
 #### Figura 5 - OneR (Baseline)
+<img width="910" height="731" alt="Captura de tela 2025-10-28 200256" src="https://github.com/user-attachments/assets/70da1670-20b6-4ee2-9e35-f3109d5a6975" />
 
-[cite\_start][cite: 301]
-*(Arraste a imagem `Figura 5.png` para cá)*
+
 
 #### Figura 6 - Algoritmo Naive Bayes
+<img width="913" height="700" alt="Captura de tela 2025-10-28 200345" src="https://github.com/user-attachments/assets/3efd59e3-725b-418f-98d6-99b15025e21d" />
 
-[cite\_start][cite: 379]
-*(Arraste a imagem `Figura 6.png` para cá)*
 
 #### Figura 7 - Algoritmo IBk (k-NN)
 
-[cite\_start][cite: 462]
-*(Arraste a imagem `Figura 7.png` para cá)*
+<img width="871" height="712" alt="Captura de tela 2025-10-28 200435" src="https://github.com/user-attachments/assets/7e228fc1-fe5f-4717-8834-194858366446" />
+
 
 #### Figura 8 - J48 (Árvore de Decisão)
 
-[cite\_start][cite: 537]
-*(Arraste a imagem `Figura 8.png` para cá)*
+
+<img width="833" height="592" alt="J48" src="https://github.com/user-attachments/assets/f7ccb22d-c7ca-47a8-85bb-d5d042df6a9d" />
+
 
 ## 10\. Análise crítica dos resultados em relação ao domínio de IHС
 
-[cite\_start]A análise comparativa do desempenho dos modelos no conjunto de teste (66 instâncias) revelou uma alta previsibilidade dos dados, permitindo extrair conclusões significativas sobre a avaliação da experiência do usuário no domínio de IHC aplicado ao sistema "Agenda Fácil"[cite: 554].
+A análise comparativa do desempenho dos modelos no conjunto de teste (66 instâncias) revelou uma alta previsibilidade dos dados, permitindo extrair conclusões significativas sobre a avaliação da experiência do usuário no domínio de IHC aplicado ao sistema "Agenda Fácil"[cite: 554].
 
   * [cite\_start]**ZeroR (Baseline):** Atingiu apenas 46,97% de acurácia[cite: 555]. [cite\_start]Como esperado, ele classificou todas as instâncias de teste como a classe majoritária, "Media"[cite: 555]. [cite\_start]Isso define a linha de base: qualquer modelo útil deve superar esse valor[cite: 556].
   * [cite\_start]**OneR (Baseline):** Demonstrou um salto significativo, alcançando 98,48% de acurácia[cite: 557]. [cite\_start]Ele errou apenas 1 das 66 instâncias, indicando que um único atributo (provavelmente `tempo_agendar` ou `erros_fluxo`) era um preditor muito forte[cite: 558].
