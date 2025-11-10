@@ -57,7 +57,7 @@ Abaixo estão as informações coletadas durante a conversa com o cliente:
 
 ---
 
-### Evidência
+
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1O2HenYvlhc5q1pcWMyFRn6SDbWzmWgp_" width="70%">
   <p> evidência visual dos principais pontos discutidos durante o Briefing, demonstrando o alinhamento e planejamento estratégico da equipe.
