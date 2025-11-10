@@ -1,7 +1,7 @@
 # TP3 - Parte 1: Imersão e Definição
 ## 1. Briefing com o Cliente
 
-O objetivo desta etapa é realizar um briefing com o cliente para identificar e definir o escopo da demanda do projeto [cite: 4][cite_start], que deve ser baseada em um problema real.
+O objetivo desta etapa é realizar um briefing com o cliente para identificar e definir o escopo da demanda do projeto baseada em um problema real.
 
 ---
 
