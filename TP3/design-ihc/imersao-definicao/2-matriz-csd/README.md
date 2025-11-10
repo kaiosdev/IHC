@@ -1,5 +1,5 @@
 # Matriz CSD - Sistema de Gerenciamento de Projetos Acadêmicos UFAM- ICET
-**Data da Reunião:** 09/11/2025
+**Data da Reunião:** 07/11/2025
 **Cliente:** Prof. Dr. Victor Celso
 
 | CERTEZAS| SUPOSIÇÕES | DÚVIDAS |
@@ -13,5 +13,5 @@
 | Templates pré-formatados da UFAM. | Integração com e-Campus é tecnicamente viável. | Restrições de segurança/LGPD da integração? |
 | Feed de atualizações de editais. | | Uma funcionalidade de "contatos úteis" seria válida? |
 | Projetos podem ser relacionados entre si. | | Como funcionam as notificações de aprovação hoje? |
-
-### Evidência
+---
+### Evidência da Reunião
