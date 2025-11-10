@@ -2,7 +2,7 @@
 **Data da Reunião:** 09/11/2025
 **Cliente:** Prof. Dr. Victor Celso
 
-| 📊 CERTEZAS | 🤔 SUPOSIÇÕES | ❓ DÚVIDAS |
+| CERTEZAS | SUPOSIÇÕES | DÚVIDAS |
 | :--- | :--- | :--- |
 | Interface deve ser prática, dinâmica e simples. | Orientandos também teriam acesso (secundário). | Quais são exatamente os sites das pró-reitorias? |
 | Foco no acompanhamento pós-aprovação. | Professores têm boa familiaridade tecnológica. | Detalhes técnicos da integração com e-Campus? |
