@@ -1,6 +1,6 @@
 ## TP3-IHC - Parte 1: Imersão e Definição
 
-### 1. Briefing com o Cliente
+### Briefing com o Cliente
 
 O primeiro passo do trabalho foi a realização de um *briefing* com o cliente para identificar e definir o escopo da demanda.
 
