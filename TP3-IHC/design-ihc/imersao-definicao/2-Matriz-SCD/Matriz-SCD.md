@@ -15,5 +15,5 @@ A matriz construída pela equipe foi a seguinte:
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1a7NX6mCmLLov9DRWuJgqq2WNF3Ct4Zhb" width="70%">
-  <p> evidência visual dos principais pontos discutidos durante o Briefing, demonstrando o alinhamento e planejamento estratégico da equipe.
-
+  <p><i>Registro da reunião de equipe durante a construção da Matriz CSD (Certezas, Suposições e Dúvidas). O grupo discutiu coletivamente as percepções sobre o projeto, identificando pontos consolidados, hipóteses a validar e aspectos que ainda requerem esclarecimento. Essa etapa foi fundamental para alinhar o entendimento entre os participantes e direcionar as próximas fases do desenvolvimento da solução.</i></p>
+</div>
