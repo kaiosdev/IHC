@@ -57,6 +57,7 @@ Abaixo estão as informações coletadas durante a conversa com o cliente:
 
 ---
 
-### Evidência Obrigatória
+### Evidência 
+!Foto do Briefing com o Cliente (Briefing.jpg)
 
-*Foto da reunião com o cliente (presencial ou online).*
+
