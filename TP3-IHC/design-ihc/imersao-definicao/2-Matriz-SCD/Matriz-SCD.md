@@ -13,8 +13,7 @@ A matriz construída pela equipe foi a seguinte:
 | As ferramentas genéricas (Trello, Notion) causam **retrabalho de adaptação**. | | |
 
 
-### Evidência 
-
-
-![evidencia matriz](https://github.com/user-attachments/assets/6f6ac69c-e77e-4f64-b9e2-cf471d50ae75)
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1a7NX6mCmLLov9DRWuJgqq2WNF3Ct4Zhb" width="70%">
+  <p> evidência visual dos principais pontos discutidos durante o Briefing, demonstrando o alinhamento e planejamento estratégico da equipe.
 
