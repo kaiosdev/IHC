@@ -1,4 +1,4 @@
-## [TP3-IHC] - Parte 1: Imersão e Definição
+## TP3-IHC - Parte 1: Imersão e Definição
 
 ### 1. Briefing com o Cliente
 
