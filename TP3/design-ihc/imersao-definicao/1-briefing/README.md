@@ -5,9 +5,10 @@ O objetivo desta etapa é realizar um briefing com o cliente para identificar e 
 
 ---
 
-### 👤 Cliente Entrevistado
+### Cliente Entrevistado
 
 **Nome:** Victor Celso
+
 **Ocupação:** O cliente é Farmacêutico, com Mestrado e Doutorado em Farmacologia. Atualmente, atua como Professor de Farmácia na Universidade Federal do Amazonas (UFAM), onde gerencia diversos projetos de pesquisa e extensão com os alunos.
 A demanda surgiu da sua necessidade de automatizar e otimizar o gerenciamento desses projetos acadêmicos. Ele busca uma solução que atenda a essa demanda real. 
 
