@@ -55,7 +55,7 @@ O primeiro passo do trabalho foi a realização de um *briefing* com o cliente p
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1O2HenYvlhc5q1pcWMyFRn6SDbWzmWgp_" width="70%">
-  <p><i>Evidência visual dos principais pontos discutidos durante o Briefing, demonstrando o alinhamento e planejamento estratégico da equipe.</i></p>
+  <p><i>Registro do briefing realizado com o cliente, momento em que foram levantadas as principais necessidades, objetivos e expectativas em relação ao projeto. Durante a reunião, coletou-se informações sobre o contexto de uso, identificou problemas atuais e discutiu possíveis soluções, garantindo o alinhamento entre as demandas do cliente e as propostas de desenvolvimento.</i></p>
 </div>
 
 
