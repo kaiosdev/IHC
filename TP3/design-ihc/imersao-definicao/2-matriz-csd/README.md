@@ -1,7 +1,7 @@
 # Matriz CSD - Sistema de Gerenciamento de Projetos Acadêmicos UFAM
 
 **Data da Reunião:** 07/11/2025
-**Cliente:** Prof. Dr. Victor Celso (Farmacologia - UFAM)
+**Cliente:** Prof. Dr. Victor Celso 
 
 ---
 
