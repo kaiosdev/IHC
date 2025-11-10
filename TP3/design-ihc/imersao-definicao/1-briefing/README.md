@@ -58,6 +58,6 @@ Abaixo estão as informações coletadas durante a conversa com o cliente:
 ---
 
 ### Evidência 
-! [Foto do Briefing com o Cliente](briefing.jpg)
+! [Foto do Briefing com o Cliente](./7-evidencias/briefing.jpg)
 
 
