@@ -3,7 +3,7 @@
 **Cliente:** Prof. Dr. Victor Celso
 
 | CERTEZAS| SUPOSIÇÕES | DÚVIDAS |
-| :--- | :---: | :---: |
+| :---: | :---: | :---: |
 | Interface deve ser prática, dinâmica e simples. | Orientandos também teriam acesso (secundário). | Quais são exatamente os sites das pró-reitorias? |
 | Foco no acompanhamento pós-aprovação. | Professores têm boa familiaridade tecnológica. | Detalhes técnicos da integração com e-Campus? |
 | Atende múltiplos tipos de projetos (PIBIC, PACE...). | Uso: Mobile (consulta), Desktop (gestão). | Quais os campos das planilhas Excel atuais? |
