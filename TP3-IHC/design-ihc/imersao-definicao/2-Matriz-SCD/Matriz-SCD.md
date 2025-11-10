@@ -5,11 +5,11 @@ Após o briefing com o Professor Victor Celso, a equipe se reuniu para organizar
 A matriz construída pela equipe foi a seguinte:
 
 | CERTEZAS (C) | SUPOSIÇÕES (S) | DÚVIDAS (D) |
-| :--- | :--- | :--- |
-| O usuário principal é o **professor/orientador**. | *Supomos* que outros professores da UFAM têm a mesma dor de "adaptar" ferramentas genéricas. (O Prof. Victor acha que sim, mas é a visão de um usuário). | Quais são *exatamente* os campos/etapas de um "projeto PIBIC" vs. "projeto PACE" que precisam ser "pré-setados"? |
-| O problema central é a **falta de uma ferramenta específica** para a gestão de projetos da UFAM. | *Supomos* que a interface para o aluno/orientando **não** é prioritária para o MVP (Produto Mínimo Viável). | A integração de *envio* de dados para o E-campus é tecnicamente viável? (O professor deseja, mas não sabemos se os sistemas da UFAM permitem). |
-| Os sistemas atuais (E-campus, SEI) **não servem** para o acompanhamento da evolução dos projetos. | *Supomos* que é tecnicamente viável "raspar" (scraping) os dados dos sites das 3+ Pró-Reitorias para alimentar o feed de editais. | O que é mais importante para o professor: o acompanhamento de projetos existentes ou o feed de novos editais? (Ele se animou com os dois). |
-| O professor precisa de **portabilidade** (acesso no celular e no notebook). | *Supomos* que o "controle de presença" de um aluno de PIBIC/PIBID é mais simples (ex: um check-in semanal) do que um controle de aula diário. | Como funciona na prática o "compêndio de normas"? Quais são as 5 leis/normas mais cruciais que ele precisa ter à mão?. |
+| :---: | :---: | :---: |
+| O usuário principal é o **professor/orientador**. | Outros professores da UFAM têm a mesma dificuldade de "adaptar" ferramentas genéricas.| Quais são *exatamente* os campos/etapas de um "projeto PIBIC" vs. "projeto PACE" que precisam ser "pré-setados"? |
+| O problema central é a **falta de uma ferramenta específica** para a gestão de projetos da UFAM. | A interface para o aluno/orientando **não** é prioritária para o MVP (Produto Mínimo Viável). | A integração de *envio* de dados para o E-campus é tecnicamente viável? (O professor deseja, mas não sabemos se os sistemas da UFAM permitem). |
+| Os sistemas atuais (E-campus, SEI) **não servem** para o acompanhamento da evolução dos projetos. | É tecnicamente viável fazer um scraping nos dados dos sites das 3+ Pró-Reitorias para alimentar o feed de editais. | O que é mais importante para o professor: o acompanhamento de projetos existentes ou o feed de novos editais?. |
+| O professor precisa de **portabilidade** (acesso no celular e no notebook). | O "controle de presença" de um aluno de PIBIC/PIBID é mais simples (ex: um check-in semanal) do que um controle de aula diário. | Como funciona na prática o "compêndio de normas"? Quais são as 5 leis/normas mais cruciais que ele precisa ter à mão?. |
 | As ferramentas genéricas (Trello, Notion) causam **retrabalho de adaptação**. | | |
 
 
