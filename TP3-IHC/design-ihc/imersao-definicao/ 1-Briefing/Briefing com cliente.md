@@ -54,7 +54,7 @@ O primeiro passo do trabalho foi a realização de um *briefing* com o cliente p
 
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1O2HenYvIhc5q1pcMWyFRn6S6DbbnzmWp" width="70%">
+  <img src="https://drive.google.com/uc?export=view&id=1O2HenYvlhc5q1pcWMyFRn6SDbWzmWgp_" width="70%">
   <p><i>Evidência visual dos principais pontos discutidos durante o Briefing, demonstrando o alinhamento e planejamento estratégico da equipe.</i></p>
 </div>
 
