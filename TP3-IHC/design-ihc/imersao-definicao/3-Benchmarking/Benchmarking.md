@@ -1,10 +1,11 @@
-
 ## TP3-IHC - Etapa 3: Benchmarking
+
 
 
 O objetivo desta etapa é realizar uma análise comparativa (benchmarking) de soluções existentes – tanto genéricas (utilizadas pelo cliente) quanto oficiais – para mapear as lacunas de funcionalidade e confirmar a viabilidade da proposta de valor.
 
 Com base no briefing com o Professor Victor Celso, o problema central é a falta de uma ferramenta específica para a gestão de projetos acadêmicos da UFAM, o que o força a usar ferramentas genéricas que exigem muito retrabalho de adaptação.
+
 
 a) Avaliação dos Critérios de Comparação
 
@@ -17,6 +18,7 @@ Com base na demanda, os itens definidos para comparação foram:
 - **Integração (E-campus):** Potencial de integração ou sincronização com outros sistemas de banco de dados oficiais.
 - **Portabilidade:** Qualidade da experiência de uso em múltiplos dispositivos (Desktop e Mobile).
 
+
 b) Definição dos Similares-alvo
 
 Os produtos, organizações ou serviços selecionados como referência foram:
@@ -25,6 +27,7 @@ Os produtos, organizações ou serviços selecionados como referência foram:
 - **Sistema 2:** Notion - Ferramenta flexível "tudo-em-um" que combina anotações, bancos de dados e gestão de projetos.
 - **Sistema 3:** Google Sheets / Excel - Ferramentas de planilhas. Representam a alternativa manual de organização de dados.
 - **Sistema 4:** E-campus / SEI - Sistemas oficiais da UFAM. Analisados para confirmar a lacuna de funcionalidade de "acompanhamento".
+
 
 c) Obtenção e Análise de Dados
 
@@ -41,6 +44,7 @@ Sistema 1 - Trello
 
 [Teste 1 - Trello](https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
 
+
 Sistema 2 - Notion
 
 | Critério | Descrição da Solução | Análise de Destaque |
@@ -53,6 +57,7 @@ Sistema 2 - Notion
 [Teste 2 - Notion](https://drive.google.com/file/d/1Abf5II5S3ccQUV5DuTh9HmDlD8XNGDHH/view)
 
 
+
 Sistema 3 - Google Sheets / Excel
 
 | Critério | Descrição da Solução | Análise de Destaque |
@@ -63,6 +68,7 @@ Sistema 3 - Google Sheets / Excel
 | **Pontos Fracos** | Representação literal do "retrabalho manual"; não é uma ferramenta de gestão, mas de registro; Interface péssima para acompanhamento visual de projetos; Portabilidade mobile ruim para gestão. | Fracasso total nos critérios de gestão e acompanhamento. |
 
 [Teste 3 - Google Sheets / Excel](https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view)
+
 
 
 Sistema 4 - E-campus / SEI
@@ -88,6 +94,8 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
 | **Sistema 2 (Notion)** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Sistema 3 (Planilhas)** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Sistema 4 (E-campus/SEI)** | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
+
+
 
 **Conclusão do Benchmarking**
 
