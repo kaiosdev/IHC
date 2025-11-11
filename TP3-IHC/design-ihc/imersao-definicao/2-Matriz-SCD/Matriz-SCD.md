@@ -19,6 +19,7 @@ A matriz construída pela equipe foi a seguinte:
 | **C7.** Necessidade de um **feed de atualizações de editais** das pró-reitorias. | **S7.** O controle de presença de orientandos é essencial (Must-Have) e pode ser um "check-in" semanal, mais simples que um controle diário. |**D7.** Como o cliente é notificado sobre a aprovação de um projeto atualmente (Email? Portal?)? |
 | **C8.** A integração (leitura) com o banco de dados do **e-Campus** é desejável. | **S8.** Uma funcionalidade de "contatos úteis" (pró-reitorias) pré-cadastrados no app seria valorizada pelo professor. |
 | **C9.** Projetos frequentemente se relacionam entre si (ex: "PIBICs que conversam com PIBIT"). | 
+
 ---
 
 <div align="center">
