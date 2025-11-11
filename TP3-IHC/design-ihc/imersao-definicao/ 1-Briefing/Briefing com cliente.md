@@ -31,11 +31,6 @@ O primeiro passo do trabalho foi a realização de um *briefing* com o cliente p
   * **Sistemas Oficiais Inadequados:** O E-campus e o SEI servem apenas para cadastro e submissão, não oferecendo nenhum acompanhamento da evolução do projeto.
   * **Dispersão de Informação:** O cliente precisa acessar muitos sites de pró-reitorias diariamente para procurar novos editais.
 
-* **Prioridades:**
-  * Criar um organizador de projetos que já entenda a estrutura de PIBIC, PACE, etc.
-  * Permitir o acompanhamento da evolução desses projetos.
-  * Centralizar a visualização de novos editais.
-
 * **Fontes de Informação:**
   * Os próprios editais dos projetos.
   * Os sites das Pró-Reitorias (Proext, Propesp).
@@ -48,6 +43,11 @@ O primeiro passo do trabalho foi a realização de um *briefing* com o cliente p
 * **Padrão Prévio (Ideias de Interface):**
   * O cliente imaginou uma "barra de atualizações" com os editais novos.
   * Botões/Abas para cada tipo de projeto (PIBIC, PACE, Pibex) onde ele possa clicar e ver seus dados e a organização.
+
+* **Restrição de Acesso:**
+  * Nível Orientador (Professor): Acesso total para gerenciar projetos, enviar demandas, acompanhar o progresso e ter a visão geral.
+
+  * Nível Orientando (Aluno): Acesso restrito, focado em "receber demanda", "receber orientações" e atualizar suas tarefas.
 
 * **Contato Técnico:**
   * Professor Victor Celso (Doutor em Farmacologia, Professor e Orientador na UFAM).
