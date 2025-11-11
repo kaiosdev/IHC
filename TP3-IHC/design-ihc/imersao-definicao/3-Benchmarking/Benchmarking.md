@@ -87,7 +87,7 @@ d) Matriz de Comparação Consolidada
 A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisitos levantados no briefing:
 
 | Similar | Gestão de Projetos (Visual) | Especificidade Acadêmica (Nativa) | Evita Retrabalho de Adaptação | Centralização de Editais | Integração (E-campus) | Portabilidade (Mobile/Desktop) |
-|:--:|:----------------------------:|:-----------------------------------:|:-------------------------------:|:--------------------------:|:----------------------:|:-------------------------------:|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | **Sistema 1 (Trello)** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Sistema 2 (Notion)** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Sistema 3 (Planilhas)** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
