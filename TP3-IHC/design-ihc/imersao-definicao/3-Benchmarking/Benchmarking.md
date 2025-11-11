@@ -1,4 +1,7 @@
-**Etapa 3: Benchmarking**
+
+## TP3-IHC - Etapa 3: Benchmarking
+
+<div align="center">
 
 O objetivo desta etapa é realizar uma análise comparativa (benchmarking) de soluções existentes – tanto genéricas (utilizadas pelo cliente) quanto oficiais – para mapear as lacunas de funcionalidade e confirmar a viabilidade da proposta de valor.
 
