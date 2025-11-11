@@ -39,6 +39,9 @@ Sistema 1 - Trello
 | **Pontos Fortes** | Excelente Portabilidade (desktop e mobile), interface intuitiva, e curva de aprendizado baixa. | Design focado na simplicidade e uso rápido. |
 | **Pontos Fracos** | Totalmente Genérico (Exige 100% de adaptação manual); não possui modelos acadêmicos nativos; não centraliza editais; nenhuma integração com E-campus. | Representa a dor do "Retrabalho de Adaptação" citada pelo cliente. |
 
+[![Teste 1 - Trello]https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view]
+
+
 Sistema 2 - Notion
 
 | Critério | Descrição da Solução | Análise de Destaque |
@@ -47,6 +50,9 @@ Sistema 2 - Notion
 | **Como é Resolvido** | Páginas flexíveis, bases de dados relacionais e templates altamente personalizáveis. | Permite a construção de estruturas complexas, como os modelos que o professor precisa, mas de forma manual. |
 | **Pontos Fortes** | Extremamente poderoso, flexível e permite excelente resultado estético e funcional se dedicado tempo à configuração. | Potencial para criar modelos personalizados. |
 | **Pontos Fracos** | Curva de Aprendizado Alta e o "Retrabalho de Adaptação" é ainda maior que o do Trello; não fala a "linguagem UFAM" nativamente; não integra com E-campus. | A flexibilidade exige um investimento de tempo inicial elevado. |
+
+Teste 2 - Notion
+
 
 Sistema 3 - Google Sheets / Excel
 
@@ -57,6 +63,9 @@ Sistema 3 - Google Sheets / Excel
 | **Pontos Fortes** | Amplamente conhecido e acessível. | Baixo custo e alta disponibilidade. |
 | **Pontos Fracos** | Representação literal do "retrabalho manual"; não é uma ferramenta de gestão, mas de registro; Interface péssima para acompanhamento visual de projetos; Portabilidade mobile ruim para gestão. | Fracasso total nos critérios de gestão e acompanhamento. |
 
+Teste 3 - Google Sheets / Excel
+
+
 Sistema 4 - E-campus / SEI
 
 | Critério | Descrição da Solução | Análise de Destaque |
@@ -66,6 +75,9 @@ Sistema 4 - E-campus / SEI
 | **Pontos Fortes** | É o sistema oficial de registro, garantindo a conformidade legal e a Integração com o banco de dados institucional. | Único com alta Especificidade Acadêmica. |
 | **Pontos Fracos** | Não oferece nenhuma funcionalidade de acompanhamento ou gestão da evolução do projeto (conforme Prof. Victor). Não tem boa portabilidade ou interface visual de gestão. | Não cumpre o requisito central de acompanhamento. |
 
+Teste 4 - E-campus / SEI
+
+
 d) Matriz de Comparação Consolidada
 
 A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisitos levantados no briefing:
@@ -74,10 +86,10 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
 |---------|----------------------------|-----------------------------------|-------------------------------|--------------------------|----------------------|-------------------------------|
 | **Sistema 1 (Trello)** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Sistema 2 (Notion)** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| **Sistema 3 (Planilhas)** | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Sistema 3 (Planilhas)** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Sistema 4 (E-campus/SEI)** | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
 
-Conclusão do Benchmarking
+#Conclusão do Benchmarking
 
 A análise comparativa confirma de forma robusta a lacuna identificada pelo cliente. Existe uma dissociação crítica no mercado de ferramentas:
 
