@@ -7,7 +7,7 @@ O primeiro passo do trabalho foi a realização de um *briefing* com o cliente p
 **Cliente (Referência Técnica):** Professor Vitor Celso, Doutor em Farmacologia e docente da UFAM.
 * **Contexto:** O professor atua como orientador em diversos programas acadêmicos (PIBIC, PIBITI, Pibex, Passe, Pós-Graduação) e identifica uma lacuna nos sistemas atuais da universidade, que não oferecem ferramentas para o acompanhamento e gestão da evolução desses projetos.
 
-* ** Funcionalidade Esperada:**
+* **Funcionalidade Esperada:**
   * Um aplicativo "prático, dinâmico e simples" para gestão e acompanhamento de projetos acadêmicos.
   * Um sistema para organizar e acompanhar a evolução de projetos (ex: PIBIC, PACE, Pibex, PIBID, Mestrado).
   * O sistema deve ser "pré-setado" com as características e linguagens desses projetos da UFAM, para evitar o retrabalho de adaptação exigido por ferramentas genéricas (como Trello ou Excel).
@@ -19,7 +19,7 @@ O primeiro passo do trabalho foi a realização de um *briefing* com o cliente p
   * **Usuário Primário:** O professor/orientador.
   * **Usuário Secundário (Potencial):** O aluno/orientando, para receber demandas (mas isso não é a prioridade inicial).
 
-**3. Cenário (Contexto de Uso):**
+* **Cenário (Contexto de Uso):**
   * **Multiplataforma/Portabilidade:** O cliente precisa de acesso em diferentes locais (computador de casa, notebook na UFAM, celular).
 
 * **Problemas a Resolver:**
@@ -52,7 +52,7 @@ O primeiro passo do trabalho foi a realização de um *briefing* com o cliente p
 
 
 ---
-### Evidência Briefing
+### 2. Evidência Briefing
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1O2HenYvlhc5q1pcWMyFRn6SDbWzmWgp_" width="70%">
   <p><i>Registro do briefing realizado com o cliente, momento em que foram levantadas as principais necessidades, objetivos e expectativas em relação ao projeto. Durante a reunião, coletou-se informações sobre o contexto de uso, identificou problemas atuais e discutiu possíveis soluções, garantindo o alinhamento entre as demandas do cliente e as propostas de desenvolvimento.</i></p>
