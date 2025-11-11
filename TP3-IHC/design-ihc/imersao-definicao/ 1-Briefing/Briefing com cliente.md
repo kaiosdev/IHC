@@ -11,7 +11,7 @@ O primeiro passo do trabalho foi a realização de um *briefing* com o cliente p
 * **Contexto:** O professor atua como orientador em diversos programas acadêmicos (PIBIC, PIBITI, Pibex, Passe, Pós-Graduação) e identifica uma lacuna nos sistemas atuais da universidade, que não oferecem ferramentas para o acompanhamento e gestão da evolução desses projetos.
 ---
 
-**1.1 Alinhamento do Briefing**
+  **1.1 Alinhamento do Briefing**
 
 * **Funcionalidade Esperada:**
   * Um aplicativo "prático, dinâmico e simples" para gestão e acompanhamento de projetos acadêmicos.
