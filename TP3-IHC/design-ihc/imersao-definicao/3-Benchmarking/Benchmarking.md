@@ -40,6 +40,7 @@ Sistema 1 - Trello
 | **Pontos Fracos** | Totalmente Genérico (Exige 100% de adaptação manual); não possui modelos acadêmicos nativos; não centraliza editais; nenhuma integração com E-campus. | Representa a dor do "Retrabalho de Adaptação" citada pelo cliente. |
 
 [![Teste 1 - Trello]https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view]
+(https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
 
 
 Sistema 2 - Notion
