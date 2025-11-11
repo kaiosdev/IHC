@@ -1,6 +1,5 @@
-## TP3-IHC - Parte 1: Imersão e Definição
-
 <div align="center">
+## TP3-IHC - Parte 1: Imersão e Definição
   
 **1. Matriz CSD - Sistema de Gerenciamento de Projetos Acadêmicos UFAM**
 </div>
