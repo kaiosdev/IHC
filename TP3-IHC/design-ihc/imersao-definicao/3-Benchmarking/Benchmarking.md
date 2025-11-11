@@ -39,6 +39,16 @@ Sistema 1 - Trello
 | **Pontos Fortes** | Excelente Portabilidade (desktop e mobile), interface intuitiva, e curva de aprendizado baixa. | Design focado na simplicidade e uso rápido. |
 | **Pontos Fracos** | Totalmente Genérico (Exige 100% de adaptação manual); não possui modelos acadêmicos nativos; não centraliza editais; nenhuma integração com E-campus. | Representa a dor do "Retrabalho de Adaptação" citada pelo cliente. |
 
+
+<details>
+  <summary>🎬 Teste 1 - Trello (Vídeo)</summary>
+  <br>
+  
+  <a href="https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view" target="_blank">
+    <img src="miniatura-video.png" alt="Thumbnail do Vídeo de Demonstração" width="600" />
+  </a>
+  
+</details>
 [![Teste 1 - Trello]https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view]
 (https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
 
