@@ -1,6 +1,9 @@
 # Etapa 2: Matriz CSD (Certezas, Suposições e Dúvidas)
+**Data da Reunião:** 07/11/2025
 
-Após o briefing com o Professor Victor Celso, a equipe se reuniu para organizar as informações coletadas em uma Matriz CSD. O objetivo desta etapa, conforme o documento do trabalho, é categorizar os principais tópicos do projeto para guiar a investigação futura.
+**Cliente:** Prof. Dr. Victor Celso
+
+Após o briefing, a equipe se reuniu para organizar as informações coletadas em uma Matriz CSD. O objetivo desta etapa, conforme o documento do trabalho, é categorizar os principais tópicos do projeto para guiar a investigação futura.
 
 A matriz construída pela equipe foi a seguinte:
 
