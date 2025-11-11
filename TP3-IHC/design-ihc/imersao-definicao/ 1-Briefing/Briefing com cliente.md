@@ -9,7 +9,6 @@ O primeiro passo do trabalho foi a realização de um *briefing* com o cliente p
 
 **Cliente (Referência Técnica):** Professor Vitor Celso, Doutor em Farmacologia e docente da UFAM.
 * **Contexto:** O professor atua como orientador em diversos programas acadêmicos (PIBIC, PIBITI, Pibex, Passe, Pós-Graduação) e identifica uma lacuna nos sistemas atuais da universidade, que não oferecem ferramentas para o acompanhamento e gestão da evolução desses projetos.
----
 
   **1.1 Alinhamento do Briefing**
 
