@@ -1,7 +1,5 @@
 ## TP3-IHC - Etapa 3: Benchmarking
 
-
-
 O objetivo desta etapa é realizar uma análise comparativa (benchmarking) de soluções existentes – tanto genéricas (utilizadas pelo cliente) quanto oficiais – para mapear as lacunas de funcionalidade e confirmar a viabilidade da proposta de valor.
 
 Com base no briefing com o Professor Victor Celso, o problema central é a falta de uma ferramenta específica para a gestão de projetos acadêmicos da UFAM, o que o força a usar ferramentas genéricas que exigem muito retrabalho de adaptação.
@@ -36,7 +34,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 Sistema 1 - Trello
 
 | Critério | Descrição da Solução | Análise de Destaque |
-|----------|---------------------|---------------------|
+|:----------:|:---------------------:|:---------------------:|
 | **Problemas Resolvidos** | Organização visual de tarefas e fluxo de trabalho simples, permitindo acompanhamento de status e colaboração. | Funciona bem para fluxos genéricos. |
 | **Como é Resolvido** | Sistema de Quadros (Boards), Listas (Lists) e Cartões (Cards), seguindo o princípio do Kanban. | Utiliza metodologia visual (Kanban) de baixo atrito. |
 | **Pontos Fortes** | Excelente Portabilidade (desktop e mobile), interface intuitiva, e curva de aprendizado baixa. | Design focado na simplicidade e uso rápido. |
@@ -48,7 +46,7 @@ Sistema 1 - Trello
 Sistema 2 - Notion
 
 | Critério | Descrição da Solução | Análise de Destaque |
-|----------|---------------------|---------------------|
+|:----------:|:---------------------:|:---------------------:|
 | **Problemas Resolvidos** | Necessidade de um espaço de trabalho unificado, combinando documentos, bancos de dados e gestão de tarefas. | Alta flexibilidade para documentação e estruturação de dados. |
 | **Como é Resolvido** | Páginas flexíveis, bases de dados relacionais e templates altamente personalizáveis. | Permite a construção de estruturas complexas, como os modelos que o professor precisa, mas de forma manual. |
 | **Pontos Fortes** | Extremamente poderoso, flexível e permite excelente resultado estético e funcional se dedicado tempo à configuração. | Potencial para criar modelos personalizados. |
@@ -61,7 +59,7 @@ Sistema 2 - Notion
 Sistema 3 - Google Sheets / Excel
 
 | Critério | Descrição da Solução | Análise de Destaque |
-|----------|---------------------|---------------------|
+|:----------:|:---------------------:|:---------------------:|
 | **Problemas Resolvidos** | Organização de dados estruturados em formato de tabela, possibilitando cálculos, cruzamento e registro de informações detalhadas. | Excelente para dados brutos e cálculos. |
 | **Como é Resolvido** | Células, fórmulas e formatação condicional, criando planilhas para monitoramento manual. | Ferramenta universalmente acessível. |
 | **Pontos Fortes** | Amplamente conhecido e acessível. | Baixo custo e alta disponibilidade. |
@@ -74,7 +72,7 @@ Sistema 3 - Google Sheets / Excel
 Sistema 4 - E-campus / SEI
 
 | Critério | Descrição da Solução | Análise de Destaque |
-|----------|---------------------|---------------------|
+|:----------:|:---------------------:|:---------------------:|
 | **Problemas Resolvidos** | Registro, protocolo e tramitação oficial de processos e documentos dentro da universidade. | Garante a conformidade legal e institucional. |
 | **Como é Resolvido** | Formulários de cadastro e sistemas de protocolo eletrônico. | Fluxo oficial de submissão. |
 | **Pontos Fortes** | É o sistema oficial de registro, garantindo a conformidade legal e a Integração com o banco de dados institucional. | Único com alta Especificidade Acadêmica. |
@@ -89,7 +87,7 @@ d) Matriz de Comparação Consolidada
 A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisitos levantados no briefing:
 
 | Similar | Gestão de Projetos (Visual) | Especificidade Acadêmica (Nativa) | Evita Retrabalho de Adaptação | Centralização de Editais | Integração (E-campus) | Portabilidade (Mobile/Desktop) |
-|---------|----------------------------|-----------------------------------|-------------------------------|--------------------------|----------------------|-------------------------------|
+|:--:|:----------------------------:|:-----------------------------------:|:-------------------------------:|:--------------------------:|:----------------------:|:-------------------------------:|
 | **Sistema 1 (Trello)** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Sistema 2 (Notion)** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Sistema 3 (Planilhas)** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
