@@ -89,7 +89,7 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
 | **Sistema 3 (Planilhas)** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Sistema 4 (E-campus/SEI)** | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
 
-##Conclusão do Benchmarking
+**Conclusão do Benchmarking**
 
 A análise comparativa confirma de forma robusta a lacuna identificada pelo cliente. Existe uma dissociação crítica no mercado de ferramentas:
 
