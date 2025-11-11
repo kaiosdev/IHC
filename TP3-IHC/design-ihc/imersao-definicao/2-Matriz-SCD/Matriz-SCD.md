@@ -1,9 +1,12 @@
-# Etapa 2: Matriz CSD (Certezas, Suposições e Dúvidas)
+## TP3-IHC - Parte 1: Imersão e Definição
+
 **Data da Reunião:** 07/11/2025
 
 **Cliente:** Prof. Dr. Victor Celso
-
-Após o briefing, a equipe se reuniu para organizar as informações coletadas em uma Matriz CSD. O objetivo desta etapa, conforme o documento do trabalho, é categorizar os principais tópicos do projeto para guiar a investigação futura.
+---
+ 
+### 1. Matriz CSD (Certezas, Suposições e Dúvidas)
+  Após o briefing, a equipe se reuniu para organizar as informações coletadas em uma Matriz CSD. O objetivo desta etapa, conforme o documento do trabalho, é categorizar os principais tópicos do projeto para guiar a investigação futura.
 
 A matriz construída pela equipe foi a seguinte:
 
@@ -15,6 +18,8 @@ A matriz construída pela equipe foi a seguinte:
 | O professor precisa de **portabilidade** (acesso no celular e no notebook). | O "controle de presença" de um aluno de PIBIC/PIBID é mais simples (ex: um check-in semanal) do que um controle de aula diário. | Como funciona na prática o "compêndio de normas"? Quais são as 5 leis/normas mais cruciais que ele precisa ter à mão?. |
 | As ferramentas genéricas (Trello, Notion) causam **retrabalho de adaptação**. | | |
 
+---
+### Evidência Matriz CSD
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1a7NX6mCmLLov9DRWuJgqq2WNF3Ct4Zhb" width="70%">
