@@ -5,7 +5,7 @@ O objetivo desta etapa é realizar uma análise comparativa (benchmarking) de so
 Com base no briefing com o Professor Victor Celso, o problema central é a falta de uma ferramenta específica para a gestão de projetos acadêmicos da UFAM, o que o força a usar ferramentas genéricas que exigem muito retrabalho de adaptação.
 
 
-a) Avaliação dos Critérios de Comparação
+**a) Avaliação dos Critérios de Comparação**
 
 Com base na demanda, os itens definidos para comparação foram:
 
@@ -17,7 +17,7 @@ Com base na demanda, os itens definidos para comparação foram:
 - **Portabilidade:** Qualidade da experiência de uso em múltiplos dispositivos (Desktop e Mobile).
 
 
-b) Definição dos Similares-alvo
+**b) Definição dos Similares-alvo**
 
 Os produtos, organizações ou serviços selecionados como referência foram:
 
@@ -27,11 +27,11 @@ Os produtos, organizações ou serviços selecionados como referência foram:
 - **Sistema 4:** E-campus / SEI - Sistemas oficiais da UFAM. Analisados para confirmar a lacuna de funcionalidade de "acompanhamento".
 
 
-c) Obtenção e Análise de Dados
+**c) Obtenção e Análise de Dados**
 
 Abaixo está a análise detalhada de cada similar-alvo em relação à sua capacidade de resolver a dor do cliente:
 
-Sistema 1 - Trello
+### Sistema 1 - Trello
 
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
@@ -43,7 +43,7 @@ Sistema 1 - Trello
 [Teste 1 - Trello](https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
 
 
-Sistema 2 - Notion
+#### Sistema 2 - Notion
 
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
@@ -56,7 +56,7 @@ Sistema 2 - Notion
 
 
 
-Sistema 3 - Google Sheets / Excel
+#### Sistema 3 - Google Sheets / Excel
 
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
@@ -69,7 +69,7 @@ Sistema 3 - Google Sheets / Excel
 
 
 
-Sistema 4 - E-campus / SEI
+#### Sistema 4 - E-campus / SEI
 
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
@@ -82,7 +82,7 @@ Sistema 4 - E-campus / SEI
 
 
 
-d) Matriz de Comparação Consolidada
+**d) Matriz de Comparação Consolidada**
 
 A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisitos levantados no briefing:
 
