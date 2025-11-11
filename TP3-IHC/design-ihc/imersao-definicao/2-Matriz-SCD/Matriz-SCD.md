@@ -1,6 +1,5 @@
 ## TP3-IHC - Parte 1: Imersão e Definição
 
----
 
 ### 1. Matriz CSD - Sistema de Gerenciamento de Projetos Acadêmicos UFAM
 
@@ -24,8 +23,8 @@ A matriz construída pela equipe foi a seguinte:
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1gqc7AWy3aFLbWd492mKQk4ziUt_kuU92" width="70%">
+</div>
 <div align="center">
- 
   <img src="https://drive.google.com/uc?export=view&id=1rGQayIcFXucMIVhUH_40AK3r1b8rXlwo" width="70%">
   <p><i>Estrutura visual das informações organizadas em uma Matriz CSD</i></p>
 </div>
