@@ -39,17 +39,8 @@ Sistema 1 - Trello
 | **Pontos Fortes** | Excelente Portabilidade (desktop e mobile), interface intuitiva, e curva de aprendizado baixa. | Design focado na simplicidade e uso rápido. |
 | **Pontos Fracos** | Totalmente Genérico (Exige 100% de adaptação manual); não possui modelos acadêmicos nativos; não centraliza editais; nenhuma integração com E-campus. | Representa a dor do "Retrabalho de Adaptação" citada pelo cliente. |
 
+[Teste 1 - Trello](https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
 
-<details>
-  <summary>🎬 Clique aqui para ver o vídeo</summary>
-  <br>
-  
-  <a href="https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view" target="_blank">
-    
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsaIwBckSCkOpcw9keYXk-A-8O__AusLgEoA&s" alt="Thumbnail do Vídeo" width="600" />
-  </a>
-  
-</details>
 Sistema 2 - Notion
 
 | Critério | Descrição da Solução | Análise de Destaque |
@@ -59,16 +50,7 @@ Sistema 2 - Notion
 | **Pontos Fortes** | Extremamente poderoso, flexível e permite excelente resultado estético e funcional se dedicado tempo à configuração. | Potencial para criar modelos personalizados. |
 | **Pontos Fracos** | Curva de Aprendizado Alta e o "Retrabalho de Adaptação" é ainda maior que o do Trello; não fala a "linguagem UFAM" nativamente; não integra com E-campus. | A flexibilidade exige um investimento de tempo inicial elevado. |
 
-<details>
-  <summary>🎬 Clique aqui para ver o vídeo (Notion Demo)</summary>
-  <br>
-  
-  <a href="https://drive.google.com/file/d/1Abf5II5S3ccQUV5DuTh9HmDlD8XNGDHH/view?usp=sharing" target="_blank">
-    
-    <img src="https://www.insightplatforms.com/wp-content/uploads/2023/10/Notion-Logo-Square-Insight-Platforms.png" alt="Vídeo sobre Notion" width="600" />
-  </a>
-  
-</details>
+[Teste 2 - Notion]([https://drive.google.com/file/d/1z9lZNQDUpmRZssG66xTVjfOHfCrcGR1u/view?usp=drive_open](https://drive.google.com/file/d/1Abf5II5S3ccQUV5DuTh9HmDlD8XNGDHH/view?usp=sharing))
 
 
 Sistema 3 - Google Sheets / Excel
@@ -80,16 +62,7 @@ Sistema 3 - Google Sheets / Excel
 | **Pontos Fortes** | Amplamente conhecido e acessível. | Baixo custo e alta disponibilidade. |
 | **Pontos Fracos** | Representação literal do "retrabalho manual"; não é uma ferramenta de gestão, mas de registro; Interface péssima para acompanhamento visual de projetos; Portabilidade mobile ruim para gestão. | Fracasso total nos critérios de gestão e acompanhamento. |
 
-[Teste 3 - Google Sheets / Excel(https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view)]
-<details>
-  <summary>🎬 Clique aqui para ver o vídeo </summary>
-  <br>
-  
-  <a href="https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view" target="_blank">
-    Abrir o vídeo no Google Drive
-  </a>
-  
-</details>
+[Teste 3 - Google Sheets / Excel](https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view)
 
 
 Sistema 4 - E-campus / SEI
@@ -101,16 +74,8 @@ Sistema 4 - E-campus / SEI
 | **Pontos Fortes** | É o sistema oficial de registro, garantindo a conformidade legal e a Integração com o banco de dados institucional. | Único com alta Especificidade Acadêmica. |
 | **Pontos Fracos** | Não oferece nenhuma funcionalidade de acompanhamento ou gestão da evolução do projeto (conforme Prof. Victor). Não tem boa portabilidade ou interface visual de gestão. | Não cumpre o requisito central de acompanhamento. |
 
-Teste 4 - E-campus / SEI 
-<details>
-  <summary>🎬 Clique aqui para ver o vídeo</Gg>
-  <br>
-  
-  <a href="https://drive.google.com/file/d/1z9lZNQDUpmRZssG66xTVjfOHfCrcGR1u/view?usp=drive_open" target="_blank">
-    Abrir o vídeo no Google Drive
-  </a>
-  
-</details>
+[Teste 4 - E-campus / SEI](https://drive.google.com/file/d/1z9lZNQDUpmRZssG66xTVjfOHfCrcGR1u/view?usp=drive_open)
+
 
 
 d) Matriz de Comparação Consolidada
