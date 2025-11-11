@@ -3,10 +3,10 @@
 <div align="center">
   
 **1. Matriz CSD - Sistema de Gerenciamento de Projetos Acadêmicos UFAM**
+</div>
 
-  Após o briefing, a equipe se reuniu para organizar as informações coletadas em uma Matriz CSD. O objetivo desta etapa, conforme o documento do trabalho, é categorizar os principais tópicos do projeto para guiar a investigação futura.
+Nesta etapa, a equipe desenvolveu a Matriz CSD (Certezas, Suposições e Dúvidas) com o objetivo de organizar e compreender as percepções iniciais sobre o projeto. A atividade permitiu identificar informações confirmadas, hipóteses a serem validadas e pontos que ainda necessitam de esclarecimento. Essa análise colaborativa foi essencial para alinhar o entendimento entre os membros da equipe e orientar as próximas fases do planejamento.
 
-A matriz construída pela equipe foi a seguinte:
 
 | CERTEZAS (C) | SUPOSIÇÕES (S) | DÚVIDAS (D) |
 | :---: | :---: | :---: |
@@ -21,6 +21,7 @@ A matriz construída pela equipe foi a seguinte:
 | **C9.** Projetos frequentemente se relacionam entre si (ex: "PIBICs que conversam com PIBIT"). | 
 
 ---
+<div align="center">
 
   <img src="https://drive.google.com/uc?export=view&id=1gqc7AWy3aFLbWd492mKQk4ziUt_kuU92" width="70%">
   <img src="https://drive.google.com/uc?export=view&id=1rGQayIcFXucMIVhUH_40AK3r1b8rXlwo" width="70%">
