@@ -56,6 +56,10 @@ O primeiro passo do trabalho foi a realização de um *briefing* com o cliente p
 
 ---
 ### 2. Evidência Briefing
+
+**Data da Reunião:** 07/11/2025
+
+**Cliente:** Prof. Dr. Victor Celso
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1O2HenYvlhc5q1pcWMyFRn6SDbWzmWgp_" width="70%">
   <p><i>Registro do briefing realizado com o cliente, momento em que foram levantadas as principais necessidades, objetivos e expectativas em relação ao projeto. Durante a reunião, coletou-se informações sobre o contexto de uso, identificou problemas atuais e discutiu possíveis soluções, garantindo o alinhamento entre as demandas do cliente e as propostas de desenvolvimento.</i></p>
