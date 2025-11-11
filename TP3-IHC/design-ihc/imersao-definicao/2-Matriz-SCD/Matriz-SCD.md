@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**1. Matriz CSD - Sistema de Gerenciamento de Projetos Acadêmicos UFAM**
+### 1. Matriz CSD - Sistema de Gerenciamento de Projetos Acadêmicos UFAM
 </div>
 
 Nesta etapa, a equipe desenvolveu a Matriz CSD (Certezas, Suposições e Dúvidas) com o objetivo de organizar e compreender as percepções iniciais sobre o projeto. A atividade permitiu identificar informações confirmadas, hipóteses a serem validadas e pontos que ainda necessitam de esclarecimento. Essa análise colaborativa foi essencial para alinhar o entendimento entre os membros da equipe e orientar as próximas fases do planejamento.
@@ -30,7 +30,7 @@ Nesta etapa, a equipe desenvolveu a Matriz CSD (Certezas, Suposições e Dúvida
 
 --- 
 
-**2. Evidência Matriz CSD**
+### 2. Evidência Matriz CSD
 
 **Data da Reunião:** 07/11/2025
 
