@@ -1,6 +1,6 @@
 ## TP3-IHC - Parte 1: Imersão e Definição
 
-
+<div align="center">
 ### 1. Matriz CSD - Sistema de Gerenciamento de Projetos Acadêmicos UFAM
 
   Após o briefing, a equipe se reuniu para organizar as informações coletadas em uma Matriz CSD. O objetivo desta etapa, conforme o documento do trabalho, é categorizar os principais tópicos do projeto para guiar a investigação futura.
@@ -21,13 +21,10 @@ A matriz construída pela equipe foi a seguinte:
 
 ---
 
-<div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1gqc7AWy3aFLbWd492mKQk4ziUt_kuU92" width="70%">
-</div>
-<div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1rGQayIcFXucMIVhUH_40AK3r1b8rXlwo" width="70%">
   <p><i>Estrutura visual das informações organizadas em uma Matriz CSD</i></p>
-</div>
+
 
 --- 
 
@@ -37,7 +34,7 @@ A matriz construída pela equipe foi a seguinte:
 
 **Cliente:** Prof. Dr. Victor Celso
 
-<div align="center">
+
   <img src="https://drive.google.com/uc?export=view&id=1a7NX6mCmLLov9DRWuJgqq2WNF3Ct4Zhb" width="70%">
   <p><i>Registro da reunião de equipe durante a construção da Matriz CSD (Certezas, Suposições e Dúvidas). O grupo discutiu coletivamente as percepções sobre o projeto, identificando pontos consolidados, hipóteses a validar e aspectos que ainda requerem esclarecimento. Essa etapa foi fundamental para alinhar o entendimento entre os participantes e direcionar as próximas fases do desenvolvimento da solução.</i></p>
 </div>
