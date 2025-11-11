@@ -59,6 +59,7 @@ O primeiro passo do trabalho foi a realização de um *briefing* com o cliente p
   <img src="https://drive.google.com/uc?export=view&id=1oY-DOUBUuNAQcBd5icEhP8KyhzRvPMj3" width="70%">
   <p><i>Estrutura visual dos requisitos, problemas e contexto levantados no briefing,</i></p>
 </div>
+
 ---
 
 ### 2. Evidência Briefing
