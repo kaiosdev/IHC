@@ -59,7 +59,16 @@ Sistema 2 - Notion
 | **Pontos Fortes** | Extremamente poderoso, flexível e permite excelente resultado estético e funcional se dedicado tempo à configuração. | Potencial para criar modelos personalizados. |
 | **Pontos Fracos** | Curva de Aprendizado Alta e o "Retrabalho de Adaptação" é ainda maior que o do Trello; não fala a "linguagem UFAM" nativamente; não integra com E-campus. | A flexibilidade exige um investimento de tempo inicial elevado. |
 
-Teste 2 - Notion
+<details>
+  <summary>🎬 Clique aqui para ver o vídeo (Notion Demo)</summary>
+  <br>
+  
+  <a href="https://drive.google.com/file/d/1Abf5II5S3ccQUV5DuTh9HmDlD8XNGDHH/view?usp=sharing" target="_blank">
+    
+    <img src="https://www.insightplatforms.com/wp-content/uploads/2023/10/Notion-Logo-Square-Insight-Platforms.png" alt="Vídeo sobre Notion" width="600" />
+  </a>
+  
+</details>
 
 
 Sistema 3 - Google Sheets / Excel
