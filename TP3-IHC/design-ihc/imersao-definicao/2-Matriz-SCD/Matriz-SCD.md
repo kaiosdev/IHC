@@ -25,7 +25,7 @@ A matriz construída pela equipe foi a seguinte:
 <div align="center">
  
   <img src="https://drive.google.com/uc?export=view&id=1rGQayIcFXucMIVhUH_40AK3r1b8rXlwo" width="70%">
-  <p><i>Estrutura visual dos pontos consolidados em uma Matriz CSD</i></p>
+  <p><i>Estrutura visual das informações organizadas em uma Matriz CSD</i></p>
 </div>
 
 --- 
