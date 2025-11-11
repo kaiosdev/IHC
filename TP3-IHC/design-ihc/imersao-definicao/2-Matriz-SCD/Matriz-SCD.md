@@ -16,7 +16,7 @@ A matriz construída pela equipe foi a seguinte:
 | **C5.** O acesso deve ser **multiplataforma (desktop e mobile)**, garantindo portabilidade. | **S5.** A integração automática (API de leitura) com o e-Campus é tecnicamente viável. | **D5.** Como funciona o "compêndio de normas"? Quais são as 5 leis/normas mais cruciais que o professor precisa ter à mão? |
 | **C6.** Necessidade de **templates pré-formatados específicos da UFAM** ("linguagem nativa"). | **S6.** É tecnicamente viável fazer *scraping* nos sites das 3+ Pró-Reitorias para alimentar o feed de editais. | **D6.** Qual o volume médio de projetos simultâneos gerenciados por um professor? |
 | **C7.** Necessidade de um **feed de atualizações de editais** das pró-reitorias. | **S7.** O controle de presença de orientandos é essencial (Must-Have) e pode ser um "check-in" semanal, mais simples que um controle diário. |**D7.** Como o cliente é notificado sobre a aprovação de um projeto atualmente (Email? Portal?)? |
-| **C8.** A integração (leitura) com o banco de dados do **e-Campus** é desejável. | | **D8.** Uma funcionalidade de "contatos úteis" (pró-reitorias) pré-cadastrados no app seria útil? |
+| **C8.** A integração (leitura) com o banco de dados do **e-Campus** é desejável. | **S8.** Uma funcionalidade de "contatos úteis" (pró-reitorias) pré-cadastrados no app seria valorizada pelo professor. |
 | **C9.** Projetos frequentemente se relacionam entre si (ex: "PIBICs que conversam com PIBIT"). | 
 ---
 ### 2. Evidência Matriz CSD
