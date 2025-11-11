@@ -50,7 +50,7 @@ Sistema 2 - Notion
 | **Pontos Fortes** | Extremamente poderoso, flexível e permite excelente resultado estético e funcional se dedicado tempo à configuração. | Potencial para criar modelos personalizados. |
 | **Pontos Fracos** | Curva de Aprendizado Alta e o "Retrabalho de Adaptação" é ainda maior que o do Trello; não fala a "linguagem UFAM" nativamente; não integra com E-campus. | A flexibilidade exige um investimento de tempo inicial elevado. |
 
-[Teste 2 - Notion]([[https://drive.google.com/file/d/1z9lZNQDUpmRZssG66xTVjfOHfCrcGR1u/view?usp=drive_open](https://drive.google.com/file/d/1Abf5II5S3ccQUV5DuTh9HmDlD8XNGDHH/view?usp=sharing](https://drive.google.com/file/d/1Abf5II5S3ccQUV5DuTh9HmDlD8XNGDHH/view)
+[Teste 2 - Notion](https://drive.google.com/file/d/1Abf5II5S3ccQUV5DuTh9HmDlD8XNGDHH/view)
 
 
 Sistema 3 - Google Sheets / Excel
