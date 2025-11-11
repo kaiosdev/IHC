@@ -7,7 +7,7 @@
 
 O primeiro passo do trabalho foi a realização de um *briefing* com o cliente para identificar e definir o escopo da demanda.
 
-**Cliente (Referência Técnica):** Professor Vitor Celso, Doutor em Farmacologia e docente da UFAM.
+**Cliente (Referência Técnica):** Victor Celso - Dr. em Farmacologia, pela Universidade Federal do Ceará. Servidor Público, possui 9 anos de Experiência como professor, sendo 5 na Universidade Federal do Amazonas. Onde atua como Professor/Orientador de projetos de Pesquisa e  extensão. No qual sente falta de praticidade para acompanhamentos e atualizações.
 * **Contexto:** O professor atua como orientador em diversos programas acadêmicos (PIBIC, PIBITI, Pibex, Passe, Pós-Graduação) e identifica uma lacuna nos sistemas atuais da universidade, que não oferecem ferramentas para o acompanhamento e gestão da evolução desses projetos.
 
   **1.1 Alinhamento do Briefing**
