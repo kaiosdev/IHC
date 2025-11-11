@@ -1,8 +1,8 @@
 ## TP3-IHC - Parte 1: Imersão e Definição
 
 **Data da Reunião:** 07/11/2025
+
 **Cliente:** Prof. Dr. Victor Celso
----
  
 ### 1. Matriz CSD (Certezas, Suposições e Dúvidas)
   Após o briefing, a equipe se reuniu para organizar as informações coletadas em uma Matriz CSD. O objetivo desta etapa, conforme o documento do trabalho, é categorizar os principais tópicos do projeto para guiar a investigação futura.
