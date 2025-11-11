@@ -80,7 +80,16 @@ Sistema 3 - Google Sheets / Excel
 | **Pontos Fortes** | Amplamente conhecido e acessível. | Baixo custo e alta disponibilidade. |
 | **Pontos Fracos** | Representação literal do "retrabalho manual"; não é uma ferramenta de gestão, mas de registro; Interface péssima para acompanhamento visual de projetos; Portabilidade mobile ruim para gestão. | Fracasso total nos critérios de gestão e acompanhamento. |
 
-Teste 3 - Google Sheets / Excel
+[Teste 3 - Google Sheets / Excel(https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view)]
+<details>
+  <summary>🎬 Clique aqui para ver o vídeo </summary>
+  <br>
+  
+  <a href="https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view" target="_blank">
+    Abrir o vídeo no Google Drive
+  </a>
+  
+</details>
 
 
 Sistema 4 - E-campus / SEI
@@ -92,7 +101,16 @@ Sistema 4 - E-campus / SEI
 | **Pontos Fortes** | É o sistema oficial de registro, garantindo a conformidade legal e a Integração com o banco de dados institucional. | Único com alta Especificidade Acadêmica. |
 | **Pontos Fracos** | Não oferece nenhuma funcionalidade de acompanhamento ou gestão da evolução do projeto (conforme Prof. Victor). Não tem boa portabilidade ou interface visual de gestão. | Não cumpre o requisito central de acompanhamento. |
 
-Teste 4 - E-campus / SEI
+Teste 4 - E-campus / SEI 
+<details>
+  <summary>🎬 Clique aqui para ver o vídeo</Gg>
+  <br>
+  
+  <a href="https://drive.google.com/file/d/1z9lZNQDUpmRZssG66xTVjfOHfCrcGR1u/view?usp=drive_open" target="_blank">
+    Abrir o vídeo no Google Drive
+  </a>
+  
+</details>
 
 
 d) Matriz de Comparação Consolidada
