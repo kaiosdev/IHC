@@ -41,18 +41,15 @@ Sistema 1 - Trello
 
 
 <details>
-  <summary>🎬 Teste 1 - Trello (Vídeo)</summary>
+  <summary>🎬 Clique aqui para ver o vídeo</summary>
   <br>
   
   <a href="https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view" target="_blank">
-    <img src="miniatura-video.png" alt="Thumbnail do Vídeo de Demonstração" width="600" />
+    
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsaIwBckSCkOpcw9keYXk-A-8O__AusLgEoA&s" alt="Thumbnail do Vídeo" width="600" />
   </a>
   
 </details>
-[![Teste 1 - Trello]https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view]
-(https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
-
-
 Sistema 2 - Notion
 
 | Critério | Descrição da Solução | Análise de Destaque |
