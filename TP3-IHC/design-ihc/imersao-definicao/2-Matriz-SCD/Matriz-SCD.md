@@ -1,7 +1,6 @@
 ## TP3-IHC - Parte 1: Imersão e Definição
 
 **Data da Reunião:** 07/11/2025
-
 **Cliente:** Prof. Dr. Victor Celso
 ---
  
@@ -19,7 +18,7 @@ A matriz construída pela equipe foi a seguinte:
 | As ferramentas genéricas (Trello, Notion) causam **retrabalho de adaptação**. | | |
 
 ---
-### Evidência Matriz CSD
+### 2. Evidência Matriz CSD
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1a7NX6mCmLLov9DRWuJgqq2WNF3Ct4Zhb" width="70%">
