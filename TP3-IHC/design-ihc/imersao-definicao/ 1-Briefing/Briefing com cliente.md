@@ -11,7 +11,7 @@ O primeiro passo do trabalho foi a realização de um *briefing* com o cliente p
 ---
 <div align="center">
  
-### Alinhamento de Briefing
+**Alinhamento do Briefing**
 </div>
 
 * **Funcionalidade Esperada:**
