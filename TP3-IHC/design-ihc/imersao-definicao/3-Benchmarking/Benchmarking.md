@@ -108,9 +108,10 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
 
 ---
 
-### Análise visual comparativa (benchmarking) dos principais sistemas utilizados como referência durante o projeto.
-
 <div align="center">
+
+  ### Análise visual comparativa (benchmarking) dos principais sistemas<br> utilizados como referência durante o projeto.
+  
   <img src="https://drive.google.com/uc?export=view&id=1rjRHymP0w5uybTaa4EiMRJ_tyyDIpnJm" width="70%">
   <p><i>Análise visual do Trello, evidenciando sua eficiência em fluxos genéricos,<br>
     porém com alta necessidade de adaptação à realidade acadêmica.</i></p>
