@@ -48,7 +48,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 --- 
 <div align="center">
   
-#### Sistema 2 - Notion
+### Sistema 2 - Notion
 </div> 
 
 | Critério | Descrição da Solução | Análise de Destaque |
@@ -63,7 +63,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 --- 
 <div align="center">
   
-#### Sistema 3 - Google Sheets / Excel
+### Sistema 3 - Google Sheets / Excel
 </div>
 
 | Critério | Descrição da Solução | Análise de Destaque |
@@ -78,7 +78,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 ---
 <div align="center">
   
-#### Sistema 4 - E-campus / SEI
+### Sistema 4 - E-campus / SEI
 </div>
 
 | Critério | Descrição da Solução | Análise de Destaque |
