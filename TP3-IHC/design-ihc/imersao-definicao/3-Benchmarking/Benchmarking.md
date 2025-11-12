@@ -119,13 +119,14 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
   <img src="https://drive.google.com/uc?export=view&id=1FNnAuR_0tQ8IsMefED8h5WVBS8BuxSDf" width="70%">
   <p><i>Benchmarking do Notion, destacando sua flexibilidade e poder de personalização, <br>mas com curva de aprendizado elevada e ausência de integração institucional.</i></p>
 
-  <img src="https://drive.google.com/uc?export=view&id=1Fhn3PM8mIVUNgMglbVfgidrsM-H-t-pP" width="70%">
-  <p><i>Visualização da análise do Google Sheets/Excel, ressaltando sua força em manipulação de dados <br>e fraqueza em gestão visual e acompanhamento de projetos.</i></p>
+  <img src="https://github.com/user-attachments/assets/4b4a627a-11c2-4057-8adf-9fea5da81ea1" width="70%" />
+  <p><i>Visualização da análise do Excel, ressaltando sua força em manipulação de dados <br>e fraqueza em gestão visual e acompanhamento de projetos.</i></p>
+ 
+  <img src="https://github.com/user-attachments/assets/008f59f4-4f9b-4d77-875d-d3d6e08d2a60" width="70%" />
+  <p><i>Imagem ilustrando a avaliação do E-campus, demonstrando sua adequação legal e acadêmica,<br> mas limitações em portabilidade e acompanhamento visual de processos.</i></p>
+  
+  <img src="https://github.com/user-attachments/assets/cc44404a-d427-4dd1-9f12-af7558948631" width="70%" />
 
-  <img src="https://drive.google.com/uc?export=view&id=1dQuX-ehzg9A8GhShMTJ2fORP1NQCstfv" width="70%">
-  <p><i>Imagem ilustrando a avaliação do E-campus/SEI, demonstrando sua adequação legal e acadêmica,<br> mas limitações em portabilidade e acompanhamento visual de processos.</i></p>
-
-  <img src="https://drive.google.com/uc?export=view&id=1byIr0xLhxjp9faYe0jzmP2_FD9aXPPUU" width="70%">
   <p><i>Tabela consolidada do benchmarking, comparando de forma direta os sistemas analisados com base <br>nos critérios definidos no briefing. A matriz evidencia as lacunas de integração e especificidade acadêmica,<br> reforçando a necessidade de uma solução personalizada para o contexto da UFAM.</i></p>
 
 </div>
