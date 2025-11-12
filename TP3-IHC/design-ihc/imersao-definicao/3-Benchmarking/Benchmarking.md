@@ -113,7 +113,7 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
     porém com alta necessidade de adaptação à realidade acadêmica.</i></p>
 
   <img src="https://drive.google.com/uc?export=view&id=1FNnAuR_0tQ8IsMefED8h5WVBS8BuxSDf" width="70%">
-  <p><i>Benchmarking do Notion, destacando sua flexibilidade e poder de personalização, mas com curva de aprendizado elevada e ausência de integração institucional.</i></p>
+  <p><i>Benchmarking do Notion, destacando sua flexibilidade e poder de personalização, <br>mas com curva de aprendizado elevada e ausência de integração institucional.</i></p>
 
   <img src="https://drive.google.com/uc?export=view&id=1Fhn3PM8mIVUNgMglbVfgidrsM-H-t-pP" width="70%">
   <p><i>Visualização da análise do Google Sheets/Excel, ressaltando sua força em manipulação de dados e fraqueza em gestão visual e acompanhamento de projetos.</i></p>
