@@ -29,7 +29,7 @@ Os produtos, organizações ou serviços selecionados como referência foram:
 
 **c) Obtenção e Análise de Dados**
 
-Abaixo está a análise detalhada de cada similar-alvo em relação à sua capacidade de resolver a dor do cliente:
+Abaixo está a análise detalhada de cada similar-alvo em relação à sua capacidade de resolver o problema do cliente:
 
 <div align="center">
   
@@ -143,5 +143,4 @@ A análise comparativa confirma de forma robusta a lacuna identificada pelo clie
 
 **Sistemas Oficiais (E-campus):** Excelentes em Especificidade e Integração, mas falham miseravelmente em Gestão de Projetos e Portabilidade (não oferecem acompanhamento).
 
-O resultado valida plenamente a oportunidade de mercado para o produto proposto, que deve combinar a **Gestão de Projetos de baixo atrito** com a **Especificidade Acadêmica nativa da UFAM**, resolvendo o problema central de retrabalho e melhorando a experiência móvel para o professor. Esta conclusão será a base para a definição da solução (Etapa 4).
-EOF
+O resultado valida plenamente a oportunidade de mercado para o produto proposto, que deve combinar a **Gestão de Projetos de baixo atrito** com a **Especificidade Acadêmica nativa da UFAM**, resolvendo o problema central de retrabalho e melhorando a experiência móvel para o client. Esta conclusão será a base para a definição da solução (Etapa 4).
