@@ -23,8 +23,8 @@ Os produtos, organizações ou serviços selecionados como referência foram:
 
 - **Sistema 1:** Trello - Ferramenta de gestão visual de projetos baseada em quadros Kanban.
 - **Sistema 2:** Notion - Ferramenta flexível "tudo-em-um" que combina anotações, bancos de dados e gestão de projetos.
-- **Sistema 3:** Google Sheets / Excel - Ferramentas de planilhas. Representam a alternativa manual de organização de dados.
-- **Sistema 4:** E-campus / SEI - Sistemas oficiais da UFAM. Analisados para confirmar a lacuna de funcionalidade de "acompanhamento".
+- **Sistema 3:** Excel - Ferramentas de planilhas. Representam a alternativa manual de organização de dados.
+- **Sistema 4:** E-campus - Sistemas oficiais da UFAM. Analisados para confirmar a lacuna de funcionalidade de "acompanhamento".
 
 
 **c) Obtenção e Análise de Dados**
@@ -73,12 +73,12 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 | **Pontos Fracos** | Representação literal do "retrabalho manual"; não é uma ferramenta de gestão, mas de registro; Interface péssima para acompanhamento visual de projetos; Portabilidade mobile ruim para gestão. | Fracasso total nos critérios de gestão e acompanhamento. |
 
 <i> Captura de exemplo do uso de planilhas como ferramenta de organização, evidenciando sua funcionalidade tabular e limitações em termos de acompanhamento visual.<br>
-[Teste 3 - Google Sheets / Excel](https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view)
+[Teste 3 - Excel](https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view)
 </i>
 
 ---
   
-### Sistema 4 - E-campus / SEI
+### Sistema 4 - E-campus
 
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
@@ -88,7 +88,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 | **Pontos Fracos** | Não oferece nenhuma funcionalidade de acompanhamento ou gestão da evolução do projeto. Não tem boa portabilidade ou interface visual de gestão. | Não cumpre o requisito central de acompanhamento. |
 
 <i>Registro da interface do sistema institucional E-campus/SEI, ilustrando sua função de protocolo e gestão documental dentro do ambiente acadêmico da UFAM.<br>
-[Teste 4 - E-campus / SEI](https://drive.google.com/file/d/1z9lZNQDUpmRZssG66xTVjfOHfCrcGR1u/view?usp=drive_open)
+[Teste 4 - E-campus](https://drive.google.com/file/d/1z9lZNQDUpmRZssG66xTVjfOHfCrcGR1u/view?usp=drive_open)
 </i>
 </div>
 
@@ -104,7 +104,7 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
 | **Sistema 1 (Trello)** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Sistema 2 (Notion)** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Sistema 3 (Planilhas)** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| **Sistema 4 (E-campus/SEI)** | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
+| **Sistema 4 (E-campus)** | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
 
 ---
 
