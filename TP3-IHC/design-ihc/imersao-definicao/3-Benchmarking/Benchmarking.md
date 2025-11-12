@@ -109,20 +109,20 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
 ---
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1rjRHymP0w5uybTaa4EiMRJ_tyyDIpnJm" width="70%">
-  <p><i>Análise visual do Trello, evidenciando sua eficiência em fluxos genéricos,
+  <p><i>Análise visual do Trello, evidenciando sua eficiência em fluxos genéricos,<br>
     porém com alta necessidade de adaptação à realidade acadêmica.</i></p>
 
   <img src="https://drive.google.com/uc?export=view&id=1FNnAuR_0tQ8IsMefED8h5WVBS8BuxSDf" width="70%">
   <p><i>Benchmarking do Notion, destacando sua flexibilidade e poder de personalização, <br>mas com curva de aprendizado elevada e ausência de integração institucional.</i></p>
 
   <img src="https://drive.google.com/uc?export=view&id=1Fhn3PM8mIVUNgMglbVfgidrsM-H-t-pP" width="70%">
-  <p><i>Visualização da análise do Google Sheets/Excel, ressaltando sua força em manipulação de dados e fraqueza em gestão visual e acompanhamento de projetos.</i></p>
+  <p><i>Visualização da análise do Google Sheets/Excel, ressaltando sua força em manipulação de dados <br>e fraqueza em gestão visual e acompanhamento de projetos.</i></p>
 
   <img src="https://drive.google.com/uc?export=view&id=1dQuX-ehzg9A8GhShMTJ2fORP1NQCstfv" width="70%">
-  <p><i>Imagem ilustrando a avaliação do E-campus/SEI, demonstrando sua adequação legal e acadêmica, mas limitações em portabilidade e acompanhamento visual de processos.</i></p>
+  <p><i>Imagem ilustrando a avaliação do E-campus/SEI, demonstrando sua adequação legal e acadêmica,<br> mas limitações em portabilidade e acompanhamento visual de processos.</i></p>
 
   <img src="https://drive.google.com/uc?export=view&id=1byIr0xLhxjp9faYe0jzmP2_FD9aXPPUU" width="70%">
-  <p><i>Tabela consolidada do benchmarking, comparando de forma direta os sistemas analisados com base nos critérios definidos no briefing. A matriz evidencia as lacunas de integração e especificidade acadêmica, reforçando a necessidade de uma solução personalizada para o contexto da UFAM.</i></p>
+  <p><i>Tabela consolidada do benchmarking, comparando de forma direta os sistemas analisados com base nos critérios definidos no briefing.<br> A matriz evidencia as lacunas de integração e especificidade acadêmica, reforçando a necessidade de uma solução personalizada para o contexto da UFAM.</i></p>
 
 </div>
 ---
