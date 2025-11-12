@@ -45,7 +45,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 
 [Teste 1 - Trello](https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
 
---
+---
 <div align="center">
   
 ### Sistema 2 - Notion
@@ -62,6 +62,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 
 --- 
 <div align="center">
+
   
 ### Sistema 3 - Google Sheets / Excel
 </div>
@@ -77,6 +78,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 
 ---
 <div align="center">
+
   
 ### Sistema 4 - E-campus / SEI
 </div>
@@ -92,6 +94,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 
 ---
 
+
 **d) Matriz de Comparação Consolidada**
 
 A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisitos levantados no briefing:
@@ -105,6 +108,7 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
 
 ---
 <div align="center">
+
   
 ### Conclusão do Benchmarking
 </div>
