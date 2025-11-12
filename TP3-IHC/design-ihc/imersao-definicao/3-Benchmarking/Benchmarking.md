@@ -42,8 +42,9 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 | **Pontos Fortes** | Excelente Portabilidade (desktop e mobile), interface intuitiva, e curva de aprendizado baixa. | Design focado na simplicidade e uso rápido. |
 | **Pontos Fracos** | Totalmente Genérico (Exige 100% de adaptação manual); não possui modelos acadêmicos nativos; não centraliza editais; nenhuma integração com E-campus. | Representa a dificuldade do "Retrabalho de Adaptação" citada pelo cliente. |
 
+<i> Teste visual do Trello, mostrando como o sistema organiza tarefas em quadros e cartões, ilustrando sua abordagem de gestão visual e simplicidade de uso.
 [Teste 1 - Trello](https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
-
+</i>
 ---
 
 ### Sistema 2 - Notion
@@ -55,8 +56,9 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 | **Pontos Fortes** | Extremamente poderoso, flexível e permite excelente resultado estético e funcional se dedicado tempo à configuração. | Potencial para criar modelos personalizados. |
 | **Pontos Fracos** | Curva de Aprendizado Alta e o "Retrabalho de Adaptação" é ainda maior que o do Trello; não fala a "linguagem UFAM" nativamente; não integra com E-campus. | A flexibilidade exige um investimento de tempo inicial elevado. |
 
+<i> Exploração no Notion, destacando sua estrutura flexível baseada em páginas e bancos de dados, destacando sua flexibilidade e poder de personalização, mas com curva de aprendizado elevada.
 [Teste 2 - Notion](https://drive.google.com/file/d/1Abf5II5S3ccQUV5DuTh9HmDlD8XNGDHH/view)
-
+</i>
 --- 
   
 ### Sistema 3 - Google Sheets / Excel
@@ -68,8 +70,9 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 | **Pontos Fortes** | Amplamente conhecido e acessível. | Baixo custo e alta disponibilidade. |
 | **Pontos Fracos** | Representação literal do "retrabalho manual"; não é uma ferramenta de gestão, mas de registro; Interface péssima para acompanhamento visual de projetos; Portabilidade mobile ruim para gestão. | Fracasso total nos critérios de gestão e acompanhamento. |
 
+<i>Captura de exemplo do uso de planilhas como ferramenta de organização, evidenciando sua funcionalidade tabular e limitações em termos de acompanhamento visual.
 [Teste 3 - Google Sheets / Excel](https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view)
-
+</i>
 ---
   
 ### Sistema 4 - E-campus / SEI
@@ -81,8 +84,9 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 | **Pontos Fortes** | É o sistema oficial de registro, garantindo a conformidade legal e a Integração com o banco de dados institucional. | Único com alta Especificidade Acadêmica. |
 | **Pontos Fracos** | Não oferece nenhuma funcionalidade de acompanhamento ou gestão da evolução do projeto. Não tem boa portabilidade ou interface visual de gestão. | Não cumpre o requisito central de acompanhamento. |
 
+<i>Registro da interface do sistema institucional E-campus/SEI, ilustrando sua função de protocolo e gestão documental dentro do ambiente acadêmico da UFAM.
 [Teste 4 - E-campus / SEI](https://drive.google.com/file/d/1z9lZNQDUpmRZssG66xTVjfOHfCrcGR1u/view?usp=drive_open)
-
+</i>
 </div>
 
 ---
