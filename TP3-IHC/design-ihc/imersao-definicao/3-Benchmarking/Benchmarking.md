@@ -45,7 +45,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 
 [Teste 1 - Trello](https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
 
---- 
+--
 <div align="center">
   
 ### Sistema 2 - Notion
