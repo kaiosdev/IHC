@@ -47,7 +47,6 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 ---
 
 ### Sistema 2 - Notion
-</div> 
 
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
@@ -59,11 +58,8 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 [Teste 2 - Notion](https://drive.google.com/file/d/1Abf5II5S3ccQUV5DuTh9HmDlD8XNGDHH/view)
 
 --- 
-<div align="center">
-
   
 ### Sistema 3 - Google Sheets / Excel
-</div>
 
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
@@ -75,11 +71,8 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 [Teste 3 - Google Sheets / Excel](https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view)
 
 ---
-<div align="center">
-
   
 ### Sistema 4 - E-campus / SEI
-</div>
 
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
@@ -90,6 +83,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 
 [Teste 4 - E-campus / SEI](https://drive.google.com/file/d/1z9lZNQDUpmRZssG66xTVjfOHfCrcGR1u/view?usp=drive_open)
 
+</div>
 ---
 
 
