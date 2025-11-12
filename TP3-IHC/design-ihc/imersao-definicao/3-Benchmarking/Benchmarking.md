@@ -44,7 +44,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 
 [Teste 1 - Trello](https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
 
----
+<hr style="border: 0.5px solid #67c7ff;">
 
 ### Sistema 2 - Notion
 
@@ -99,6 +99,7 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
 | **Sistema 4 (E-campus/SEI)** | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
 
 ---
+
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1rjRHymP0w5uybTaa4EiMRJ_tyyDIpnJm" width="70%">
   <p><i>Análise visual do Trello, evidenciando sua eficiência em fluxos genéricos,<br>
@@ -117,6 +118,7 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
   <p><i>Tabela consolidada do benchmarking, comparando de forma direta os sistemas analisados com base <br>nos critérios definidos no briefing. A matriz evidencia as lacunas de integração e especificidade acadêmica,<br> reforçando a necessidade de uma solução personalizada para o contexto da UFAM.</i></p>
 
 </div>
+
 ---
 
 <div align="center">
