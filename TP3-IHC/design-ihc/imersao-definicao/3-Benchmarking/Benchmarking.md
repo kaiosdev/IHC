@@ -122,7 +122,7 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
   <p><i>Imagem ilustrando a avaliação do E-campus/SEI, demonstrando sua adequação legal e acadêmica,<br> mas limitações em portabilidade e acompanhamento visual de processos.</i></p>
 
   <img src="https://drive.google.com/uc?export=view&id=1byIr0xLhxjp9faYe0jzmP2_FD9aXPPUU" width="70%">
-  <p><i>Tabela consolidada do benchmarking, comparando de forma direta os sistemas analisados <br>com base nos critérios definidos no briefing.A matriz evidencia as lacunas de integração e especificidade acadêmica,<br> reforçando a necessidade de uma solução personalizada para o contexto da UFAM.</i></p>
+  <p><i>Tabela consolidada do benchmarking, comparando de forma direta os sistemas analisados com base <br>nos critérios definidos no briefing.A matriz evidencia as lacunas de integração e especificidade acadêmica,<br> reforçando a necessidade de uma solução personalizada para o contexto da UFAM.</i></p>
 
 </div>
 ---
