@@ -42,6 +42,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 
 [Teste 1 - Trello](https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
 
+--- 
 
 #### Sistema 2 - Notion
 
@@ -54,7 +55,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 
 [Teste 2 - Notion](https://drive.google.com/file/d/1Abf5II5S3ccQUV5DuTh9HmDlD8XNGDHH/view)
 
-
+--- 
 
 #### Sistema 3 - Google Sheets / Excel
 
@@ -67,7 +68,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 
 [Teste 3 - Google Sheets / Excel](https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view)
 
-
+---
 
 #### Sistema 4 - E-campus / SEI
 
@@ -80,7 +81,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 
 [Teste 4 - E-campus / SEI](https://drive.google.com/file/d/1z9lZNQDUpmRZssG66xTVjfOHfCrcGR1u/view?usp=drive_open)
 
-
+---
 
 **d) Matriz de Comparação Consolidada**
 
@@ -93,9 +94,9 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
 | **Sistema 3 (Planilhas)** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Sistema 4 (E-campus/SEI)** | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
 
+---
 
-
-**Conclusão do Benchmarking**
+### Conclusão do Benchmarking
 
 A análise comparativa confirma de forma robusta a lacuna identificada pelo cliente. Existe uma dissociação crítica no mercado de ferramentas:
 
