@@ -109,7 +109,8 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
 ---
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1rjRHymP0w5uybTaa4EiMRJ_tyyDIpnJm" width="70%">
-  <p><i>Análise visual do Trello, evidenciando sua eficiência em fluxos genéricos, porém com alta necessidade de adaptação à realidade acadêmica.</i></p>
+  <p><i>Análise visual do Trello, evidenciando sua eficiência em fluxos genéricos,
+    porém com alta necessidade de adaptação à realidade acadêmica.</i></p>
 
   <img src="https://drive.google.com/uc?export=view&id=1FNnAuR_0tQ8IsMefED8h5WVBS8BuxSDf" width="70%">
   <p><i>Benchmarking do Notion, destacando sua flexibilidade e poder de personalização, mas com curva de aprendizado elevada e ausência de integração institucional.</i></p>
