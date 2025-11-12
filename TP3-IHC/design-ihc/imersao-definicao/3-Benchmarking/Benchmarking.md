@@ -31,7 +31,10 @@ Os produtos, organizações ou serviços selecionados como referência foram:
 
 Abaixo está a análise detalhada de cada similar-alvo em relação à sua capacidade de resolver a dor do cliente:
 
+<div align="center">
+  
 ### Sistema 1 - Trello
+</div>
 
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
@@ -43,8 +46,10 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 [Teste 1 - Trello](https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
 
 --- 
-
+<div align="center">
+  
 #### Sistema 2 - Notion
+</div> 
 
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
@@ -56,8 +61,10 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 [Teste 2 - Notion](https://drive.google.com/file/d/1Abf5II5S3ccQUV5DuTh9HmDlD8XNGDHH/view)
 
 --- 
-
+<div align="center">
+  
 #### Sistema 3 - Google Sheets / Excel
+</div>
 
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
@@ -69,8 +76,10 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 [Teste 3 - Google Sheets / Excel](https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view)
 
 ---
-
+<div align="center">
+  
 #### Sistema 4 - E-campus / SEI
+</div>
 
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
@@ -95,8 +104,10 @@ A matriz a seguir consolida a avaliação dos similares-alvo, focada nos requisi
 | **Sistema 4 (E-campus/SEI)** | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
 
 ---
-
+<div align="center">
+  
 ### Conclusão do Benchmarking
+</div>
 
 A análise comparativa confirma de forma robusta a lacuna identificada pelo cliente. Existe uma dissociação crítica no mercado de ferramentas:
 
