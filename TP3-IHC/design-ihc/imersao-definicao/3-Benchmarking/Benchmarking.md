@@ -144,4 +144,4 @@ A análise comparativa confirma de forma robusta a lacuna identificada pelo clie
 
 **Sistemas Oficiais (E-campus):** Excelentes em Especificidade e Integração, mas falham miseravelmente em Gestão de Projetos e Portabilidade (não oferecem acompanhamento).
 
-O resultado valida plenamente a oportunidade de mercado para o produto proposto, que deve combinar a **Gestão de Projetos de baixo atrito** com a **Especificidade Acadêmica nativa da UFAM**, resolvendo o problema central de retrabalho e melhorando a experiência móvel para o client. Esta conclusão será a base para a definição da solução (Etapa 4).
+O resultado valida plenamente a oportunidade para o produto proposto, que deve combinar a **Gestão de Projetos de baixo atrito** com a **Especificidade Acadêmica nativa da UFAM**, resolvendo o problema central de retrabalho e melhorando a experiência móvel para o cliente.
