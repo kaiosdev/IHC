@@ -45,6 +45,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 <i> Teste visual do Trello, mostrando como o sistema organiza tarefas em quadros e cartões, ilustrando sua abordagem de gestão visual e simplicidade de uso.
 [Teste 1 - Trello](https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
 </i>
+
 ---
 
 ### Sistema 2 - Notion
@@ -59,6 +60,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 <i> Exploração no Notion, destacando sua estrutura flexível baseada em páginas e bancos de dados, destacando sua flexibilidade e poder de personalização, mas com curva de aprendizado elevada.
 [Teste 2 - Notion](https://drive.google.com/file/d/1Abf5II5S3ccQUV5DuTh9HmDlD8XNGDHH/view)
 </i>
+
 --- 
   
 ### Sistema 3 - Google Sheets / Excel
@@ -70,9 +72,10 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 | **Pontos Fortes** | Amplamente conhecido e acessível. | Baixo custo e alta disponibilidade. |
 | **Pontos Fracos** | Representação literal do "retrabalho manual"; não é uma ferramenta de gestão, mas de registro; Interface péssima para acompanhamento visual de projetos; Portabilidade mobile ruim para gestão. | Fracasso total nos critérios de gestão e acompanhamento. |
 
-<i>Captura de exemplo do uso de planilhas como ferramenta de organização, evidenciando sua funcionalidade tabular e limitações em termos de acompanhamento visual.
+<i> Captura de exemplo do uso de planilhas como ferramenta de organização, evidenciando sua funcionalidade tabular e limitações em termos de acompanhamento visual.
 [Teste 3 - Google Sheets / Excel](https://drive.google.com/file/d/1vaJGYmzOp-kHph4Q4XFrOts3XRcfMTNj/view)
 </i>
+
 ---
   
 ### Sistema 4 - E-campus / SEI
