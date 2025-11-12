@@ -41,7 +41,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 | **Problemas Resolvidos** | Organização visual de tarefas e fluxo de trabalho simples, permitindo acompanhamento de status e colaboração. | Funciona bem para fluxos genéricos. |
 | **Como é Resolvido** | Sistema de Quadros (Boards), Listas (Lists) e Cartões (Cards), seguindo o princípio do Kanban. | Utiliza metodologia visual (Kanban) de baixo atrito. |
 | **Pontos Fortes** | Excelente Portabilidade (desktop e mobile), interface intuitiva, e curva de aprendizado baixa. | Design focado na simplicidade e uso rápido. |
-| **Pontos Fracos** | Totalmente Genérico (Exige 100% de adaptação manual); não possui modelos acadêmicos nativos; não centraliza editais; nenhuma integração com E-campus. | Representa a dor do "Retrabalho de Adaptação" citada pelo cliente. |
+| **Pontos Fracos** | Totalmente Genérico (Exige 100% de adaptação manual); não possui modelos acadêmicos nativos; não centraliza editais; nenhuma integração com E-campus. | Representa a dificuldade do "Retrabalho de Adaptação" citada pelo cliente. |
 
 [Teste 1 - Trello](https://drive.google.com/file/d/1HtChSaSEovoB4zJeHdFwBWghB0K8SwFR/view)
 
@@ -54,7 +54,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 | Critério | Descrição da Solução | Análise de Destaque |
 |:--:|:--:|:--:|
 | **Problemas Resolvidos** | Necessidade de um espaço de trabalho unificado, combinando documentos, bancos de dados e gestão de tarefas. | Alta flexibilidade para documentação e estruturação de dados. |
-| **Como é Resolvido** | Páginas flexíveis, bases de dados relacionais e templates altamente personalizáveis. | Permite a construção de estruturas complexas, como os modelos que o professor precisa, mas de forma manual. |
+| **Como é Resolvido** | Páginas flexíveis, bases de dados relacionais e templates altamente personalizáveis. | Permite a construção de estruturas complexas, como os modelos que o cliente precisa, mas de forma manual. |
 | **Pontos Fortes** | Extremamente poderoso, flexível e permite excelente resultado estético e funcional se dedicado tempo à configuração. | Potencial para criar modelos personalizados. |
 | **Pontos Fracos** | Curva de Aprendizado Alta e o "Retrabalho de Adaptação" é ainda maior que o do Trello; não fala a "linguagem UFAM" nativamente; não integra com E-campus. | A flexibilidade exige um investimento de tempo inicial elevado. |
 
@@ -88,7 +88,7 @@ Abaixo está a análise detalhada de cada similar-alvo em relação à sua capac
 | **Problemas Resolvidos** | Registro, protocolo e tramitação oficial de processos e documentos dentro da universidade. | Garante a conformidade legal e institucional. |
 | **Como é Resolvido** | Formulários de cadastro e sistemas de protocolo eletrônico. | Fluxo oficial de submissão. |
 | **Pontos Fortes** | É o sistema oficial de registro, garantindo a conformidade legal e a Integração com o banco de dados institucional. | Único com alta Especificidade Acadêmica. |
-| **Pontos Fracos** | Não oferece nenhuma funcionalidade de acompanhamento ou gestão da evolução do projeto (conforme Prof. Victor). Não tem boa portabilidade ou interface visual de gestão. | Não cumpre o requisito central de acompanhamento. |
+| **Pontos Fracos** | Não oferece nenhuma funcionalidade de acompanhamento ou gestão da evolução do projeto. Não tem boa portabilidade ou interface visual de gestão. | Não cumpre o requisito central de acompanhamento. |
 
 [Teste 4 - E-campus / SEI](https://drive.google.com/file/d/1z9lZNQDUpmRZssG66xTVjfOHfCrcGR1u/view?usp=drive_open)
 
