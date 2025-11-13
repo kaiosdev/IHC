@@ -40,7 +40,7 @@ A seguir estão as jornadas detalhadas para cada uma das três personas principa
 
 ![Persona Carlos Mendonça](https://drive.google.com/uc?export=view&id=10JnjOcszc83IAjg0yLnUAECN-KrDmAdA)
 
-*Esta imagem detalha a persona de acessibilidade, o **Professor Sênior**. Sua jornada é um "teste de falha" que destaca as barreiras (fontes pequenas, ícones sem texto, baixo contraste).
+*Esta imagem detalha a persona de acessibilidade, o **Professor Sênior**. Sua jornada é um "teste de falha" que destaca as barreiras (fontes pequenas, ícones sem texto, baixo contraste).*
 
 **Objetivo da Jornada:** Tentar usar o sistema para encontrar um projeto (a jornada foca nas barreiras).
 
