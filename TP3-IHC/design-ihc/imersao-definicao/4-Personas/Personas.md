@@ -1,17 +1,15 @@
 # Etapa 4: Personas
 
-Abaixo estão as três personas que guiam o design do projeto. Clique em cada uma para expandir e ver os detalhes da pesquisa.
+> ℹ️ **Nota:** O conteúdo de cada persona está recolhido. **Clique no título de cada persona para expandir** e ver os detalhes!
 
 ---
 
 <details>
-  <summary>
-    <h3>👤 Persona 1: O Orientador Experiente (Victor Antunes, 45)</h3>
-  </summary>
+  <summary><strong>👤 Persona 1: O Orientador Experiente (Victor Antunes, 45)</strong></summary>
 
   > **Frustração-Chave:** "A sua maior frustração é o **retrabalho**. Ele odeia ter de 'adaptar' ferramentas genéricas... para a 'linguagem da UFAM'. A 'falta de especificidade para o assunto UFAM é **cruel**'."
 
-  ![Persona Victor Antunes](httpshttps://drive.google.com/uc?export=view&id=1o7cwuzSWk9OeIQQe0cwLxVorMBF6jEWh)
+  ![Persona Victor Antunes](https://drive.google.com/uc?export=view&id=1o7cwuzSWk9OeIQQe0cwLxVorMBF6jEWh)
 
   **Eu me chamo:** Victor Antunes
   **Idade:** 45 anos
@@ -59,9 +57,7 @@ Abaixo estão as três personas que guiam o design do projeto. Clique em cada um
 ---
 
 <details>
-  <summary>
-    <h3>👩‍🎓 Persona 2: O Aluno Orientando (Ana Beatriz, 22)</h3>
-  </summary>
+  <summary><strong>👩‍🎓 Persona 2: O Aluno Orientando (Ana Beatriz, 22)</strong></summary>
 
   > **Frustração-Chave:** "O seu maior medo é **perder um prazo** importante do projeto PIBIC porque a comunicação com o orientador **se perdeu no WhatsApp ou no e-mail**."
 
@@ -74,7 +70,7 @@ Abaixo estão as três personas que guiam o design do projeto. Clique em cada um
   * **Q1. Qual a profissão dele (a)?** Estudante de Engenharia e bolsista PIBIC.
   * **Q2. Qual o nível de escolaridade dele (a)?** Ensino Superior incompleto.
   * **Q3. Como ele (a) se descreve?** "Sou organizada, mas sobrecarregada. Tenho as disciplinas, o projeto PIBIC e o meu estágio."
-  * **Q4. Quais os medos/preocupações/frustrações dele (a)? Por quê?** O seu maior medo é **perder um prazo** importante do projeto PIBIC porque a comunicação com o orientador se perdeu no WhatsApp ou no e-mail.
+  * **Q4. Quais os medos/preocupações/frustrações dele (a)? Por quê?** O seu maior medo é **perder um prazo** importante do projeto PIBIC because a comunicação com o orientador se perdeu no WhatsApp ou no e-mail.
 
   ### Contexto
   * **C1. Quais tarefas da sua rotina ele (a) realiza utilizando aplicações (web, mobile, desktop)?**
@@ -110,9 +106,7 @@ Abaixo estão as três personas que guiam o design do projeto. Clique em cada um
 ---
 
 <details>
-  <summary>
-    <h3>👨‍🏫 Persona 3: O Professor Sênior (Carlos Mendonça, 58)</h3>
-  </summary>
+  <summary><strong>👨‍🏫 Persona 3: O Professor Sênior (Carlos Mendonça, 58)</strong></summary>
 
   > **Frustração-Chave:** "Não gosta de interfaces 'clean' que escondem menus... **'Se eu tenho de procurar o botão, está errado.'**"
 
@@ -138,7 +132,7 @@ Abaixo estão as três personas que guiam o design do projeto. Clique em cada um
   * **E2. Quais partes (...) não gosta? Por quê?** **Não gosta de interfaces "clean" que escondem menus** ou que usam fontes finas e cores de baixo contraste. "Se eu tenho de procurar o botão, está errado."
   * **E3. Em quais dispositivos (...) utiliza?** Quase exclusivamente o **computador desktop** do seu escritório, onde tem um monitor grande e pode dar "zoom" na página.
   * **E4. Como (...) aprende a usar uma aplicação?** Lendo manuais ou pedindo a um colega para lhe mostrar o passo a passo.
-  * **E5. (...) gosta de fazer as coisas passo a passo ou prefere atalhos?** Prefere seguir um passo a passo claro e linear.
+  * **E5. (...) gosta de fazer as coisas passo a passo ou prefere atalagos?** Prefere seguir um passo a passo claro e linear.
   * **E6. (...) lembra melhor (...) vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?** Lendo texto, desde que seja grande e claro.
   * **E7. (...) gosta de interação social (...) ou prefere se manter reservado?** Prefere interações formais (e-mail, reuniões).
 
