@@ -47,4 +47,3 @@
   <img src="https://drive.google.com/uc?export=view&id=1tvWB3lMLVaZVvAZxd8ECERckMkpKFJvz" width="70%">
   <p><i>Tabela de priorização de requisitos elaborada com base no método MoSCoW, utilizada para definir o escopo mínimo viável (MVP) do projeto. A classificação permitiu identificar quais funcionalidades são essenciais (“Must Have”), desejáveis (“Should Have”), opcionais (“Could Have”) e quais serão adiadas (“Won’t Have”). Essa análise garantiu uma visão estratégica sobre o que realmente agrega valor ao usuário e deve ser priorizado nas primeiras versões do sistema.</i></p>
 </div>
----
