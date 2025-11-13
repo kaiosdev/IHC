@@ -6,7 +6,7 @@ A seguir estão as jornadas detalhadas para cada uma das três personas principa
 
 ## 👤 Jornada 1: Prof. Victor Antunes (O Orientador)
 
-![Persona Victor Antunes](https://drive.google.com/uc?export=view&id=1R_eKMW4AUt9mbX7Hux5a9eIzKBHUXBoo)
+![Persona Victor Antunes](https://drive.google.com/uc?export=view&id=1jGO5JpR-POY52WkOyH7Dvvm6ecXUi-Nr)
 
 *Esta imagem detalha a persona do Prof. Victor, o **Orientador Experiente**. Ele é o usuário primário, focado em resolver suas frustrações com "retrabalho" e ferramentas genéricas que não falam a "linguagem da UFAM".*
 
@@ -22,7 +22,7 @@ A seguir estão as jornadas detalhadas para cada uma das três personas principa
 
 ## 👩‍🎓 Jornada 2: Ana Beatriz (A Aluna Orientanda)
 
-![Persona Ana Beatriz](https://drive.google.com/uc?export=view&id=13vopdUzN9HdH7M8XM6ss2a6G5bgUqR2i)
+![Persona Ana Beatriz](https://drive.google.com/uc?export=view&id=1OHGr91AgNCSJifJoKCCfFoPDcuIMwVQf)
 
 *Esta imagem detalha a persona da Ana Beatriz, a **Aluna Orientanda**. Sua jornada é focada em receber demandas claras e registrar suas entregas, resolvendo seu medo de perder prazos por causa da comunicação descentralizada (WhatsApp/E-mail).*
 
@@ -38,7 +38,7 @@ A seguir estão as jornadas detalhadas para cada uma das três personas principa
 
 ## 👨‍🏫 Jornada 3: Prof. Carlos Mendonça (Acessibilidade)
 
-![Persona Carlos Mendonça](https://drive.google.com/uc?export=view&id=13cDJ9VdVQDS0atVydZw8T8pLceskRTEH)
+![Persona Carlos Mendonça](https://drive.google.com/uc?export=view&id=10JnjOcszc83IAjg0yLnUAECN-KrDmAdA)
 
 *Esta imagem detalha a persona de acessibilidade, o **Professor Sênior**. Sua jornada é um "teste de falha" que destaca as barreiras (fontes pequenas, ícones sem texto, baixo contraste).
 
