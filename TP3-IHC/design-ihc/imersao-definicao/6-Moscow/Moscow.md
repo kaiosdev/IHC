@@ -1,48 +1,42 @@
-# Etapa 6: Priorização com MoSCoW
+## Priorização de Funcionalidades (MoSCoW)
+---
 
-Por fim, os requisitos levantados durante as etapas de **Imersão e Definição** (Briefing, CSD, Benchmarking, Personas e Jornadas) foram priorizados utilizando a técnica **MoSCoW**.
+### M - Must Have (Obrigatórios)
+> Funcionalidades essenciais e inegociáveis. Sem elas, o produto não resolve o problema central de gestão e acompanhamento.
 
-O objetivo é definir o que é **imprescindível** para o produto resolver a dor principal do usuário — o **retrabalho na gestão de projetos** — e o que pode ser desenvolvido em versões futuras.
+- **Dashboard Central de Projetos:** Uma tela principal onde o orientador (Victor) possa ver e acessar todos os seus projetos ativos (PIBIC, PACE, Mestrado, etc.) em um único local, resolvendo sua dificuldade em centralizar informações.
+- **Gestão de Tarefas (Orientador):** O orientador (Victor) deve conseguir adicionar novas tarefas ou demandas para um aluno/projeto específico (ex: "Revisar relatório mensal").
+- **Notificações (Aluno):** A aluna (Ana Beatriz) deve receber uma notificação (no telemóvel) quando uma nova demanda for atribuída, pois ela gosta de notificações claras.
+- **Visualização de Tarefas (Aluno):** A aluna (Ana Beatriz) deve conseguir visualizar as demandas enviadas pelo orientador (ex: "Revisar relatório mensal").
+- **Submissão de Arquivos/Relatórios (Aluno):** A aluna (Ana Beatriz) deve ter um espaço para submeter relatórios e anexar arquivos, marcando a tarefa como "Concluída".
+- **Acompanhamento de Progresso (Orientador):** O orientador (Victor) deve conseguir visualizar o status atualizado das tarefas (ex: "Concluída" ou "Aguardando Revisão").
+- **Portabilidade (Web e Mobile):** O sistema deve funcionar em notebooks (usado por Victor e Carlos) e dispositivos móveis (preferido por Ana).
+- **Requisitos de Acessibilidade:** A interface deve ter fontes legíveis, alto contraste e botões/menus claros (sem depender apenas de ícones) para atender à Persona 3 (Carlos).
 
 ---
 
-## MUST HAVE — **DEVE TER**
-*(Funcionalidades ou recursos imprescindíveis para resolver as dores do usuário)*
+### S - Should Have (Importantes)
+> Funcionalidades de alto valor que resolvem dores significativas, mas o produto ainda funciona sem elas no primeiro momento.
 
-Essas funcionalidades são **essenciais** para que o produto seja viável e resolva o problema central:
-
-- **Dashboard Central de Projetos:** Tela principal onde o orientador (Victor) possa visualizar e acessar todos os seus projetos ativos (PIBIC, PACE, Mestrado, etc.) em um único local.  
-- **Acompanhamento de Progresso (Orientador):** Permitir ao orientador atualizar o status dos projetos (ex.: “Em andamento”, “Aguardando revisão”).  
-- **Gestão de Tarefas (Orientador):** Criar, editar e atribuir tarefas a alunos/projetos específicos (ex.: “Revisar relatório mensal”).  
-- **Visualização e Submissão de Tarefas (Aluno):** Permitir à aluna (Ana Beatriz) visualizar as demandas e submeter arquivos/relatórios, marcando tarefas como concluídas.  
-- **Requisitos de Acessibilidade:** Interface adaptada para baixa visão (Carlos), com fontes legíveis, alto contraste e menus claros.  
-- **Portabilidade (Web e Mobile):** Acesso funcional tanto em notebooks (UFAM/casa) quanto em dispositivos móveis, garantindo flexibilidade.
+- **Feed Automático de Editais:** Um "feed" que centralize automaticamente os novos editais das Pró-Reitorias, resolvendo a dor de Victor de acessar múltiplos sites.
+- **Modelos Pré-setados de Projeto:** Modelos ("templates") para projetos da UFAM (PIBIC, PACE) para evitar que Victor tenha que adaptar ferramentas genéricas, o que é sua principal frustração.
+- **Integração com E-campus/SEI:** Integração para enviar dados (como relatórios aprovados) para o E-campus, evitando que Victor digite em dois locais.
 
 ---
 
-## SHOULD HAVE — **DEVERIA TER**
-*(Funcionalidades ou recursos importantes, mas não fundamentais na primeira versão)*
+### C - Could Have (Desejáveis)
+> Recursos que melhoram a experiência, mas cuja ausência não prejudica o funcionamento principal.
 
-- **Feed de Atualizações de Editais:** Centralizar em um único local os editais vigentes (resolve a dor de acessar múltiplos sites).  
-- **Integração Parcial com o E-campus:** Permitir **envio de dados básicos** (ex.: status ou relatórios) diretamente do sistema para o E-campus.  
-
----
-
-## COULD HAVE — **PODERIA TER**
-*(Funcionalidades não essenciais, mas que agregam valor e melhoram a experiência)*
-
-- **Compêndio de Normas e Leis:** Repositório para consulta rápida de normas e legislações relevantes à pesquisa e extensão.  
-- **Integração Completa com E-campus/SEI:** Leitura e escrita de dados, automatizando relatórios e sincronizando informações.  
-- **Sistema de Check-in (Presença):** Registro semanal de presença/atividades dos orientandos.  
-- **Visualização de Conexões entre Projetos:** Exibir como um projeto (ex.: PIBIC) se conecta ou evolui para outro (ex.: Mestrado).
+- **Sistema de "Check-in" (Controle de Presença):** Um sistema simples para a aluna (Ana Beatriz) registrar presença ou atividades, conforme sua solução ideal.
+- **Busca Rápida:** Um campo de "busca" para que o orientador (Victor) encontre rapidamente um aluno ou projeto, evitando a barreira de listas longas.
+- **Visualização de Conexões:** Uma forma gráfica de visualizar a conexão entre projetos (ex: um PIBIC que evoluiu para um Mestrado), resolvendo uma dificuldade de Victor.
+- **Feedback de Sucesso de Upload:** Um feedback claro para a aluna (Ana) após o envio da tarefa, resolvendo a barreira que ela enfrenta na Etapa 5.
 
 ---
 
-## WON’T HAVE — **NÃO TERÁ (POR ENQUANTO)**
-*(Funcionalidades fora do escopo atual ou que não geram valor imediato)*
+### W - Won't Have (Fora do Escopo Atual)
+> Recursos que não geram valor imediato para o problema central ou que adicionam complexidade desnecessária agora.
 
-- **Interface Completa do Aluno/Orientando:** O foco inicial é o orientador. O Prof. Victor destacou: *“só a minha interface tava ótimo já.”*  
-- **Integração com Ferramentas de Terceiros (ex.: Google Docs):** O fluxo de submissão será interno ao aplicativo.  
-- **Recursos Genéricos Complexos:** Evitar ferramentas que exigem configuração manual excessiva (como ocorre no Trello/Notion).  
-
----
+- **Compêndio de Normas e Leis:** Um banco de dados pesquisável de leis e normas da UFAM. Embora mencionado no áudio, é um escopo muito grande e distinto do gerenciamento de projetos.
+- **Integração com Ferramentas de Terceiros (ex: Google Docs):** A jornada da Ana mostra ela usando o Google Docs fora do app. O foco da ferramenta será o fluxo interno de submissão, não a edição de documentos em plataformas externas.
+- **Recursos Genéricos Complexos:** Qualquer funcionalidade que exija adaptação manual excessiva, pois essa é a principal frustração de Victor com Trello/Notion e o motivo de Carlos desistir de usar o app.
