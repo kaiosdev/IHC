@@ -40,3 +40,11 @@
 - **Compêndio de Normas e Leis:** Um banco de dados pesquisável de leis e normas da UFAM. Embora mencionado no áudio, é um escopo muito grande e distinto do gerenciamento de projetos.
 - **Integração com Ferramentas de Terceiros (ex: Google Docs):** A jornada da Ana mostra ela usando o Google Docs fora do app. O foco da ferramenta será o fluxo interno de submissão, não a edição de documentos em plataformas externas.
 - **Recursos Genéricos Complexos:** Qualquer funcionalidade que exija adaptação manual excessiva, pois essa é a principal frustração de Victor com Trello/Notion e o motivo de Carlos desistir de usar o app.
+
+---
+
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1tvWB3lMLVaZVvAZxd8ECERckMkpKFJvz" width="70%">
+  <p><i>Tabela de priorização de requisitos elaborada com base no método MoSCoW, utilizada para definir o escopo mínimo viável (MVP) do projeto. A classificação permitiu identificar quais funcionalidades são essenciais (“Must Have”), desejáveis (“Should Have”), opcionais (“Could Have”) e quais serão adiadas (“Won’t Have”). Essa análise garantiu uma visão estratégica sobre o que realmente agrega valor ao usuário e deve ser priorizado nas primeiras versões do sistema.</i></p>
+</div>
+---
