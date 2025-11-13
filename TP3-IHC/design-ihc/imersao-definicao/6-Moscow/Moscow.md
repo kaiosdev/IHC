@@ -65,6 +65,7 @@ Must have (obrigatórias), Should have (importantes), Could have (desejáveis) e
 ---
 
 <div align="center">
+  
 ## Análise Visual MoSCoW
   
   <img src="https://drive.google.com/uc?export=view&id=1XM1pFodAOtV8fVNvnj6uoYbkny-1pRAR" width="70%">
