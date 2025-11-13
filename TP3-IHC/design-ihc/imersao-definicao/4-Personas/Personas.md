@@ -110,7 +110,7 @@
 
   > **Frustração-Chave:** "Não gosta de interfaces 'clean' que escondem menus... **'Se eu tenho de procurar o botão, está errado.'**"
 
-  ![Persona Carlos Mendonça](https://drive.google.com/uc?export=view&id=17X6i83jhDX9q9NdavpV43O5zf9WQoJwS)
+  ![Persona Carlos Mendonça](https://drive.google.com/uc?export=view&id=1vezILmkbLoIpAM7BwoYCbApF8uOFRsY3)
 
   **Eu me chamo:** Carlos Mendonça
   **Idade:** 58 anos
