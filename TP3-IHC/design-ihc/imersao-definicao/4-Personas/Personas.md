@@ -29,21 +29,21 @@
       * Acede diariamente a múltiplos sites de Pró-Reitorias para procurar editais.
 
   ### Experiências com tecnologia
-  * **E1. Quais partes (...) gosta? Por quê?** Gosta da flexibilidade do Notion e da simplicidade visual do Trello.
-  * **E2. Quais partes (...) não gosta? Por quê?** Não gosta que sejam "genéricas". A "falta de especificidade para o assunto UFAM é cruel" e obriga-o a gastar horas a adaptar tudo.
-  * **E3. Em quais dispositivos (...) utiliza?** Em todos. Notebook (na UFAM e em casa) e telemóvel (para portabilidade).
-  * **E4. Como (...) aprende a usar a aplicação?** "Mexendo na aplicação". É tecnologicamente capaz.
-  * **E5. (...) gosta de fazer as coisas passo a passo ou prefere atalhos?** Prefere atalhos e ferramentas que já entendam o seu fluxo de trabalho.
-  * **E6. (...) lembra melhor (...) vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?** Representações gráficas e texto (listas, quadros).
-  * **E7. (...) gosta de interação social (...) ou prefere se manter reservado?** Focado no trabalho. A interação é profissional (com os seus orientandos).
+  * **E1. Quais partes ele gosta? Por quê?** Gosta da flexibilidade do Notion e da simplicidade visual do Trello.
+  * **E2. Quais partes ele não gosta? Por quê?** Não gosta que sejam "genéricas". A "falta de especificidade para o assunto UFAM é cruel" e obriga-o a gastar horas a adaptar tudo.
+  * **E3. Em quais dispositivos ele utiliza?** Em todos. Notebook (na UFAM e em casa) e telemóvel (para portabilidade).
+  * **E4. Como ele aprende a usar uma aplicação?** "Mexendo na aplicação". É tecnologicamente capaz.
+  * **E5. Ele gosta de fazer as coisas passo a passo ou prefere atalhos?** Prefere atalhos e ferramentas que já entendam o seu fluxo de trabalho.
+  * **E6. Ele lembra melhor vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?** Representações gráficas e texto (listas, quadros).
+  * **E7. Ele gosta de interação social ou prefere se manter reservado?** Focado no trabalho. A interação é profissional (com os seus orientandos).
 
   ### Problemas
-  * **P1. Quais problemas (...) na sua rotina que podem ser resolvidos pela aplicação?**
+  * **P1. Quais problemas da sua rotina podem ser resolvidos pela aplicação?**
       * Perda de tempo ao ter de adaptar ferramentas genéricas (Trello, Notion, Excel).
       * Perda de tempo ao ter de "caçar" editais em 3+ sites diferentes.
       * Falta de um local único para acompanhar a **evolução** de todos os seus projetos (PIBIC, PACE, etc.).
       * Dificuldade em ver a ligação entre projetos (ex: um PIBIC que alimenta um Mestrado).
-  * **P2. O que a aplicação (...) pode ter para ajudar (...) a resolver estes problemas?**
+  * **P2. O que a aplicação pode ter para ajudar a resolver estes problemas?**
       * Modelos ("pré-setados") para projetos da UFAM (PIBIC, PACE).
       * Um "feed" automático de novos editais.
       * Uma integração com o E-campus para evitar ter de digitar dados em dois locais.
@@ -67,32 +67,32 @@
   **Idade:** 22 anos
 
   ### Quem
-  * **Q1. Qual a profissão dele (a)?** Estudante de Engenharia e bolsista PIBIC.
-  * **Q2. Qual o nível de escolaridade dele (a)?** Ensino Superior incompleto.
-  * **Q3. Como ele (a) se descreve?** "Sou organizada, mas sobrecarregada. Tenho as disciplinas, o projeto PIBIC e o meu estágio."
-  * **Q4. Quais os medos/preocupações/frustrações dele (a)? Por quê?** O seu maior medo é **perder um prazo** importante do projeto PIBIC because a comunicação com o orientador se perdeu no WhatsApp ou no e-mail.
+  * **Q1. Qual a profissão dela (a)?** Estudante de Engenharia e bolsista PIBIC.
+  * **Q2. Qual o nível de escolaridade dela (a)?** Ensino Superior incompleto.
+  * **Q3. Como ela (a) se descreve?** "Sou organizada, mas sobrecarregada. Tenho as disciplinas, o projeto PIBIC e o meu estágio."
+  * **Q4. Quais os medos/preocupações/frustrações dela (a)? Por quê?** O seu maior medo é **perder um prazo** importante do projeto PIBIC porque a comunicação com o orientador se perdeu no WhatsApp ou no e-mail.
 
   ### Contexto
-  * **C1. Quais tarefas da sua rotina ele (a) realiza utilizando aplicações (web, mobile, desktop)?**
+  * **C1. Quais tarefas da sua rotina ela (a) realiza utilizando aplicações (web, mobile, desktop)?**
       * Usa o WhatsApp/Telegram para comunicação rápida com o orientador.
       * Usa o Google Drive/Docs para escrever relatórios.
       * Usa o E-campus para ver as suas notas das disciplinas.
 
   ### Experiências com tecnologia
-  * **E1. Quais partes (...) gosta? Por quê?** Gosta de aplicações rápidas e que funcionem bem no telemóvel. Gosta de receber notificações claras.
-  * **E2. Quais partes (...) não gosta? Por quê?** Não gosta de sistemas lentos (como o E-campus) e de ter de procurar informação em vários locais diferentes.
-  * **E3. Em quais dispositivos (...) utiliza?** Principalmente o telemóvel. O notebook é usado para tarefas longas (escrever o relatório).
-  * **E4. Como (...) aprende a usar uma aplicação?** "Mexendo". Espera que a aplicação seja intuitiva.
-  * **E5. (...) gosta de fazer as coisas passo a passo ou prefere atalhos?** Prefere atalhos e ver claramente "o que eu preciso de fazer hoje".
-  * **E6. (...) lembra melhor (...) vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?** Lendo texto (listas de tarefas, notificações).
-  * **E7. (...) gosta de interação social (...) ou prefere se manter reservado?** Gosta de interação, mas para o projeto prefere um canal de comunicação formal e direto.
+  * **E1. Quais partes ela gosta? Por quê?** Gosta de aplicações rápidas e que funcionem bem no telemóvel. Gosta de receber notificações claras.
+  * **E2. Quais partes ela não gosta? Por quê?** Não gosta de sistemas lentos (como o E-campus) e de ter de procurar informação em vários locais diferentes.
+  * **E3. Em quais dispositivos ela utiliza?** Principalmente o telemóvel. O notebook é usado para tarefas longas (escrever o relatório).
+  * **E4. Como ela aprende a usar uma aplicação?** "Mexendo". Espera que a aplicação seja intuitiva.
+  * **E5. Ela gosta de fazer as coisas passo a passo ou prefere atalhos?** Prefere atalhos e ver claramente "o que eu preciso de fazer hoje".
+  * **E6. Ela lembra melhor vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?** Lendo texto (listas de tarefas, notificações).
+  * **E7. Ela gosta de interação social ou prefere se manter reservado?** Gosta de interação, mas para o projeto prefere um canal de comunicação formal e direto.
 
   ### Problemas
-  * **P1. Quais problemas (...) na sua rotina que podem ser resolvidos pela aplicação?**
+  * **P1. Quais problemas da sua rotina podem ser resolvidos pela aplicação?**
       * Comunicação descentralizada com o orientador (mistura de WhatsApp e e-mail).
       * Incerteza sobre o progresso do projeto e qual a próxima etapa.
       * Controlo de "presença" ou horas dedicadas ao projeto (mencionado pelo Prof. Victor).
-  * **P2. O que a aplicação (...) pode ter para ajudar (...) a resolver estes problemas?**
+  * **P2. O que a aplicação pode ter para ajudar ela a resolver estes problemas?**
       * Uma área para receber "demandas" claras do orientador.
       * Um local para submeter relatórios de progresso.
       * Um sistema simples de "check-in" de presença/atividades.
@@ -128,19 +128,19 @@
       * Evita ferramentas de gestão de projetos (como Trello) porque acha a interface "poluída".
 
   ### Experiências com tecnologia
-  * **E1. Quais partes (...) gosta? Por quê?** Gosta de aplicações com texto claro, botões grandes e funções óbvias (como o E-mail).
-  * **E2. Quais partes (...) não gosta? Por quê?** **Não gosta de interfaces "clean" que escondem menus** ou que usam fontes finas e cores de baixo contraste. "Se eu tenho de procurar o botão, está errado."
-  * **E3. Em quais dispositivos (...) utiliza?** Quase exclusivamente o **computador desktop** do seu escritório, onde tem um monitor grande e pode dar "zoom" na página.
-  * **E4. Como (...) aprende a usar uma aplicação?** Lendo manuais ou pedindo a um colega para lhe mostrar o passo a passo.
-  * **E5. (...) gosta de fazer as coisas passo a passo ou prefere atalagos?** Prefere seguir um passo a passo claro e linear.
-  * **E6. (...) lembra melhor (...) vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?** Lendo texto, desde que seja grande e claro.
-  * **E7. (...) gosta de interação social (...) ou prefere se manter reservado?** Prefere interações formais (e-mail, reuniões).
+  * **E1. Quais partes ele gosta? Por quê?** Gosta de aplicações com texto claro, botões grandes e funções óbvias (como o E-mail).
+  * **E2. Quais partes ele não gosta? Por quê?** **Não gosta de interfaces "clean" que escondem menus** ou que usam fontes finas e cores de baixo contraste. "Se eu tenho de procurar o botão, está errado."
+  * **E3. Em quais dispositivos ele utiliza?** Quase exclusivamente o **computador desktop** do seu escritório, onde tem um monitor grande e pode dar "zoom" na página.
+  * **E4. Como ele aprende a usar uma aplicação?** Lendo manuais ou pedindo a um colega para lhe mostrar o passo a passo.
+  * **E5. Ele gosta de fazer as coisas passo a passo ou prefere atalpos?** Prefere seguir um passo a passo claro e linear.
+  * **E6. Ele lembra melhor vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?** Lendo texto, desde que seja grande e claro.
+  * **E7. Ele gosta de interação social ou prefere se manter reservado?** Prefere interações formais (e-mail, reuniões).
 
   ### Problemas
-  * **P1. Quais problemas (...) na sua rotina que podem ser resolvidos pela aplicação?**
+  * **P1. Quais problemas da sua rotina podem ser resolvidos pela aplicação?**
       * Tem a mesma dor do Prof. Victor (gestão de projetos), mas o problema dele é **agravado** pela dificuldade de usar as ferramentas genéricas (Trello/Notion) devido à sua baixa visão.
       * A "poluição visual" e o "texto pequeno" das ferramentas atuais são uma barreira de acessibilidade.
-  * **P2. O que a aplicação (...) pode ter para ajudar (...) a resolver estes problemas?**
+  * **P2. O que a aplicação pode ter para ajudar ele a resolver estes problemas?**
       * Uma interface com **alto contraste** e **fontes de tamanho ajustável**.
       * Botões grandes e com rótulos claros (texto em vez de apenas ícones).
       * Uma navegação simples e que não "esconda" funcionalidades, alinhando-se com o pedido do Prof. Victor por algo "simples e prático".
