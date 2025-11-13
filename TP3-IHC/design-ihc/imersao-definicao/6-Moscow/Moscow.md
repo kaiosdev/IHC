@@ -1,7 +1,15 @@
 ## Priorização de Funcionalidades (MoSCoW)
+
 ---
 
+Requisitos do projeto com base no método MoSCoW, que classificam as funcionalidades conforme sua importância:
+Must have (obrigatórias), Should have (importantes), Could have (desejáveis) e Won’t have (não incluídas nesta versão).
+
+<div align="center">
+  
 ### M - Must Have (Obrigatórios)
+</div>
+
 > Funcionalidades essenciais e inegociáveis. Sem elas, o produto não resolve o problema central de gestão e acompanhamento.
 
 - **Dashboard Central de Projetos:** Uma tela principal onde o orientador (Victor) possa ver e acessar todos os seus projetos ativos (PIBIC, PACE, Mestrado, etc.) em um único local, resolvendo sua dificuldade em centralizar informações.
@@ -15,7 +23,12 @@
 
 ---
 
+<div align="center">
+  
 ### S - Should Have (Importantes)
+
+</div>
+
 > Funcionalidades de alto valor que resolvem dores significativas, mas o produto ainda funciona sem elas no primeiro momento.
 
 - **Feed Automático de Editais:** Um "feed" que centralize automaticamente os novos editais das Pró-Reitorias, resolvendo a dor de Victor de acessar múltiplos sites.
@@ -24,7 +37,11 @@
 
 ---
 
+<div align="center">
+  
 ### C - Could Have (Desejáveis)
+</div>
+
 > Recursos que melhoram a experiência, mas cuja ausência não prejudica o funcionamento principal.
 
 - **Sistema de "Check-in" (Controle de Presença):** Um sistema simples para a aluna (Ana Beatriz) registrar presença ou atividades, conforme sua solução ideal.
@@ -34,7 +51,11 @@
 
 ---
 
-### W - Won't Have (Fora do Escopo Atual)
+<div align="center">
+  
+### W - Won't Have (Não Incluídas Nesta Versão)
+</div>
+
 > Recursos que não geram valor imediato para o problema central ou que adicionam complexidade desnecessária agora.
 
 - **Compêndio de Normas e Leis:** Um banco de dados pesquisável de leis e normas da UFAM. Embora mencionado no áudio, é um escopo muito grande e distinto do gerenciamento de projetos.
