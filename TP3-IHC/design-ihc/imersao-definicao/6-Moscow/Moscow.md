@@ -19,8 +19,7 @@ Must have (obrigatórias), Should have (importantes), Could have (desejáveis) e
 - **Submissão de Arquivos/Relatórios (Aluno):** A aluna (Ana Beatriz) deve ter um espaço para submeter relatórios e anexar arquivos, marcando a tarefa como "Concluída".
 - **Acompanhamento de Progresso (Orientador):** O orientador (Victor) deve conseguir visualizar o status atualizado das tarefas (ex: "Concluída" ou "Aguardando Revisão").
 - **Portabilidade (Web e Mobile):** O sistema deve funcionar em notebooks (usado por Victor e Carlos) e dispositivos móveis (preferido por Ana).
-- **Requisitos de Acessibilidade:** A interface deve ter fontes legíveis, alto contraste e botões/menus claros (sem depender apenas de ícones) para atender à Persona 3 (Carlos).
-
+- **Requisitos de Acessibilidade:** A interface deve ter fontes legíveis, alto contraste e botões/menus claros (sem depender apenas de ícones), organização visual e redução de carga cognitiva. Para atender os usuário com necessidade de acessibilidade.
 ---
 
 <div align="center">
@@ -32,7 +31,7 @@ Must have (obrigatórias), Should have (importantes), Could have (desejáveis) e
 > Funcionalidades de alto valor que resolvem dores significativas, mas o produto ainda funciona sem elas no primeiro momento.
 
 - **Feed Automático de Editais:** Um "feed" que centralize automaticamente os novos editais das Pró-Reitorias, resolvendo a dor de Victor de acessar múltiplos sites.
-- **Modelos Pré-setados de Projeto:** Modelos ("templates") para projetos da UFAM (PIBIC, PACE) para evitar que Victor tenha que adaptar ferramentas genéricas, o que é sua principal frustração.
+- **Modelos Pré-Formatados de Projetos:** Modelos ("templates") para projetos da UFAM (PIBIC, PACE) para evitar que Victor tenha que adaptar ferramentas genéricas, o que é sua principal frustração.
 - **Integração com E-campus/SEI:** Integração para enviar dados (como relatórios aprovados) para o E-campus, evitando que Victor digite em dois locais.
 
 ---
@@ -58,9 +57,10 @@ Must have (obrigatórias), Should have (importantes), Could have (desejáveis) e
 
 > Recursos que não geram valor imediato para o problema central ou que adicionam complexidade desnecessária agora.
 
-- **Compêndio de Normas e Leis:** Um banco de dados pesquisável de leis e normas da UFAM. Embora mencionado no áudio, é um escopo muito grande e distinto do gerenciamento de projetos.
+- **Consulta de Normas e Leis:** Um banco de dados pesquisável de leis e normas da UFAM. Embora mencionado no áudio, é um escopo muito grande e distinto do gerenciamento de projetos.
 - **Integração com Ferramentas de Terceiros (ex: Google Docs):** A jornada da Ana mostra ela usando o Google Docs fora do app. O foco da ferramenta será o fluxo interno de submissão, não a edição de documentos em plataformas externas.
-- **Recursos Genéricos Complexos:** Qualquer funcionalidade que exija adaptação manual excessiva, pois essa é a principal frustração de Victor com Trello/Notion e o motivo de Carlos desistir de usar o app.
+- **Criação de projetos a partir do zero
+ (como no Trello/Notion):** Qualquer funcionalidade que exija adaptação manual excessiva, pois essa é a principal frustração de Victor com Trello/Notion e o motivo de Carlos desistir de usar o app.
 
 ---
 
@@ -68,6 +68,6 @@ Must have (obrigatórias), Should have (importantes), Could have (desejáveis) e
   
 ## Análise Visual MoSCoW
   
-  <img src="https://drive.google.com/uc?export=view&id=1XM1pFodAOtV8fVNvnj6uoYbkny-1pRAR" width="70%">
+  <img src="https://drive.google.com/uc?export=view&id=1tA8NYt87pzw8eZOxnwGl_nzsX7Ki1NGO" width="70%">
   <p><i>Tabela de priorização de requisitos elaborada com base no método MoSCoW, utilizada para definir o escopo mínimo viável (MVP) do projeto. <br> A classificação permitiu identificar quais funcionalidades são essenciais (“Must Have”), desejáveis (“Should Have”), opcionais (“Could Have”) e quais serão adiadas (“Won’t Have”). Essa análise garantiu uma visão estratégica sobre o que realmente agrega valor ao usuário e deve ser priorizado nas primeiras versões do sistema.</i></p>
 </div>
