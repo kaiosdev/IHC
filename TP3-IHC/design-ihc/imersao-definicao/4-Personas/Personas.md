@@ -155,3 +155,4 @@
   <summary><strong>  Persona 4: Aluno com Necessidade de Acessibilidade (João Palo, 21)</strong></summary>
 
   ![Persona João Paulo](https://drive.google.com/uc?export=view&id=1lzuJDb23nCPj09aCIPoeBOdZA9e87C5z)
+</details>
