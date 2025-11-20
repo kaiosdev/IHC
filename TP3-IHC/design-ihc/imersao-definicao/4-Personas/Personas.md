@@ -9,7 +9,10 @@
 
   > **Frustração-Chave:** "A sua maior frustração é o **retrabalho**. Ele odeia ter de 'adaptar' ferramentas genéricas... para a 'linguagem da UFAM'. A 'falta de especificidade para o assunto UFAM é **cruel**'."
 
+<div align="center">
+
   ![Persona Victor Antunes](https://drive.google.com/uc?export=view&id=1d5_oVkGFWZrWUOvES-FuD7_bZMuH2DVm)
+</div>
 
   **Eu me chamo:** Victor Antunes
   **Idade:** 45 anos
@@ -61,7 +64,11 @@
 
   > **Frustração-Chave:** "O seu maior medo é **perder um prazo** importante do projeto PIBIC porque a comunicação com o orientador **se perdeu no WhatsApp ou no e-mail**."
 
+<div align="center">
+
   ![Persona Ana Beatriz](https://drive.google.com/uc?export=view&id=1xXx_cLXrO1a8zQV2FqCnFXjzzJ_jSife)
+
+</div>
 
   **Eu me chamo:** Ana Beatriz
   **Idade:** 22 anos
@@ -106,11 +113,16 @@
 ---
 
 <details>
-  <summary><strong>👨‍🏫 Persona 3: Professor com Necessidade de Acessibilidade(Carlos Mendonça, 58)</strong></summary>
+    
+  <summary><strong>👨‍🏫 Persona 3: Professor com Necessidade de Acessibilidade (Carlos Mendonça, 58)</strong></summary>
 
+  <div align="center">
+    
   > **Frustração-Chave:** "Não gosta de interfaces 'clean' que escondem menus... **'Se eu tenho de procurar o botão, está errado.'**"
 
   ![Persona Carlos Mendonça](https://drive.google.com/uc?export=view&id=1ssMRq4NIhGsJ-WimMwrmHLRNwsBFTqnD)
+
+</div>
 
   **Eu me chamo:** Carlos Mendonça
   **Idade:** 58 anos
@@ -154,7 +166,65 @@
 ---
 
 <details>
-  <summary><strong>  Persona 4: Aluno com Necessidade de Acessibilidade (João Palo, 21)</strong></summary>
+  <summary><strong>👨🏻‍💻 Persona 4: Aluno com Necessidade de Acessibilidade (João Palo, 21)</strong></summary>
+
+<div align="center">
+  
+> *"Sou alguém criativo e visual, mas com dificuldade em manter a organização temporal."*
 
   ![Persona João Paulo](https://drive.google.com/uc?export=view&id=1lzuJDb23nCPj09aCIPoeBOdZA9e87C5z)
+  
+</div>
+
+---
+
+## Perfil Geral
+
+| **Informação** | **Detalhes** |
+| :--- | :--- |
+| **Nome** | João Paulo |
+| **Idade** | 21 anos |
+| **Ocupação** | Estudante de Design (4º Período) |
+| **Vínculo** | Bolsista PIBIC/UFAM |
+| **Diagnóstico** | ![Badge TDAH](https://img.shields.io/badge/Diagnóstico-TDAH-orange) ![Badge Dislexia](https://img.shields.io/badge/Diagnóstico-Dislexia-blue) |
+
+### Quem é o João?
+João é um estudante criativo e visual. Possui diagnóstico de **TDAH e Dislexia**. Tem medo de perder prazos de relatórios por esquecimento ou por não compreender textos complexos de editais. Frustra-se com o "E-campus" atual por ter menus confusos e excesso de texto sem hierarquia visual.
+
+---
+
+## Contexto e Problemas
+
+### Contexto (C)
+* **C1. Tarefas da Rotina:** Precisa submeter relatórios parciais, verificar datas de editais das pró-reitorias (PROPESP/PROEXT) e receber feedback do orientador.
+* **Dispositivos:**
+    * **Celular:** Para checagens rápidas.
+    * **Notebook:** Para escrita e submissões.
+
+### Problemas (P)
+* **P1. Dores Enfrentadas:** A dispersão de informações em múltiplos sites causa **sobrecarga cognitiva e ansiedade**. Perde tempo tentando entender "o que fazer agora".
+* **P2. Solução Esperada:** Templates pré-setados da UFAM e uma **barra de progresso visual**. Isso elimina a configuração do zero e mostra inequivocamente a próxima etapa.
+
+---
+
+## Experiência com Tecnologia
+
+| O que ele **Gosta** | O que ele **Não Gosta** |
+| :--- | :--- |
+| **E1.** Interfaces minimalistas e ícones claros. | **E2.** Paredes de texto (blocos longos). |
+| Feedback imediato ao concluir tarefas. | Menus ocultos e botões ambíguos (ex: "Processar"). |
+| Modos de leitura focada. | Animações que piscam (distração visual). |
+| **E5.** Atalhos visuais e checklists. | Manuais longos (prefere aprender mexendo). |
+| **E6.** Cores semânticas (🟢 Verde = Entregue, 🔴 Vermelho = Pendente). | |
+
+* **E7. Interação:** Prefere notificações automáticas a ter que enviar e-mails perguntando prazos.
+
+---
+
+## Soluções Existentes
+
+* **S1. Trello:** Gosta do visual Kanban, mas exige muita configuração inicial.
+* **S2. Notion:** Acha a "tela em branco" paralisante.
+* **Pontos Positivos:** O aspecto visual ajuda a entender o "todo".
+* **Pontos Negativos:** As ferramentas não falam a "Linguagem da UFAM", exigindo tradução manual de datas, o que gera erros.
 </details>
