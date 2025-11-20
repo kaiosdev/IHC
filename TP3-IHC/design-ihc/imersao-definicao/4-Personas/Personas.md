@@ -9,7 +9,7 @@
 
   > **Frustração-Chave:** "A sua maior frustração é o **retrabalho**. Ele odeia ter de 'adaptar' ferramentas genéricas... para a 'linguagem da UFAM'. A 'falta de especificidade para o assunto UFAM é **cruel**'."
 
-  ![Persona Victor Antunes](https://drive.google.com/uc?export=view&id=1o7cwuzSWk9OeIQQe0cwLxVorMBF6jEWh)
+  ![Persona Victor Antunes](https://drive.google.com/uc?export=view&id=1d5_oVkGFWZrWUOvES-FuD7_bZMuH2DVm)
 
   **Eu me chamo:** Victor Antunes
   **Idade:** 45 anos
@@ -110,7 +110,7 @@
 
   > **Frustração-Chave:** "Não gosta de interfaces 'clean' que escondem menus... **'Se eu tenho de procurar o botão, está errado.'**"
 
-  ![Persona Carlos Mendonça](https://drive.google.com/uc?export=view&id=1vezILmkbLoIpAM7BwoYCbApF8uOFRsY3)
+  ![Persona Carlos Mendonça](https://drive.google.com/uc?export=view&id=1ssMRq4NIhGsJ-WimMwrmHLRNwsBFTqnD)
 
   **Eu me chamo:** Carlos Mendonça
   **Idade:** 58 anos
