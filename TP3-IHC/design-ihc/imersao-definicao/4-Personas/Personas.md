@@ -151,6 +151,8 @@
   * **S3. Quais características negativas/dispensáveis...?** O Excel não foi feito para gestão, é um "quebra-galho". As ferramentas modernas são "muito complicadas e pequenas".
 </details>
 
+---
+
 <details>
   <summary><strong>  Persona 4: Aluno com Necessidade de Acessibilidade (João Palo, 21)</strong></summary>
 
