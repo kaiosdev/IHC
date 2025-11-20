@@ -150,3 +150,8 @@
   * **S2. Quais características positivas/essenciais...?** A clareza e a funcionalidade direta do E-mail.
   * **S3. Quais características negativas/dispensáveis...?** O Excel não foi feito para gestão, é um "quebra-galho". As ferramentas modernas são "muito complicadas e pequenas".
 </details>
+
+<details>
+  <summary><strong>  Persona 4: Aluno com Necessidade de Acessibilidade (João Palo, 21)</strong></summary>
+
+  ![Persona João Paulo](https://drive.google.com/uc?export=view&id=1lzuJDb23nCPj09aCIPoeBOdZA9e87C5z)
