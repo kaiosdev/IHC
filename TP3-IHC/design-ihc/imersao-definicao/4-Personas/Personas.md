@@ -5,7 +5,7 @@
 ---
 
 <details>
-  <summary><strong>👤 Persona 1: O Orientador Experiente (Victor Antunes, 45)</strong></summary>
+  <summary><strong>👤 Persona 1: Orientador (Victor Antunes, 45)</strong></summary>
 
   > **Frustração-Chave:** "A sua maior frustração é o **retrabalho**. Ele odeia ter de 'adaptar' ferramentas genéricas... para a 'linguagem da UFAM'. A 'falta de especificidade para o assunto UFAM é **cruel**'."
 
@@ -106,7 +106,7 @@
 ---
 
 <details>
-  <summary><strong>👨‍🏫 Persona 3: O Professor Sênior (Carlos Mendonça, 58)</strong></summary>
+  <summary><strong>👨‍🏫 Persona 3: Professor com Necessidade de Acessibilidade(Carlos Mendonça, 58)</strong></summary>
 
   > **Frustração-Chave:** "Não gosta de interfaces 'clean' que escondem menus... **'Se eu tenho de procurar o botão, está errado.'**"
 
