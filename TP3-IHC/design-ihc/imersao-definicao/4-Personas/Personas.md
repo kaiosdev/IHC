@@ -172,7 +172,7 @@
   
 > *"Sou alguém criativo e visual, mas com dificuldade em manter a organização temporal."*
 
-  ![Persona João Paulo](https://drive.google.com/uc?export=view&id=1lzuJDb23nCPj09aCIPoeBOdZA9e87C5z)
+  ![Persona João Paulo](https://drive.google.com/uc?export=view&id=1ImVQdo41eG-Oknqc5dt5ipLkH6Bhqb9F)
   
 </div>
 
@@ -203,7 +203,7 @@ João é um estudante criativo e visual. Possui diagnóstico de **TDAH e Dislexi
 
 ### Problemas (P)
 * **P1. Dores Enfrentadas:** A dispersão de informações em múltiplos sites causa **sobrecarga cognitiva e ansiedade**. Perde tempo tentando entender "o que fazer agora".
-* **P2. Solução Esperada:** Templates pré-setados da UFAM e uma **barra de progresso visual**. Isso elimina a configuração do zero e mostra inequivocamente a próxima etapa.
+* **P2. Solução Esperada:** Templates pré-setados da UFAM e Visualização e Submissão de Tarefas  de forma estruturada, substituindo a leitura de editais extensos por uma interface direta. Ao apresentar as pendências como ações claras e isoladas (ex: "Enviar Relatório Parcial"), o sistema elimina a poluição visual e reduz a necessidade de interpretação de textos complexos, permitindo que ele foque apenas na execução da atividade atual.
 
 ---
 
