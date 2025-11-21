@@ -1,5 +1,7 @@
 # Análise Hierárquica de Tarefas (HTA)
 
+https://drive.google.com/file/d/1Exq5bAjpqa5Gl6QWJfWXguX_ZQ-GbgAi/view?usp=sharing
+
 ## HTA 1: Gestão de Tarefas do Orientador
 
 **Persona:** Victor Antunes (Orientador)  
@@ -25,7 +27,7 @@ GERENCIAR TAREFAS DO ORIENTANDO
 
 - **Plano 0:** Fazer 1, depois 2. Quando o aluno entregar, fazer 3. Se 3 estiver ok, fazer 4.1, caso contrário, fazer 4.2.
 - **Plano 1:** Fazer 1.1 e depois 1.2.
-- **Plano 3:** Fazer 3.1 e depois 3.2 (se houver anexo).
+- **Plano 3:** Fazer 3.1 e depois 3.2 .
 
 ### 3. Descrição Detalhada
 
@@ -43,6 +45,8 @@ A hierarquia mostra que "Criar tarefa" e "Definir prazo" são ações atômicas 
 ### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
 
 #### Trecho do Mapa de Objetivos (Origem)
+<img width="810" height="236" alt="Captura de tela 2025-11-21 194751" src="https://github.com/user-attachments/assets/314e4f43-8b4b-46b4-a541-9fe6819c6bc1" />
+
 ```
 AO AAC
 REALIZAR ENTREGAS DAS TAREFAS
@@ -77,6 +81,8 @@ O passo 3 (Marcar como concluída) é separado para garantir que o sistema regis
 ### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
 
 #### Trecho do Mapa de Objetivos (Origem)
+<img width="652" height="456" alt="Captura de tela 2025-11-21 195228" src="https://github.com/user-attachments/assets/83fa54ae-49f9-4038-9947-f1a0a2960822" />
+
 ```
 PAV
 UTILIZAR A INTERFACE SEM DIFICULDADE VISUAL
@@ -107,8 +113,10 @@ O subgrupo 1 agrupa as configurações que o sistema deve persistir (contraste, 
 **Objetivo Raiz (0):** Manter Foco nas Atividades
 
 ### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
+<img width="652" height="456" alt="Captura de tela 2025-11-21 195228" src="https://github.com/user-attachments/assets/944ffabf-22ed-4f47-a5f5-5862f0fb9f38" />
 
 #### Trecho do Mapa de Objetivos (Origem)
+
 ```
 AAC
 MANTER FOCO NAS ATIVIDADES DO PROJETO
