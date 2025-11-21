@@ -10,7 +10,7 @@ https://www.figma.com/board/TLVYZf3Z76uAADF2fUFh4N/MAPAS-DE-OBJETIVOS-DOS-USUÁR
 
 ---
 
-## 📝 Introdução
+## Introdução
 
 Esta seção apresenta os **Mapas de Objetivos dos Usuários**, desenvolvidos a partir das entrevistas, briefing e análises das quatro personas definidas para o sistema.  
 Eles estruturam visualmente os **objetivos gerais e específicos** de cada papel, garantindo coerência conceitual para as próximas etapas, como os **HTAs** e os **Diagramas MoLIC**.
@@ -36,11 +36,11 @@ As setas indicam a relação entre as ações e seus objetivos centrais.
 
 ---
 
-# 🎯 OBJETIVOS POR PERSONA
+# Descrição dos Objetivos
 
 ---
 
-## 👤 Persona: Orientador (Victor Antunes)
+## 👤 Persona: Orientador
 
 **Objetivos Principais:**
 - Criar novas tarefas para orientandos.  
@@ -55,7 +55,7 @@ As setas indicam a relação entre as ações e seus objetivos centrais.
 
 ---
 
-## 👤 Persona: Aluno Orientado (Ana Beatriz)
+## 👤 Persona: Aluno Orientado
 
 **Objetivos Principais:**
 - Visualizar tarefas pendentes enviadas pelo orientador.  
@@ -71,7 +71,7 @@ As setas indicam a relação entre as ações e seus objetivos centrais.
 
 ---
 
-## 👤 Persona: Professor com Acessibilidade Visual (Carlos Mendonça)
+## 👤 Persona: Professor com Acessibilidade Visual
 
 **Objetivos Principais:**
 - Ajustar o tamanho das fontes.  
@@ -83,7 +83,7 @@ As setas indicam a relação entre as ações e seus objetivos centrais.
 
 ---
 
-## 👤 Persona: Aluno com Acessibilidade Cognitiva (João Paulo – TDAH/Dislexia)
+## 👤 Persona: Aluno com Acessibilidade Cognitiva
 
 **Objetivos Principais:**
 - Ver checklist da tarefa atual.  
