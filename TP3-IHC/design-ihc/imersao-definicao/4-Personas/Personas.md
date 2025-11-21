@@ -209,16 +209,26 @@ João é um estudante criativo e visual. Possui diagnóstico de **TDAH e Dislexi
 
 ## Experiência com Tecnologia
 
-| O que ele **Gosta** | O que ele **Não Gosta** |
+### Preferências e Frustrações (E1 & E2)
+
+| O que ele Gosta | O que ele Não Gosta |
 | :--- | :--- |
-| **E1.** Interfaces minimalistas e ícones claros. | **E2.** Paredes de texto (blocos longos). |
-| Feedback imediato ao concluir tarefas. | Menus ocultos e botões ambíguos (ex: "Processar"). |
-| Modos de leitura focada. | Animações que piscam (distração visual). |
-| **E5.** Atalhos visuais e checklists. | Manuais longos (prefere aprender mexendo). |
-| **E6.** Cores semânticas (🟢 Verde = Entregue, 🔴 Vermelho = Pendente). | |
+| **Interfaces minimalistas** com ícones claros ao lado dos textos. | **Paredes de texto** (blocos longos sem parágrafos). |
+| **Feedback imediato** ao concluir uma tarefa. | **Menus ocultos** que dificultam a navegação. |
+| **Modos de leitura focada** (livre de distrações). | **Botões com legendas ambíguas** (ex: "Processar" em vez de "Enviar"). |
+| | **Animações que piscam** (causam distração visual). |
 
-* **E7. Interação:** Prefere notificações automáticas a ter que enviar e-mails perguntando prazos.
+---
 
+* **E3. Dispositivos:**
+    * **Desktop:** Para trabalhos mais elaborados.
+    * **Mobile:** Apenas para notificações.
+* **E4. Aprendizado:** Aprende mexendo na interface (**intuitivo**). Não consegue ler manuais longos.
+* **E5. Fluxo:** Prefere **atalhos visuais** e checklists passo a passo.
+* **E6. Memória:** Lembra melhor vendo **cores e gráficos**.
+    * 🟢 *Verde* = Entregue
+    * 🔴 *Vermelho* = Pendente
+* **E7. Interação:** Prefere **notificações automáticas** a ter que enviar e-mails perguntando sobre prazos.
 ---
 
 ## Soluções Existentes
