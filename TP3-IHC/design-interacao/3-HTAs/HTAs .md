@@ -8,7 +8,7 @@
 ### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
 
 #### Trecho do Mapa de Objetivos (Origem)
-<img width="1263" height="791" alt="image" src="https://github.com/user-attachments/assets/bb9cadf5-acea-459d-9401-4fbdd45615ae" />
+<img width="420" height="493" alt="Captura de tela 2025-11-21 194341" src="https://github.com/user-attachments/assets/e7476adc-4190-41ad-b5c0-65f7baa02f2b" />
 
 ```
 O
