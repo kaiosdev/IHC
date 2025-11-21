@@ -8,6 +8,8 @@
 ### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
 
 #### Trecho do Mapa de Objetivos (Origem)
+<img width="1263" height="791" alt="image" src="https://github.com/user-attachments/assets/bb9cadf5-acea-459d-9401-4fbdd45615ae" />
+
 ```
 O
 GERENCIAR TAREFAS DO ORIENTANDO
