@@ -23,7 +23,7 @@ Eles estruturam visualmente os **objetivos gerais e específicos** de cada papel
 
 ![Mapa Geral de Objetivos](https://drive.google.com/uc?export=view&id=1xXgckQfj9p9489SyBuRJUnmdrkvxfNKs)
 
-### 📌 Descrição da Imagem
+### Descrição da Imagem
 A imagem apresenta o **Mapa Geral de Objetivos**, organizado pelos papéis:
 
 - **O – Orientador**  
