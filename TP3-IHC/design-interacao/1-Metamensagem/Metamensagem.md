@@ -1,6 +1,6 @@
 # Metamensagem do Sistema, *Interação Humano-Computador*
 
-> "A metamensagem representa a mensagem implícita que o designer transmite ao usuário por meio da interface."
+> A metamensagem representa a mensagem implícita que o designer transmite ao usuário por meio da interface.
 
 ## Objetivo
 A metamensagem é um artefato da **Engenharia Semiótica** que expressa o que nós, como projetistas, entendemos sobre quem são os usuários, o que eles precisam fazer e como o sistema foi desenhado para atendê-los. 
@@ -90,21 +90,21 @@ Abaixo apresentamos os artefatos originais contendo a metamensagem detalhada par
   <p><i>Metamensagem elaborada para a Persona 1 (Orientador - Victor Antunes). O usuário é um professor doutor que busca centralizar a gestão de projetos e evitar o retrabalho manual. A solução projetada oferece um Dashboard Central com templates nativos da UFAM e feed de editais, permitindo acesso híbrido via Web e Mobile para garantir portabilidade.</i></p>
 </div>
 
-<br>
+---
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1bkIAP0dkRbLyaod45WPtjNTEo6WB6fEe" width="50%">
   <p><i>Metamensagem elaborada para a Persona 2 (Aluno Orientando - Ana Beatriz). A usuária é uma estudante sobrecarregada que teme perder prazos devido à ter dados espalhados em múltiplas ferramentas. A solução foca em notificações claras e feedback de submissão de arquivos, propondo um uso híbrido: Mobile para consultas rápidas e Desktop para produção de textos longos.</i></p>
 </div>
 
-<br>
+---
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1t8GpWpKkE0J52tOmI3gUu4uyPGJVDD54" width="50%">
   <p><i>Metamensagem elaborada para a Persona 3 (Acessibilidade Visual - Prof. Carlos Mendonça). O usuário possui baixa visão (presbiopia) e se frustra com interfaces poluídas e fontes pequenas. O design prioriza alto contraste, botões grandes com rótulos textuais claros e navegação linear, sendo otimizado para uso em Desktop com suporte a zoom.</i></p>
 </div>
 
-<br>
+---
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=13VYqFPm7Y_Dc_vG2ogbdmOzOI33vzbIH" width="50%">
@@ -113,4 +113,3 @@ Abaixo apresentamos os artefatos originais contendo a metamensagem detalhada par
 
 ---
 
-[⬅️ Voltar para a Home](../README.md) | [Ir para Mapas de Objetivos ➡️](../2_mapas-objetivos/README.md)
