@@ -81,8 +81,7 @@ O passo 3 (Marcar como concluída) é separado para garantir que o sistema regis
 ### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
 
 #### Trecho do Mapa de Objetivos (Origem)
-
-<img width="921" height="669" alt="Captura de tela 2025-11-21 201206" src="https://github.com/user-attachments/assets/7b876d51-f381-44a9-b6e4-ec504ff471cb" />
+<img width="1030" height="761" alt="Captura de tela 2025-11-21 201507" src="https://github.com/user-attachments/assets/9db8ffa4-dbfa-44f5-8856-77417e9e240b" />
 
 ```
 PAV
@@ -117,7 +116,7 @@ O subgrupo 1 agrupa as configurações que o sistema deve persistir (contraste, 
 
 
 #### Trecho do Mapa de Objetivos (Origem)
-<img width="921" height="669" alt="Captura de tela 2025-11-21 201206" src="https://github.com/user-attachments/assets/65764714-b7d7-41f5-a5ec-94dadbd7121e" />
+<img width="1805" height="384" alt="Captura de tela 2025-11-21 201559" src="https://github.com/user-attachments/assets/02a0bc23-f718-4337-ad6a-2ef145a35fb4" />
 
 ```
 AAC
