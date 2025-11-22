@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1Exq5bAjpqa5Gl6QWJfWXguX_ZQ-GbgAi/view?usp=shari
 ### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
 
 #### Trecho do Mapa de Objetivos (Origem)
-<img width="420" height="493" alt="Captura de tela 2025-11-21 194341" src="https://github.com/user-attachments/assets/e7476adc-4190-41ad-b5c0-65f7baa02f2b" />
+<img width="480" height="519" alt="Captura de tela 2025-11-21 200703" src="https://github.com/user-attachments/assets/a0c60f34-e286-4c9c-b33b-b6e59b684f88" />
 
 ```
 O
@@ -45,7 +45,7 @@ A hierarquia mostra que "Criar tarefa" e "Definir prazo" são ações atômicas 
 ### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
 
 #### Trecho do Mapa de Objetivos (Origem)
-<img width="810" height="236" alt="Captura de tela 2025-11-21 194751" src="https://github.com/user-attachments/assets/314e4f43-8b4b-46b4-a541-9fe6819c6bc1" />
+<img width="1228" height="371" alt="Captura de tela 2025-11-21 200901" src="https://github.com/user-attachments/assets/7544d9af-b20f-49e5-867d-bb564b33d4c7" />
 
 ```
 AO AAC
@@ -81,7 +81,8 @@ O passo 3 (Marcar como concluída) é separado para garantir que o sistema regis
 ### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
 
 #### Trecho do Mapa de Objetivos (Origem)
-<img width="652" height="456" alt="Captura de tela 2025-11-21 195228" src="https://github.com/user-attachments/assets/83fa54ae-49f9-4038-9947-f1a0a2960822" />
+
+<img width="921" height="669" alt="Captura de tela 2025-11-21 201206" src="https://github.com/user-attachments/assets/7b876d51-f381-44a9-b6e4-ec504ff471cb" />
 
 ```
 PAV
@@ -113,9 +114,10 @@ O subgrupo 1 agrupa as configurações que o sistema deve persistir (contraste, 
 **Objetivo Raiz (0):** Manter Foco nas Atividades
 
 ### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
-<img width="652" height="456" alt="Captura de tela 2025-11-21 195228" src="https://github.com/user-attachments/assets/944ffabf-22ed-4f47-a5f5-5862f0fb9f38" />
+
 
 #### Trecho do Mapa de Objetivos (Origem)
+<img width="921" height="669" alt="Captura de tela 2025-11-21 201206" src="https://github.com/user-attachments/assets/65764714-b7d7-41f5-a5ec-94dadbd7121e" />
 
 ```
 AAC
