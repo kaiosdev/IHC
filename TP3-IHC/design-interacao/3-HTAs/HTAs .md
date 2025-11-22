@@ -2,6 +2,7 @@
 
 https://drive.google.com/file/d/1Exq5bAjpqa5Gl6QWJfWXguX_ZQ-GbgAi/view?usp=sharing
 
+Caso apareça um borrão preto no ultimo segmento e prolema da plataforma, entra na plataforma do draw io
 ## HTA 1: Gestão de Tarefas do Orientador
 
 **Persona:** Victor Antunes (Orientador)  
