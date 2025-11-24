@@ -1,147 +1,103 @@
-# Análise Hierárquica de Tarefas (HTA)
+#  Análise Hierárquica de Tarefas (HTA)
 
-https://drive.google.com/file/d/1Exq5bAjpqa5Gl6QWJfWXguX_ZQ-GbgAi/view?usp=sharing
-
-Caso apareça um borrão preto no ultimo segmento e prolema da plataforma, entra na plataforma do draw io
-## HTA 1: Gestão de Tarefas do Orientador
-
-**Persona:** Victor Antunes (Orientador)  
-**Objetivo Raiz (0):** Gerenciar Tarefas do Orientando
-
-### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
-
-#### Trecho do Mapa de Objetivos (Origem)
-<img width="480" height="519" alt="Captura de tela 2025-11-21 200703" src="https://github.com/user-attachments/assets/a0c60f34-e286-4c9c-b33b-b6e59b684f88" />
-
-```
-O
-GERENCIAR TAREFAS DO ORIENTANDO
-  ├─ Criar nova tarefa para o orientando
-  ├─ Definir prazo da tarefa criada
-  ├─ Enviar a tarefa ao aluno
-  ├─ Analisar tarefas concluídas
-  ├─ Revisar relatório anexado
-  └─ Registrar aprovação ou solicitação de correção
-```
-
-### 2. Sintaxe e Planos
-
-- **Plano 0:** Fazer 1, depois 2. Quando o aluno entregar, fazer 3. Se 3 estiver ok, fazer 4.1, caso contrário, fazer 4.2.
-- **Plano 1:** Fazer 1.1 e depois 1.2.
-- **Plano 3:** Fazer 3.1 e depois 3.2 .
-
-### 3. Descrição Detalhada
-
-Este HTA foca na persona Victor Antunes. O objetivo principal é a gestão eficiente das atividades dos bolsistas. A análise decompõe o processo em três fases temporais: a criação da demanda (subtarefa 1), a atribuição (subtarefa 2) e a correção (subtarefa 3 e 4).
-
-A hierarquia mostra que "Criar tarefa" e "Definir prazo" são ações atômicas que compõem o planejamento. O ciclo só se encerra (subtarefa 4) quando o professor toma uma decisão binária: aprovar ou pedir revisão, resolvendo a "dor" do usuário de ter comunicação descentralizada.
+Esta pasta contém a modelagem detalhada das tarefas principais do sistema. A Análise Hierárquica de Tarefas (HTA) foi utilizada para decompor os objetivos dos usuários (definidos nos Mapas de Objetivos) em operações concretas, planos e subtarefas, garantindo que a interface ofereça suporte lógico para a realização das atividades.
 
 ---
 
-## HTA 2: Execução de Tarefas pelo Aluno
+##  Critérios de Escolha das Tarefas
 
-**Persona:** Ana Beatriz (Aluno Orientado - AO/AAC)  
-**Objetivo Raiz (0):** Realizar Entregas das Tarefas
+Para atender aos requisitos do **Trabalho Prático 3 (Design de Interação)**, selecionamos um conjunto de 8 HTAs que cobrem:
 
-### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
-
-#### Trecho do Mapa de Objetivos (Origem)
-<img width="1228" height="371" alt="Captura de tela 2025-11-21 200901" src="https://github.com/user-attachments/assets/7544d9af-b20f-49e5-867d-bb564b33d4c7" />
-
-```
-AO AAC
-REALIZAR ENTREGAS DAS TAREFAS
-  ├─ Abrir a lista de tarefas pendentes
-  ├─ Ler instruções da tarefa enviada
-  ├─ Ver o prazo da tarefa
-  ├─ Fazer upload do arquivo solicitado
-  ├─ Confirmar o envio da entrega
-  ├─ Marcar a tarefa como concluída
-  └─ Ver histórico das tarefas concluídas
-```
-
-### 2. Sintaxe e Planos
-
-- **Plano 0:** Fazer 1 para selecionar a tarefa. Fazer 2. Se 2 for sucesso, fazer 3. Fazer 4 periodicamente (opcional).
-- **Plano 1:** 1.1 depois 1.2.
-- **Plano 2:** 2.1 depois 2.2.
-
-### 3. Descrição Detalhada
-
-Focado na persona Ana Beatriz, este HTA mapeia o fluxo linear de entrega de um trabalho acadêmico. A separação entre "Fazer upload" (2.1) e "Confirmar envio" (2.2) é crítica para dar o feedback de segurança que a persona exige ("medo de perder prazos").
-
-O passo 3 (Marcar como concluída) é separado para garantir que o sistema registre o status visualmente (verde), conforme mencionado nos requisitos de acessibilidade cognitiva, dando à aluna a sensação de dever cumprido.
+1.  **Tarefas Críticas (Core Business):** O ciclo de vida dos projetos acadêmicos (Cadastro, Execução e Orientação).
+2.  **Automação e Eficiência:** Tarefas que demonstram integração com sistemas externos (E-Campus) para reduzir o esforço do usuário.
+3.  **Acessibilidade e Inclusão:** Funcionalidades específicas para remover barreiras visuais e cognitivas, atendendo à Persona PcD.
+4.  **Fluxos de Alta Frequência:** Ações recorrentes como Login e Consulta de Editais.
 
 ---
 
-## HTA 3: Acessar Opções de Acessibilidade Visual
+##  Detalhamento dos HTAs
 
-**Persona:** Prof. Carlos Mendonça (PAV)  
-**Objetivo Raiz (0):** Utilizar Interface sem Dificuldade Visual
+### 1. Realizar Login do Sistema
+**Objetivo:** Garantir acesso seguro e personalizado ao ambiente do usuário.
 
-### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
+![HTA Login](./nome-da-sua-imagem-login.png)
+*(Substitua pelo caminho correto da imagem)*
 
-#### Trecho do Mapa de Objetivos (Origem)
-<img width="1030" height="761" alt="Captura de tela 2025-11-21 201507" src="https://github.com/user-attachments/assets/9db8ffa4-dbfa-44f5-8856-77417e9e240b" />
-
-```
-PAV
-UTILIZAR A INTERFACE SEM DIFICULDADE VISUAL
-  ├─ Aumentar o tamanho das fontes
-  ├─ Ativar modo de alto contraste
-  ├─ Exibir botões com texto ampliado
-  ├─ Navegar por fluxos lineares
-  └─ Operar o sistema via desktop com zoom
-```
-
-### 2. Sintaxe e Planos
-
-- **Plano 0:** Fazer 1 (configuração inicial) e então realizar 2 (uso contínuo).
-- **Plano 1:** Fazer 1.1, 1.2 ou 1.3 conforme necessidade (não sequencial, configurável).
-- **Plano 2:** Realizar 2.1 enquanto executa 2.2.
-
-### 3. Descrição Detalhada
-
-Este HTA aborda as necessidades do Prof. Carlos Mendonça. Diferente dos fluxos de tarefas (início-meio-fim), este HTA representa um estado de configuração e interação contínua.
-
-O subgrupo 1 agrupa as configurações que o sistema deve persistir (contraste, fonte), enquanto o subgrupo 2 descreve a forma como a tarefa é executada (uso de zoom e fluxos lineares). Isso garante que o objetivo de "evitar fadiga visual" e "confusão" seja atingido antes mesmo da execução da tarefa acadêmica em si.
+* **Descrição do Processo:** O fluxo cobre o caminho feliz (inserir credenciais) e os desvios comuns, como a recuperação de senha (2.1). O sistema valida as credenciais antes de liberar o acesso ao Dashboard.
+* **Comentário de Design:** Incluímos a opção "Manter conectado" (2.4) para reduzir a carga de memória e esforço físico em acessos futuros, melhorando a eficiência.
 
 ---
 
-## HTA 4: Acessar Opções de Acessibilidade Cognitiva
+### 2. Cadastrar Novo Projeto (Foco: Integração)
+**Objetivo:** Permitir que o professor registre um projeto aproveitando dados institucionais existentes.
 
-**Persona:** João Paulo (AAC)  
-**Objetivo Raiz (0):** Manter Foco nas Atividades
+![HTA Cadastro Projeto](./nome-da-sua-imagem-cadastro.png)
 
-### 1. Visualização "Lado a Lado" (Mapa vs. HTA)
-
-
-#### Trecho do Mapa de Objetivos (Origem)
-<img width="1805" height="384" alt="Captura de tela 2025-11-21 201559" src="https://github.com/user-attachments/assets/02a0bc23-f718-4337-ad6a-2ef145a35fb4" />
-
-```
-AAC
-MANTER FOCO NAS ATIVIDADES DO PROJETO
-  ├─ Ver checklist da tarefa atual
-  ├─ Identificar a próxima ação ("o que fazer agora")
-  ├─ Usar ícones acompanhados de texto
-  ├─ Ver cores semânticas
-  └─ Ativar modo sem distrações
-```
-
-### 2. Sintaxe e Planos
-
-- **Plano 0:** Fazer 1 (preparação). Fazer 2 para compreensão. Fazer 3 para execução.
-- **Plano 2:** 2.1 guiado por 2.2 e 2.3 simultaneamente.
-
-### 3. Descrição Detalhada
-
-Focado na persona João Paulo (TDAH/Dislexia), este HTA prioriza a organização mental antes da ação. O plano inicia com a remoção de estímulos externos (1.1).
-
-O passo 2 é crucial: ele decompõe o objetivo de "não se perder" em verificações visuais rápidas (ícones e cores). O HTA demonstra que, para esse usuário, entender o status da tarefa (vermelho/verde) e a próxima ação imediata é um pré-requisito hierárquico para conseguir acessar o checklist (passo 3) e efetivamente trabalhar.
+* **Descrição do Processo:** O diferencial deste fluxo é a **automação**. Ao selecionar a modalidade (1), o sistema realiza a subtarefa (2) "Importar Dados do E-Campus" automaticamente, preenchendo campos burocráticos sem intervenção do usuário.
+* **Comentário de Design:** A tarefa de vincular orientandos (4) foi modelada como um ciclo (loop), permitindo buscar (4.1) e adicionar (4.2) múltiplos alunos sem sair da tela, otimizando o fluxo de cadastro de equipes grandes.
 
 ---
 
-## Sobre este Documento
+### 3. Consultar Feed Unificado de Editais
+**Objetivo:** Centralizar oportunidades de bolsas e projetos em um único local pesquisável.
 
-Este documento apresenta a Análise Hierárquica de Tarefas (HTA) para um sistema de gestão acadêmica, focando em diferentes personas e suas necessidades específicas de acessibilidade e usabilidade.
+![HTA Feed Editais](./nome-da-sua-imagem-feed.png)
+
+* **Descrição do Processo:** O usuário inicia com uma visão geral e utiliza filtros (2) para refinar a busca por Pró-Reitoria ou Status. A etapa de ação (3) permite tanto o download imediato quanto o "favoritar" para leitura posterior.
+* **Comentário de Design:** A separação entre "Baixar" (3.1) e "Favoritar" (3.2) atende a dois contextos de uso: o usuário que está no desktop pronto para ler (baixa) e o usuário mobile que apenas quer salvar para depois (favorita).
+
+---
+
+### 4. Gerenciar Tarefas do Orientando (Visão do Professor)
+**Objetivo:** Permitir ao orientador acompanhar e validar o progresso dos bolsistas.
+
+![HTA Gerenciar Tarefas](./nome-da-sua-imagem-orientador.png)
+
+* **Descrição do Processo:** Este HTA divide-se em dois momentos: a atribuição proativa (1) e a reação reativa de análise (2). A decisão final (3) é binária: ou solicita correção ou aprova a tarefa.
+* **Comentário de Design:** O fluxo enfatiza o feedback. Ao "Solicitar correção" (3.1), o sistema exige input do orientador, garantindo que o aluno saiba exatamente o que precisa ser melhorado.
+
+---
+
+### 5. Execução de Tarefas pelo Aluno (Visão do Discente)
+**Objetivo:** Orientar o aluno na entrega de suas obrigações acadêmicas.
+
+![HTA Execução Aluno](./nome-da-sua-imagem-aluno.png)
+
+* **Descrição do Processo:** Espelha o HTA do orientador. O aluno consulta pendências (1), realiza a entrega via upload (2) e monitora o status no histórico (3).
+* **Comentário de Design:** A subtarefa "Ver prazo da tarefa" (1.3) foi explicitada para reforçar a gestão de tempo, um ponto crítico para evitar a evasão ou perda de bolsas.
+
+---
+
+### 6. Gerar Documentação Automática
+**Objetivo:** Reduzir a burocracia na criação de relatórios e requerimentos.
+
+![HTA Documentação](./nome-da-sua-imagem-documentacao.png)
+
+* **Descrição do Processo:** O usuário seleciona um modelo (2) e o sistema executa a tarefa crítica de "Vincular dados do projeto" (3) automaticamente, preenchendo cabeçalhos e informações repetitivas.
+* **Comentário de Design:** A inclusão da etapa "Visualizar prévia" (4.1) antes do download final previne erros e o retrabalho de baixar/abrir arquivos incorretos.
+
+---
+
+### 7. Acessar Opções de Acessibilidade Visual
+**Objetivo:** Adaptar a interface para usuários com baixa visão ou dificuldades de leitura.
+
+![HTA Acessibilidade Visual](./nome-da-sua-imagem-visual.png)
+
+* **Descrição do Processo:** Funciona como um painel de configuração onde o usuário pode ajustar contraste (1), tipografia (2) ou simplificar a navegação (3).
+* **Comentário de Design:** A opção "Navegar por fluxos lineares" (3.1) é crucial para usuários de leitores de tela, transformando grids complexos em listas sequenciais lógicas.
+
+---
+
+### 8. Acessar Opções de Acessibilidade Cognitiva
+**Objetivo:** Reduzir a carga cognitiva para usuários com TDAH, ansiedade ou neurodivergências.
+
+![HTA Acessibilidade Cognitiva](./nome-da-sua-imagem-cognitiva.png)
+
+* **Descrição do Processo:** O foco é a redução de ruído. O usuário pode ativar o "Modo sem distrações" (2.1) ou solicitar "Orientação de tarefa" (1) para saber exatamente qual o próximo passo.
+* **Comentário de Design:** A funcionalidade "Identificar a próxima ação" (1.2) atua como um assistente que quebra a paralisia de decisão, guiando o usuário diretamente para o que é prioritário.
+
+---
+
+## 🔗 Conclusão
+
+O conjunto destes HTAs demonstra que o sistema foi projetado não apenas para **registrar dados**, mas para **apoiar o trabalho** dos usuários, automatizando rotinas (HTA 6 e 8) e garantindo que o sistema seja utilizável por todos (HTA 7 e 8).
