@@ -1,98 +1,131 @@
-# Análise Hierárquica de Tarefas (HTA)
+# Detalhamento Passo a Passo dos Fluxos do Sistema (HTA)
 
-Esta pasta contém a modelagem detalhada das tarefas principais do sistema. A Análise Hierárquica de Tarefas (HTA) foi utilizada para decompor os objetivos dos usuários (definidos nos Mapas de Objetivos) em operações concretas, planos e subtarefas, garantindo que a interface ofereça suporte lógico para a realização das atividades.
-
----
-
-## Critérios de Escolha das Tarefas
-
-Para atender aos requisitos do **Trabalho Prático 3 (Design de Interação)**, selecionamos um conjunto de 8 HTAs que cobrem:
-
-1. **Tarefas Críticas (Core Business):** O ciclo de vida dos projetos acadêmicos (Cadastro, Execução e Orientação).
-2. **Automação e Eficiência:** Tarefas que demonstram integração com sistemas externos (E-Campus) para reduzir o esforço do usuário.
-3. **Acessibilidade e Inclusão:** Funcionalidades específicas para remover barreiras visuais e cognitivas, atendendo à Persona PcD.
-4. **Fluxos de Alta Frequência:** Ações recorrentes como Login e Consulta de Editais.
+Abaixo apresentamos a descrição granular de cada Análise Hierárquica de Tarefas. Cada seção detalha as entradas, processamentos e saídas esperadas em cada nó do diagrama.
 
 ---
 
-## Detalhamento dos HTAs
+## 1. Realizar Login do Sistema
+Este fluxo descreve a porta de entrada do usuário, focando em segurança e recuperação de erros.
 
-### 1. Realizar Login do Sistema
-**Objetivo:** Garantir acesso seguro e personalizado ao ambiente do usuário.
+<img width="1000" alt="Fluxograma de Login" src="https://github.com/user-attachments/assets/9ac6a613-ea20-4d8e-9480-c8864f958210" />
 
-<img width="1000" alt="Captura de tela 2025-11-24 165440" src="https://github.com/user-attachments/assets/9ac6a613-ea20-4d8e-9480-c8864f958210" />
-
-* **Descrição do Processo:** O fluxo cobre o caminho feliz (inserir credenciais) e os desvios comuns, como a recuperação de senha (2.1). O sistema valida as credenciais antes de liberar o acesso ao Dashboard.
-* **Comentário de Design:** Incluímos a opção "Manter conectado" (2.4) para reduzir a carga de memória e esforço físico em acessos futuros, melhorando a eficiência.
-
----
-
-### 2. Cadastrar Novo Projeto (Foco: Integração)
-**Objetivo:** Permitir que o professor registre um projeto aproveitando dados institucionais existentes.
-
-<img width="1000" alt="Captura de tela 2025-11-24 165458" src="https://github.com/user-attachments/assets/7d2435a4-c02c-4176-8607-0460c4ec0f38" />
-
-* **Descrição do Processo:** O diferencial deste fluxo é a **automação**. Ao selecionar a modalidade (1), o sistema realiza a subtarefa (2) "Importar Dados do E-Campus" automaticamente, preenchendo campos burocráticos sem intervenção do usuário.
-* **Comentário de Design:** A tarefa de vincular orientandos (4) foi modelada como um ciclo (loop), permitindo buscar (4.1) e adicionar (4.2) múltiplos alunos sem sair da tela, otimizando o fluxo de cadastro de equipes grandes.
+**Passo a Passo do Processo:**
+1.  **Acesso Inicial (1):** O usuário abre o navegador/aplicativo (1.1) e navega até a página de login (1.2).
+2.  **Inserção de Dados (2):**
+    * O usuário insere seu e-mail institucional (2.2) e senha (2.3).
+    * *Opcional:* O usuário pode marcar "Manter conectado" (2.4) para evitar logins repetitivos.
+    * *Desvio:* Se o usuário esqueceu a senha, ele aciona o sub-fluxo de "Recuperar senha" (2.1).
+3.  **Confirmação e Acesso (3):**
+    * O usuário clica em "Entrar" (3.2).
+    * O sistema valida as credenciais (2.1 - Aguardar validação).
+    * Se válido, o sistema redireciona o usuário para o Dashboard principal (3.3).
 
 ---
 
-### 3. Consultar Feed Unificado de Editais
-**Objetivo:** Centralizar oportunidades de bolsas e projetos em um único local pesquisável.
+## 2. Cadastrar Novo Projeto
+Este fluxo demonstra a integração do sistema com bancos de dados externos para reduzir a burocracia.
 
-<img width="1000" alt="Captura de tela 2025-11-24 165541" src="https://github.com/user-attachments/assets/1dfaee82-b01c-4003-95fc-e924c3257df7" />
+<img width="1000" alt="Fluxograma de Cadastro de Projeto" src="https://github.com/user-attachments/assets/7d2435a4-c02c-4176-8607-0460c4ec0f38" />
 
-* **Descrição do Processo:** O usuário inicia com uma visão geral e utiliza filtros (2) para refinar a busca por Pró-Reitoria ou Status. A etapa de ação (3) permite tanto o download imediato quanto o "favoritar" para leitura posterior.
-* **Comentário de Design:** A separação entre "Baixar" (3.1) e "Favoritar" (3.2) atende a dois contextos de uso: o usuário que está no desktop pronto para ler (baixa) e o usuário mobile que apenas quer salvar para depois (favorita).
-
----
-
-### 4. Gerenciar Tarefas do Orientando (Visão do Professor)
-**Objetivo:** Permitir ao orientador acompanhar e validar o progresso dos bolsistas.
-
-<img width="1000" alt="Captura de tela 2025-11-24 165601" src="https://github.com/user-attachments/assets/d89d76f2-bfcc-453b-b908-56d150be5bb2" />
-
-* **Descrição do Processo:** Este HTA divide-se em dois momentos: a atribuição proativa (1) e a reação reativa de análise (2). A decisão final (3) é binária: ou solicita correção ou aprova a tarefa.
-* **Comentário de Design:** O fluxo enfatiza o feedback. Ao "Solicitar correção" (3.1), o sistema exige input do orientador, garantindo que o aluno saiba exatamente o que precisa ser melhorado.
+**Passo a Passo do Processo:**
+1.  **Início do Cadastro (1):** O professor acessa a área de projetos e seleciona a modalidade (ex: PIBIC, Extensão).
+2.  **Automação (2):** O sistema conecta-se ao E-Campus e **importa automaticamente** os dados do professor e do departamento, eliminando preenchimento manual.
+3.  **Detalhamento (3):** O usuário preenche apenas os dados específicos deste projeto (título, resumo, vigência).
+4.  **Formação de Equipe (4):**
+    * O professor busca o aluno pelo número de matrícula (4.1).
+    * Ao encontrar, clica em "Adicionar" (4.2).
+    * *Loop:* Este passo pode ser repetido várias vezes para adicionar múltiplos bolsistas.
+5.  **Finalização (5):** O projeto é salvo e submetido para aprovação.
 
 ---
 
-### 5. Execução de Tarefas pelo Aluno (Visão do Discente)
-**Objetivo:** Orientar o aluno na entrega de suas obrigações acadêmicas.
+## 3. Consultar Feed Unificado de Editais
+Focado na busca eficiente de informações, permitindo filtragem e ação rápida.
 
-<img width="1000" alt="Captura de tela 2025-11-24 165614" src="https://github.com/user-attachments/assets/df35a980-e780-411b-b21a-e1ffaa5282b2" />
+<img width="1000" alt="Fluxograma de Feed de Editais" src="https://github.com/user-attachments/assets/1dfaee82-b01c-4003-95fc-e924c3257df7" />
 
-* **Descrição do Processo:** Espelha o HTA do orientador. O aluno consulta pendências (1), realiza a entrega via upload (2) e monitora o status no histórico (3).
-* **Comentário de Design:** A subtarefa "Ver prazo da tarefa" (1.3) foi explicitada para reforçar a gestão de tempo, um ponto crítico para evitar a evasão ou perda de bolsas.
-
----
-
-### 6. Gerar Documentação Automática
-**Objetivo:** Reduzir a burocracia na criação de relatórios e requerimentos.
-
-<img width="1000" alt="Captura de tela 2025-11-24 165630" src="https://github.com/user-attachments/assets/c0c53118-668c-461d-8a56-222ba5a8b79b" />
-
-* **Descrição do Processo:** O usuário seleciona um modelo (2) e o sistema executa a tarefa crítica de "Vincular dados do projeto" (3) automaticamente, preenchendo cabeçalhos e informações repetitivas.
-* **Comentário de Design:** A inclusão da etapa "Visualizar prévia" (4.1) antes do download final previne erros e o retrabalho de baixar/abrir arquivos incorretos.
+**Passo a Passo do Processo:**
+1.  **Visualização Geral (1):** O usuário acessa o feed onde todos os editais abertos são listados cronologicamente.
+2.  **Refinamento de Busca (2):**
+    * O usuário aplica filtros por "Pró-Reitoria" (2.1) (ex: Pesquisa, Extensão) ou por "Status" (2.2) (ex: Aberto, Encerrado).
+    * O sistema atualiza a lista em tempo real.
+3.  **Interação com o Edital (3):**
+    * **Ação Imediata:** O usuário clica em "Baixar PDF" (3.1) para ler o edital completo.
+    * **Ação de Planejamento:** O usuário clica em "Favoritar" (3.2) para salvar o edital em sua lista pessoal para ler depois.
 
 ---
 
-### 7. Acessar Opções de Acessibilidade Visual
-**Objetivo:** Adaptar a interface para usuários com baixa visão ou dificuldades de leitura.
+## 4. Gerenciar Tarefas do Orientando (Visão do Professor)
+O fluxo de controle e feedback pedagógico entre orientador e aluno.
 
-<img width="1000" alt="Captura de tela 2025-11-24 165701" src="https://github.com/user-attachments/assets/dec4d78e-03c9-4944-b7ad-1178081e5e08" />
+<img width="1000" alt="Fluxograma de Gestão de Orientandos" src="https://github.com/user-attachments/assets/d89d76f2-bfcc-453b-b908-56d150be5bb2" />
 
-* **Descrição do Processo:** Funciona como um painel de configuração onde o usuário pode ajustar contraste (1), tipografia (2) ou simplificar a navegação (3).
-* **Comentário de Design:** A opção "Navegar por fluxos lineares" (3.1) é crucial para usuários de leitores de tela, transformando grids complexos em listas sequenciais lógicas.
+**Passo a Passo do Processo:**
+1.  **Atribuição (1):** O orientador cria uma nova tarefa (1.1), define um prazo limite (1.2) e a envia para o aluno.
+2.  **Análise (2):** Quando o aluno entrega, o professor recebe uma notificação, baixa o arquivo enviado (2.1) e analisa o conteúdo.
+3.  **Decisão e Feedback (3):**
+    * **Caminho A (Reprovação):** O professor clica em "Solicitar Correção" (3.1) e escreve um comentário obrigatório explicando o erro.
+    * **Caminho B (Aprovação):** O professor clica em "Aprovar Tarefa" (3.2), e as horas são computadas no relatório do aluno.
+
+---
+
+## 5. Execução de Tarefas pelo Aluno (Visão do Discente)
+O espelho do fluxo anterior, focado na organização pessoal do estudante.
+
+<img width="1000" alt="Fluxograma de Execução de Tarefas" src="https://github.com/user-attachments/assets/df35a980-e780-411b-b21a-e1ffaa5282b2" />
+
+**Passo a Passo do Processo:**
+1.  **Consultar Pendências (1):**
+    * O aluno acessa o painel de tarefas (1.1).
+    * Verifica o status (Pendente/Atrasado) (1.2).
+    * Confere o prazo final (1.3) para priorizar o trabalho.
+2.  **Realizar Entrega (2):**
+    * O aluno clica na tarefa e seleciona "Anexar Arquivo" (2.1).
+    * Confirma o envio para o orientador (2.2).
+3.  **Acompanhamento (3):** O aluno monitora o histórico para ver se a tarefa foi aprovada ou se retornou para correção.
 
 ---
 
-### 8. Acessar Opções de Acessibilidade Cognitiva
-**Objetivo:** Reduzir a carga cognitiva para usuários com TDAH, ansiedade ou neurodivergências.
+## 6. Gerar Documentação Automática
+Focado na eficiência administrativa, transformando dados do sistema em documentos oficiais.
 
-<img width="1000" alt="Captura de tela 2025-11-24 165840" src="https://github.com/user-attachments/assets/69f5fd51-07a2-472f-bc27-376ad1b11fac" />
+<img width="1000" alt="Fluxograma de Documentação Automática" src="https://github.com/user-attachments/assets/c0c53118-668c-461d-8a56-222ba5a8b79b" />
 
-* **Descrição do Processo:** O foco é a redução de ruído. O usuário pode ativar o "Modo sem distrações" (2.1) ou solicitar "Orientação de tarefa" (1) para saber exatamente qual o próximo passo.
-* **Comentário de Design:** A funcionalidade "Identificar a próxima ação" (1.2) atua como um assistente que quebra a paralisia de decisão, guiando o usuário diretamente para o que é prioritário.
+**Passo a Passo do Processo:**
+1.  **Acesso (1):** O usuário entra na área de "Secretaria Virtual" ou "Documentos".
+2.  **Seleção (2):** Escolhe o tipo de documento desejado (ex: Relatório Parcial, Declaração de Vínculo).
+3.  **Processamento Automático (3):**
+    * O sistema busca os dados do projeto ativo (3.1).
+    * O sistema preenche o cabeçalho, nomes e datas no modelo padrão (3.2).
+4.  **Conclusão (4):**
+    * O sistema gera uma prévia na tela (4.1) para conferência.
+    * O usuário clica em "Download" (4.2) para baixar o arquivo finalizado e assinado digitalmente.
 
 ---
+
+## 7. Acessar Opções de Acessibilidade Visual
+Detalha como o sistema se adapta a usuários com baixa visão ou daltonismo.
+
+<img width="1000" alt="Fluxograma de Acessibilidade Visual" src="https://github.com/user-attachments/assets/dec4d78e-03c9-4944-b7ad-1178081e5e08" />
+
+**Passo a Passo do Processo:**
+1.  **Configuração de Contraste (1):** O usuário pode alternar entre "Modo Escuro", "Alto Contraste" ou "Inversão de Cores" (1.1 e 1.2).
+2.  **Ajuste Tipográfico (2):** O usuário utiliza controles deslizantes para aumentar o tamanho da fonte (2.1) ou alterar a fonte para uma tipografia amigável para dislexia (2.2).
+3.  **Navegação Assistiva (3):**
+    * O usuário ativa "Fluxos Lineares" (3.1).
+    * O sistema reorganiza o layout, removendo colunas laterais e transformando o conteúdo em uma lista vertical única, ideal para leitores de tela e navegação por teclado.
+
+---
+
+## 8. Acessar Opções de Acessibilidade Cognitiva
+Detalha recursos para usuários com TDAH, ansiedade ou dificuldades de concentração.
+
+<img width="1000" alt="Fluxograma de Acessibilidade Cognitiva" src="https://github.com/user-attachments/assets/69f5fd51-07a2-472f-bc27-376ad1b11fac" />
+
+**Passo a Passo do Processo:**
+1.  **Orientação de Tarefa (1):**
+    * Se o usuário se sentir perdido, clica em "O que fazer agora?".
+    * O sistema destaca visualmente a "Próxima Ação" prioritária (1.2), ocultando opções secundárias.
+2.  **Modo de Foco (2):**
+    * O usuário ativa o "Modo Sem Distrações" (2.1).
+    * O sistema remove banners, notificações não urgentes e elementos decorativos, mantendo apenas a tarefa central na tela.
