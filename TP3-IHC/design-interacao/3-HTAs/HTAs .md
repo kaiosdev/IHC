@@ -20,7 +20,7 @@ Para atender aos requisitos do **Trabalho Prático 3 (Design de Interação)**, 
 ### 1. Realizar Login do Sistema
 **Objetivo:** Garantir acesso seguro e personalizado ao ambiente do usuário.
 
-![HTA Login](file:///C:/Users/gusta/Pictures/Screenshots/Captura%20de%20tela%202025-11-24%20165440.png)
+![HTA Login](./file:///C:/Users/gusta/Pictures/Screenshots/Captura%20de%20tela%202025-11-24%20165440.png)
 *(Substitua pelo caminho correto da imagem)*
 
 * **Descrição do Processo:** O fluxo cobre o caminho feliz (inserir credenciais) e os desvios comuns, como a recuperação de senha (2.1). O sistema valida as credenciais antes de liberar o acesso ao Dashboard.
