@@ -20,7 +20,7 @@ Para atender aos requisitos do **Trabalho Prático 3 (Design de Interação)**, 
 ### 1. Realizar Login do Sistema
 **Objetivo:** Garantir acesso seguro e personalizado ao ambiente do usuário.
 
-![HTA Login](<img width="734" height="262" alt="Captura de tela 2025-11-24 165440" src="https://github.com/user-attachments/assets/9ac6a613-ea20-4d8e-9480-c8864f958210" />)
+<img width="734" height="262" alt="Captura de tela 2025-11-24 165440" src="https://github.com/user-attachments/assets/9ac6a613-ea20-4d8e-9480-c8864f958210" />
 
 * **Descrição do Processo:** O fluxo cobre o caminho feliz (inserir credenciais) e os desvios comuns, como a recuperação de senha (2.1). O sistema valida as credenciais antes de liberar o acesso ao Dashboard.
 * **Comentário de Design:** Incluímos a opção "Manter conectado" (2.4) para reduzir a carga de memória e esforço físico em acessos futuros, melhorando a eficiência.
