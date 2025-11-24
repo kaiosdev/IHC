@@ -88,5 +88,7 @@ TP3-IHC/
 -----
 
 **Universidade:** Universidade Federal do Amazonas (ICET)
+
 **Disciplina:** Interação Humano-Computador
+
 **Semestre:** 2025/02
