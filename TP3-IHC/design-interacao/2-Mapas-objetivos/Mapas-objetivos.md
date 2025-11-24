@@ -10,7 +10,7 @@
 > Acesso ao arquivo original no Figma. O mapa completo pode ser visualizado em alta resolução clicando abaixo:
 
 <a href="https://www.figma.com/board/TLVYZf3Z76uAADF2fUFh4N/MAPAS-DE-OBJETIVOS-DOS-USUÁRIOS?node-id=0-1&t=2p89kSIrfJYIpvzw-1">
-  <img src="https://img.shields.io/badge/ACESSAR_QUADRO_NO_FIGMA_➔-791297?style=for-the-badge&logoColor=white" alt="Acessar Figma">
+  <img src="https://img.shields.io/badge/🔗ACESSAR_QUADRO_NO_FIGMA_➔-791297?style=for-the-badge&logoColor=white" alt="Acessar Figma">
 </a> 
 
 </div>
