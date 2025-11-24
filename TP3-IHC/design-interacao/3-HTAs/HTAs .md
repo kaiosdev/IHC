@@ -90,4 +90,9 @@ Para atender aos requisitos do **Trabalho Prático 3 (Design de Interação)**, 
 ### 8. Acessar Opções de Acessibilidade Cognitiva
 **Objetivo:** Reduzir a carga cognitiva para usuários com TDAH, ansiedade ou neurodivergências.
 
-<img width="1000" alt="Captura de tela 2025-11-24 165840" src="https
+<img width="1000" alt="Captura de tela 2025-11-24 165840" src="https://github.com/user-attachments/assets/69f5fd51-07a2-472f-bc27-376ad1b11fac" />
+
+* **Descrição do Processo:** O foco é a redução de ruído. O usuário pode ativar o "Modo sem distrações" (2.1) ou solicitar "Orientação de tarefa" (1) para saber exatamente qual o próximo passo.
+* **Comentário de Design:** A funcionalidade "Identificar a próxima ação" (1.2) atua como um assistente que quebra a paralisia de decisão, guiando o usuário diretamente para o que é prioritário.
+
+---
