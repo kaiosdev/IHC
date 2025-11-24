@@ -3,6 +3,7 @@
 <h1>MAPAS DE OBJETIVOS DOS USUÁRIOS</h1>
 
 <img src="https://img.shields.io/badge/Disciplina-IHC-791297?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Disciplina: IHC">
+<img src="https://img.shields.io/badge/Artefato-Análise_de_Tarefas-c38ae2?style=for-the-badge&logo=googletasks&logoColor=white" alt="Artefato: Análise de Tarefas">
 <img src="https://img.shields.io/badge/Ferramenta-Figma-c38ae2?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
 <br><br>
