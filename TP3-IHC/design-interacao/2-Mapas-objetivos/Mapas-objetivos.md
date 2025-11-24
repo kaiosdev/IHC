@@ -29,15 +29,19 @@ Esta seção apresenta os Mapas de Objetivos, que estruturam visualmente as meta
   <sub><b>Figura 1:</b> Visão geral dos objetivos mapeados para as personas (Fonte: Autores, 2025)</sub>
 </div>
 
-### Descrição da Imagem
-O diagrama acima consolida a visão sistêmica, organizada pelos seguintes papéis:
+### 📝 Legenda do Diagrama
+  
+O diagrama acima consolida a visão sistêmica organizada pelos seguintes papéis:
+  
+| **Sigla** | **Papel / Persona** |
+| :---: | :--- |
+| **O** | Orientador |
+| **AO** | Aluno Orientado |
+| **PAV** | Professor com Acessibilidade Visual |
+| **AAC** | Aluno com Acessibilidade Cognitiva |
 
-* **O** – Orientador
-* **AO** – Aluno Orientado
-* **PAV** – Professor com Acessibilidade Visual
-* **AAC** – Aluno com Acessibilidade Cognitiva
 
-Cada agrupamento contém objetivos relacionados às tarefas funcionais e às configurações de acessibilidade. As setas indicam a relação entre as ações e seus objetivos centrais.
+*Cada agrupamento contém objetivos relacionados às tarefas funcionais e às configurações de acessibilidade. As setas indicam a relação entre as ações e seus objetivos centrais.*
 
 ---
 
