@@ -41,7 +41,7 @@ A linguagem MoLIC é baseada na **Engenharia Semiótica** e trata a interação 
 
 > **Visualização completa do sistema mostrando todos os fluxos integrados**
 
-![Diagrama MoLIC Geral](https://miro.com/app/board/uXjVJl0c37E=/?share_link_id=348183383048)
+![Diagrama MoLIC Geral](https://miro.com/app/board/uXjVJl0c37E=/)
 
 *Diagrama MoLIC Geral - Visão completa dos fluxos de interação do E-Project*
 
@@ -63,7 +63,7 @@ Este documento descreve a modelagem da interação do **Sistema de Gestão de Pr
 
 O objetivo destes diagramas é mapear os diálogos entre o usuário e o sistema, prevendo fluxos de sucesso, tratamento de erros e personalização da interface.
 
-## 📋 Legenda da Notação
+##  Legenda da Notação
 * **u:** Ação ou fala do Usuário.
 * **d:** Ação, resposta ou fala do Designer (representado pelo sistema).
 * **Retângulos Arredondados:** Cenas (momentos da interação).
