@@ -27,10 +27,11 @@ O objetivo desta etapa não é definir cores ou tipografia final, mas sim valida
 
 ## 2. Visão Geral do Protótipo
 
-Abaixo, a visão consolidada dos principais fluxos desenhados à mão.
-
 <div align="center">
-  <img width="100%" alt="Visão Geral dos Sketches" src="https://github.com/user-attachments/assets/b405931e-0e74-453a-bb4e-a4b0914730f3" />
+
+  Abaixo, a visão consolidada dos principais fluxos desenhados à mão.
+
+  <img width="70%" alt="Visão Geral dos Sketches" src="https://github.com/user-attachments/assets/b405931e-0e74-453a-bb4e-a4b0914730f3" />
   <br>
   <sub><b>Figura 1:</b> Painel geral dos sketches do sistema (Fonte: Autores, 2025)</sub>
 </div>
