@@ -11,7 +11,7 @@
 > **Estrutura de Ação**
 > <br>Decomposição sistemática dos objetivos dos usuários em subobjetivos, operações e planos de execução.
 
-<a href="SEU_LINK_DO_FIGMA_AQUI">
+<a href="https://miro.com/app/board/uXjVJmtNoj8=/">
   <img src="https://img.shields.io/badge/ACESSAR_DIAGRAMAS_NO_FIGMA_➔-791297?style=for-the-badge&logoColor=white" alt="Acessar Figma">
 </a> 
 
