@@ -191,5 +191,5 @@ O diálogo de configuração oferece dois caminhos principais:
 
 ---
 <div align="center">
-<sub>Documentação de Modelagem de Interação • Atualizado em 2024</sub>
+<sub>Documentação de Modelagem de Interação • Atualizado em 2025</sub>
 </div>
