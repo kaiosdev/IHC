@@ -12,7 +12,7 @@
 > <br>Decomposição sistemática dos objetivos dos usuários em subobjetivos, operações e planos de execução.
 
 <a href="https://miro.com/app/board/uXjVJmtNoj8=/">
-  <img src="https://img.shields.io/badge/ACESSAR_DIAGRAMAS_NO_FIGMA_➔-791297?style=for-the-badge&logoColor=white" alt="Acessar Figma">
+  <img src="https://img.shields.io/badge/ACESSAR_DIAGRAMAS_NO_MIRO_➔-791297?style=for-the-badge&logoColor=white" alt="Acessar Miro">
 </a> 
 
 </div>
