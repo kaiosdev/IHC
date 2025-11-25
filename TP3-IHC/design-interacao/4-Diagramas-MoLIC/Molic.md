@@ -56,7 +56,7 @@ A linguagem MoLIC (Modeling Language for Interaction as Conversation) baseia-se 
 ## 3. Detalhamento dos Fluxos de Conversa
 
 ### 🔐 1. Autenticação e Acesso
-![Foco](https://img.shields.io/badge/FOCO-SEGURANÇA-791297?style=flat-square)
+![Foco](![Diagrama de Fluxo](./ef04f834-8db4-428f-a759-872b0955de11.jpeg))
 
 **Objetivo:** Garantir o acesso seguro através da validação de credenciais.
 
