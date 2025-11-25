@@ -17,6 +17,7 @@
 ## 1. Visão Geral das Variações
 
 Para cada funcionalidade crítica do sistema, foram desenhadas duas abordagens (**Versão A** e **Versão B**) para testar qual modelo mental se adapta melhor às personas mapeadas.
+<img width="16384" height="1973" alt="Sketches drawio (4)" src="https://github.com/user-attachments/assets/d97c92bd-b564-49ee-98f3-f5fdda69149f" />
 
 ---
 
