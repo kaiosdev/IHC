@@ -1,131 +1,185 @@
-# Detalhamento Passo a Passo dos Fluxos do Sistema (HTA)
+<div align="center">
 
-Abaixo apresentamos a descrição granular de cada Análise Hierárquica de Tarefas. Cada seção detalha as entradas, processamentos e saídas esperadas em cada nó do diagrama.
+<h1>ANÁLISE HIERÁRQUICA DE TAREFAS (HTA)</h1>
 
----
+<img src="https://img.shields.io/badge/Disciplina-IHC-791297?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Disciplina IHC">
+<img src="https://img.shields.io/badge/Artefato-Análise_de_Tarefas-c38ae2?style=for-the-badge&logo=googletasks&logoColor=white" alt="Análise de Tarefas">
 
-## 1. Realizar Login do Sistema
-Este fluxo descreve a porta de entrada do usuário, focando em segurança e recuperação de erros.
+<br><br>
 
-<img width="1000" alt="Fluxograma de Login" src="https://github.com/user-attachments/assets/9ac6a613-ea20-4d8e-9480-c8864f958210" />
+> **Estrutura de Ação**
+> <br>Decomposição sistemática dos objetivos dos usuários em subobjetivos, operações e planos de execução.
 
-**Passo a Passo do Processo:**
-1.  **Acesso Inicial (1):** O usuário abre o navegador/aplicativo (1.1) e navega até a página de login (1.2).
-2.  **Inserção de Dados (2):**
-    * O usuário insere seu e-mail institucional (2.2) e senha (2.3).
-    * *Opcional:* O usuário pode marcar "Manter conectado" (2.4) para evitar logins repetitivos.
-    * *Desvio:* Se o usuário esqueceu a senha, ele aciona o sub-fluxo de "Recuperar senha" (2.1).
-3.  **Confirmação e Acesso (3):**
-    * O usuário clica em "Entrar" (3.2).
-    * O sistema valida as credenciais (2.1 - Aguardar validação).
-    * Se válido, o sistema redireciona o usuário para o Dashboard principal (3.3).
+<a href="SEU_LINK_DO_FIGMA_AQUI">
+  <img src="https://img.shields.io/badge/ACESSAR_DIAGRAMAS_NO_FIGMA_➔-791297?style=for-the-badge&logoColor=white" alt="Acessar Figma">
+</a> 
+
+</div>
 
 ---
 
-## 2. Cadastrar Novo Projeto
-Este fluxo demonstra a integração do sistema com bancos de dados externos para reduzir a burocracia.
+## 1. Visão Geral dos Fluxos
 
-<img width="1000" alt="Fluxograma de Cadastro de Projeto" src="https://github.com/user-attachments/assets/7d2435a4-c02c-4176-8607-0460c4ec0f38" />
-
-**Passo a Passo do Processo:**
-1.  **Início do Cadastro (1):** O professor acessa a área de projetos e seleciona a modalidade (ex: PIBIC, Extensão).
-2.  **Automação (2):** O sistema conecta-se ao E-Campus e **importa automaticamente** os dados do professor e do departamento, eliminando preenchimento manual.
-3.  **Detalhamento (3):** O usuário preenche apenas os dados específicos deste projeto (título, resumo, vigência).
-4.  **Formação de Equipe (4):**
-    * O professor busca o aluno pelo número de matrícula (4.1).
-    * Ao encontrar, clica em "Adicionar" (4.2).
-    * *Loop:* Este passo pode ser repetido várias vezes para adicionar múltiplos bolsistas.
-5.  **Finalização (5):** O projeto é salvo e submetido para aprovação.
+Abaixo apresentamos a descrição granular de cada Análise Hierárquica de Tarefas. Cada seção detalha as entradas, processamentos e saídas esperadas em cada nó do diagrama, divididos entre **Tarefas Essenciais** e **Tarefas de Acessibilidade**.
 
 ---
 
-## 3. Consultar Feed Unificado de Editais
-Focado na busca eficiente de informações, permitindo filtragem e ação rápida.
+## 2. Fluxos Essenciais do Sistema
 
-<img width="1000" alt="Fluxograma de Feed de Editais" src="https://github.com/user-attachments/assets/1dfaee82-b01c-4003-95fc-e924c3257df7" />
+### 🔐 1. Realizar Login do Sistema
+![Perfil](https://img.shields.io/badge/PERFIL-TODOS_OS_USUÁRIOS-791297?style=flat-square)
+
+Este fluxo descreve a porta de entrada do usuário, com foco em segurança e mecanismos de recuperação de erros.
+
+<div align="center">
+  <img width="100%" alt="Fluxograma de Login" src="https://github.com/user-attachments/assets/9ac6a613-ea20-4d8e-9480-c8864f958210" />
+</div>
 
 **Passo a Passo do Processo:**
-1.  **Visualização Geral (1):** O usuário acessa o feed onde todos os editais abertos são listados cronologicamente.
-2.  **Refinamento de Busca (2):**
-    * O usuário aplica filtros por "Pró-Reitoria" (2.1) (ex: Pesquisa, Extensão) ou por "Status" (2.2) (ex: Aberto, Encerrado).
-    * O sistema atualiza a lista em tempo real.
-3.  **Interação com o Edital (3):**
-    * **Ação Imediata:** O usuário clica em "Baixar PDF" (3.1) para ler o edital completo.
-    * **Ação de Planejamento:** O usuário clica em "Favoritar" (3.2) para salvar o edital em sua lista pessoal para ler depois.
+1.  **Acesso Inicial:** O usuário abre o navegador/aplicativo e navega até a página de login.
+2.  **Inserção de Dados:**
+    * Usuário insere e-mail institucional e senha.
+    * *(Opcional)* Marca "Manter conectado" para evitar logins repetitivos.
+    * *(Desvio)* Se esqueceu a senha, aciona o sub-fluxo de "Recuperar senha".
+3.  **Confirmação e Acesso:**
+    * Usuário clica em "Entrar".
+    * Sistema valida as credenciais.
+    * **Resultado:** Redirecionamento para o Dashboard principal.
 
 ---
 
-## 4. Gerenciar Tarefas do Orientando (Visão do Professor)
-O fluxo de controle e feedback pedagógico entre orientador e aluno.
+### 📂 2. Cadastrar Novo Projeto
+![Perfil](https://img.shields.io/badge/PERFIL-ORIENTADOR-791297?style=flat-square)
 
-<img width="1000" alt="Fluxograma de Gestão de Orientandos" src="https://github.com/user-attachments/assets/d89d76f2-bfcc-453b-b908-56d150be5bb2" />
+Fluxo que demonstra a integração com bancos de dados externos (E-Campus) para reduzir a burocracia no preenchimento.
+
+<div align="center">
+  <img width="100%" alt="Fluxograma de Cadastro de Projeto" src="https://github.com/user-attachments/assets/7d2435a4-c02c-4176-8607-0460c4ec0f38" />
+</div>
 
 **Passo a Passo do Processo:**
-1.  **Atribuição (1):** O orientador cria uma nova tarefa (1.1), define um prazo limite (1.2) e a envia para o aluno.
-2.  **Análise (2):** Quando o aluno entrega, o professor recebe uma notificação, baixa o arquivo enviado (2.1) e analisa o conteúdo.
-3.  **Decisão e Feedback (3):**
-    * **Caminho A (Reprovação):** O professor clica em "Solicitar Correção" (3.1) e escreve um comentário obrigatório explicando o erro.
-    * **Caminho B (Aprovação):** O professor clica em "Aprovar Tarefa" (3.2), e as horas são computadas no relatório do aluno.
+1.  **Início do Cadastro:** O professor acessa a área de projetos e seleciona a modalidade (ex: PIBIC, Extensão).
+2.  **Automação:** O sistema conecta-se ao E-Campus e **importa automaticamente** dados do professor/departamento.
+3.  **Detalhamento:** Preenchimento apenas dos dados específicos (título, resumo, vigência).
+4.  **Formação de Equipe:**
+    * Busca do aluno por matrícula.
+    * Adição do bolsista ao projeto (loop para múltiplos alunos).
+5.  **Finalização:** Projeto salvo e submetido para aprovação.
 
 ---
 
-## 5. Execução de Tarefas pelo Aluno (Visão do Discente)
-O espelho do fluxo anterior, focado na organização pessoal do estudante.
+### 📢 3. Consultar Feed Unificado de Editais
+![Perfil](https://img.shields.io/badge/PERFIL-TODOS_OS_USUÁRIOS-c38ae2?style=flat-square)
 
-<img width="1000" alt="Fluxograma de Execução de Tarefas" src="https://github.com/user-attachments/assets/df35a980-e780-411b-b21a-e1ffaa5282b2" />
+Focado na busca eficiente de informações, permitindo filtragem e tomada de decisão rápida.
+
+<div align="center">
+  <img width="100%" alt="Fluxograma de Feed de Editais" src="https://github.com/user-attachments/assets/1dfaee82-b01c-4003-95fc-e924c3257df7" />
+</div>
 
 **Passo a Passo do Processo:**
-1.  **Consultar Pendências (1):**
-    * O aluno acessa o painel de tarefas (1.1).
-    * Verifica o status (Pendente/Atrasado) (1.2).
-    * Confere o prazo final (1.3) para priorizar o trabalho.
-2.  **Realizar Entrega (2):**
-    * O aluno clica na tarefa e seleciona "Anexar Arquivo" (2.1).
-    * Confirma o envio para o orientador (2.2).
-3.  **Acompanhamento (3):** O aluno monitora o histórico para ver se a tarefa foi aprovada ou se retornou para correção.
+1.  **Visualização Geral:** Acesso ao feed cronológico de editais abertos.
+2.  **Refinamento de Busca:**
+    * Aplicação de filtros por "Pró-Reitoria" (Pesquisa, Extensão) ou "Status".
+    * Atualização da lista em tempo real.
+3.  **Interação:**
+    * **Ação Imediata:** "Baixar PDF" para leitura completa.
+    * **Planejamento:** "Favoritar" para ler depois.
 
 ---
 
-## 6. Gerar Documentação Automática
-Focado na eficiência administrativa, transformando dados do sistema em documentos oficiais.
+### 📝 4. Gerenciar Tarefas (Visão do Orientador)
+![Perfil](https://img.shields.io/badge/PERFIL-ORIENTADOR-791297?style=flat-square)
 
-<img width="1000" alt="Fluxograma de Documentação Automática" src="https://github.com/user-attachments/assets/c0c53118-668c-461d-8a56-222ba5a8b79b" />
+O fluxo de controle pedagógico, atribuição de demandas e feedback.
+
+<div align="center">
+  <img width="100%" alt="Fluxograma de Gestão de Orientandos" src="https://github.com/user-attachments/assets/d89d76f2-bfcc-453b-b908-56d150be5bb2" />
+</div>
 
 **Passo a Passo do Processo:**
-1.  **Acesso (1):** O usuário entra na área de "Secretaria Virtual" ou "Documentos".
-2.  **Seleção (2):** Escolhe o tipo de documento desejado (ex: Relatório Parcial, Declaração de Vínculo).
-3.  **Processamento Automático (3):**
-    * O sistema busca os dados do projeto ativo (3.1).
-    * O sistema preenche o cabeçalho, nomes e datas no modelo padrão (3.2).
-4.  **Conclusão (4):**
-    * O sistema gera uma prévia na tela (4.1) para conferência.
-    * O usuário clica em "Download" (4.2) para baixar o arquivo finalizado e assinado digitalmente.
+1.  **Atribuição:** Criação de nova tarefa, definição de prazo e envio ao aluno.
+2.  **Análise:** Recebimento de notificação de entrega, download e análise do arquivo.
+3.  **Decisão e Feedback:**
+    * 🔴 **Reprovação:** Clica em "Solicitar Correção" e insere comentário obrigatório.
+    * 🟢 **Aprovação:** Clica em "Aprovar Tarefa" e computa as horas.
 
 ---
 
-## 7. Acessar Opções de Acessibilidade Visual
-Detalha como o sistema se adapta a usuários com baixa visão ou daltonismo.
+### 📤 5. Execução de Tarefas (Visão do Aluno)
+![Perfil](https://img.shields.io/badge/PERFIL-ALUNO_ORIENTADO-c38ae2?style=flat-square)
 
-<img width="1000" alt="Fluxograma de Acessibilidade Visual" src="https://github.com/user-attachments/assets/dec4d78e-03c9-4944-b7ad-1178081e5e08" />
+O espelho do fluxo anterior, focado na organização pessoal e cumprimento de prazos.
+
+<div align="center">
+  <img width="100%" alt="Fluxograma de Execução de Tarefas" src="https://github.com/user-attachments/assets/df35a980-e780-411b-b21a-e1ffaa5282b2" />
+</div>
 
 **Passo a Passo do Processo:**
-1.  **Configuração de Contraste (1):** O usuário pode alternar entre "Modo Escuro", "Alto Contraste" ou "Inversão de Cores" (1.1 e 1.2).
-2.  **Ajuste Tipográfico (2):** O usuário utiliza controles deslizantes para aumentar o tamanho da fonte (2.1) ou alterar a fonte para uma tipografia amigável para dislexia (2.2).
-3.  **Navegação Assistiva (3):**
-    * O usuário ativa "Fluxos Lineares" (3.1).
-    * O sistema reorganiza o layout, removendo colunas laterais e transformando o conteúdo em uma lista vertical única, ideal para leitores de tela e navegação por teclado.
+1.  **Consultar Pendências:**
+    * Acesso ao painel e verificação de status/prazos.
+2.  **Realizar Entrega:**
+    * Seleção da tarefa e upload de arquivo ("Anexar").
+    * Confirmação de envio.
+3.  **Acompanhamento:** Monitoramento do histórico (Aprovado ou Correção necessária).
 
 ---
 
-## 8. Acessar Opções de Acessibilidade Cognitiva
-Detalha recursos para usuários com TDAH, ansiedade ou dificuldades de concentração.
+### 📄 6. Gerar Documentação Automática
+![Perfil](https://img.shields.io/badge/PERFIL-AMBOS-791297?style=flat-square)
 
-<img width="1000" alt="Fluxograma de Acessibilidade Cognitiva" src="https://github.com/user-attachments/assets/69f5fd51-07a2-472f-bc27-376ad1b11fac" />
+Eficiência administrativa: transformando dados do sistema em documentos oficiais.
+
+<div align="center">
+  <img width="100%" alt="Fluxograma de Documentação Automática" src="https://github.com/user-attachments/assets/c0c53118-668c-461d-8a56-222ba5a8b79b" />
+</div>
 
 **Passo a Passo do Processo:**
-1.  **Orientação de Tarefa (1):**
-    * Se o usuário se sentir perdido, clica em "O que fazer agora?".
-    * O sistema destaca visualmente a "Próxima Ação" prioritária (1.2), ocultando opções secundárias.
-2.  **Modo de Foco (2):**
-    * O usuário ativa o "Modo Sem Distrações" (2.1).
-    * O sistema remove banners, notificações não urgentes e elementos decorativos, mantendo apenas a tarefa central na tela.
+1.  **Acesso:** Entrada na "Secretaria Virtual" ou área de "Documentos".
+2.  **Seleção:** Escolha do tipo (ex: Relatório Parcial, Declaração).
+3.  **Processamento Automático:** Sistema busca dados do projeto e preenche o modelo padrão.
+4.  **Conclusão:** Visualização da prévia e Download do arquivo assinado.
+
+---
+
+## 3. Fluxos de Acessibilidade
+
+### 👁️ 7. Acessibilidade Visual (PAV)
+![Perfil](https://img.shields.io/badge/MODO-ACESSIBILIDADE_VISUAL-791297?style=flat-square)
+
+Adaptação do sistema para usuários com baixa visão, daltonismo ou presbiopia.
+
+<div align="center">
+  <img width="100%" alt="Fluxograma de Acessibilidade Visual" src="https://github.com/user-attachments/assets/dec4d78e-03c9-4944-b7ad-1178081e5e08" />
+</div>
+
+**Passo a Passo do Processo:**
+1.  **Configuração de Contraste:** Alternância entre Modo Escuro, Alto Contraste ou Inversão.
+2.  **Ajuste Tipográfico:** Controle deslizante para tamanho de fonte e tipografia para dislexia.
+3.  **Navegação Assistiva:**
+    * Ativação de "Fluxos Lineares".
+    * Reorganização do layout (lista vertical única) para leitores de tela.
+
+---
+
+### 🧠 8. Acessibilidade Cognitiva (AAC)
+![Perfil](https://img.shields.io/badge/MODO-ACESSIBILIDADE_COGNITIVA-c38ae2?style=flat-square)
+
+Recursos para usuários com TDAH, ansiedade ou dificuldades de concentração.
+
+<div align="center">
+  <img width="100%" alt="Fluxograma de Acessibilidade Cognitiva" src="https://github.com/user-attachments/assets/69f5fd51-07a2-472f-bc27-376ad1b11fac" />
+</div>
+
+**Passo a Passo do Processo:**
+1.  **Orientação de Tarefa:**
+    * Acionamento do botão "O que fazer agora?".
+    * Destaque visual na Próxima Ação prioritária.
+2.  **Modo de Foco:**
+    * Ativação do "Modo Sem Distrações".
+    * Remoção de banners e elementos decorativos, mantendo apenas o foco central.
+
+---
+<div align="center">
+<sub>Documentação de Análise de Tarefas • Atualizado em 2024</sub>
+</div>
