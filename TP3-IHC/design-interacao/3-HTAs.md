@@ -26,7 +26,9 @@
 Abaixo apresentamos a descrição granular de cada Análise Hierárquica de Tarefas. Cada seção detalha as entradas, processamentos e saídas esperadas em cada nó do diagrama, divididos entre **Tarefas Essenciais** e **Tarefas de Acessibilidade**.
 
   <img src="https://drive.google.com/uc?export=view&id=19CSfmVbT589rpJxJybBW_UDqX5XHq7O8" width="90%">
-  
+
+</div>
+
 ---
 
 ## 2. Fluxos Essenciais do Sistema
