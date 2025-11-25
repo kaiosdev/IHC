@@ -1,204 +1,195 @@
-# Diagramas MoLIC - Modeling Language for Interaction as Conversation
+<div align="center">
 
-##  Objetivo
+<h1>DIAGRAMAS DE INTERAÇÃO (MoLIC)</h1>
 
-Os diagramas MoLIC (Modeling Language for Interaction as Conversation) representam a interação entre usuário e sistema como uma **conversa estruturada**, onde cada cena representa um momento de diálogo e as transições mostram como o usuário navega entre diferentes contextos de interação.
+<img src="https://img.shields.io/badge/Disciplina-IHC-791297?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Disciplina IHC">
+<img src="https://img.shields.io/badge/Artefato-Engenharia_Semiótica-c38ae2?style=for-the-badge&logo=wechat&logoColor=white" alt="Engenharia Semiótica">
 
----
+<br><br>
 
-##  Fundamentos da Linguagem MoLIC
+> **A Interação como Conversa**
+> <br>Modelagem dos fluxos de diálogo entre o usuário e o sistema, focando nas rupturas e na comunicabilidade.
 
-A linguagem MoLIC é baseada na **Engenharia Semiótica** e trata a interação como um processo de comunicação. Os principais elementos são:
+<a href="https://miro.com/app/board/uXjVJl0c37E=/">
+  <img src="https://img.shields.io/badge/ACESSAR_MOLIC_NO_MIRO_➔-791297?style=for-the-badge&logo=miro&logoColor=white" alt="Acessar Miro">
+</a> 
 
-### Elementos Visuais
-
-- ** Cena (Scene)**: Representa um momento de interação onde o usuário pode realizar ações
-- ** Transição**: Mostra como o usuário passa de uma cena para outra
-- ** Ponto de Decisão**: Representa escolhas que o sistema faz com base em condições
-- ** Fala do Designer**: Mensagens que o sistema comunica ao usuário
-- ** Fala do Usuário**: Ações e intenções expressas pelo usuário
-- ** Processamento**: Operações do sistema que não envolvem diretamente o usuário
-- ** Ruptura de Comunicação**: Pontos onde a conversa pode falhar ou ser interrompida
+</div>
 
 ---
 
-##  Visão Geral do Sistema E-Project
+## 1. Fundamentos da Linguagem
 
-# Diagramas MoLIC - Modeling Language for Interaction as Conversation
+A linguagem MoLIC (Modeling Language for Interaction as Conversation) baseia-se na **Engenharia Semiótica** para tratar a interação como um processo de comunicação.
 
-##  Objetivo
-
-Os diagramas MoLIC (Modeling Language for Interaction as Conversation) representam a interação entre usuário e sistema como uma **conversa estruturada**, onde cada cena representa um momento de diálogo e as transições mostram como o usuário navega entre diferentes contextos de interação.
-
----
-
-##  Fundamentos da Linguagem MoLIC
-
-A linguagem MoLIC é baseada na **Engenharia Semiótica** e trata a interação como um processo de comunicação. Os principais elementos são:
-
-
-##  Diagrama MoLIC Geral
-
-> **Visualização completa do sistema mostrando todos os fluxos integrados**
-
-(https://miro.com/app/board/uXjVJl0c37E=/)
-
-*Diagrama MoLIC Geral - Visão completa dos fluxos de interação do E-Project*
-
-### Descrição Geral
-
-O diagrama apresenta a arquitetura conversacional completa do sistema, onde:
-
-- **Ponto de Entrada**: Login/Autenticação (cena inicial comum a todos)
-- **Bifurcação por Perfil**: Após autenticação, o sistema direciona para o dashboard específico
-- **Fluxos Paralelos**: Cada persona tem seu próprio caminho de navegação
-- **Pontos de Convergência**: Configurações de acessibilidade podem ser acessadas de qualquer fluxo
-- **Saídas**: Logout e conclusão de tarefas como pontos finais
+| Elemento | Descrição |
+| :--- | :--- |
+| **Cena (Scene)** | Representa um momento de interação onde o usuário pode realizar ações. |
+| **Transição** | Mostra como o usuário passa de uma cena para outra. |
+| **Ponto de Decisão** | Representa escolhas que o sistema faz com base em condições pré-definidas. |
+| **Fala do Designer** | Mensagens, feedbacks ou rótulos que o sistema comunica ao usuário. |
+| **Fala do Usuário** | Ações, cliques e intenções expressas pelo usuário. |
+| **Processamento** | Operações internas do sistema que não envolvem interação direta. |
+| **Ruptura** | Pontos onde a conversa pode falhar ou ser interrompida (erros). |
 
 ---
 
-# Design de Interação - MoLIC
+## 2. Visão Geral do Sistema
 
-Este documento descreve a modelagem da interação do **Sistema de Gestão de Projetos Acadêmicos** (focado em PIBIC/PACE), utilizando a notação **MoLIC** (Modeling Language for Interaction as Conversation).
+### 🗺️ Diagrama MoLIC Geral
+> **Arquitetura conversacional completa do E-Project**
 
-O objetivo destes diagramas é mapear os diálogos entre o usuário e o sistema, prevendo fluxos de sucesso, tratamento de erros e personalização da interface.
+<div align="center">
+  <img width="100%" src="LINK_DA_SUA_IMAGEM_GERAL_AQUI" alt="Diagrama Geral">
+  <br>
+  <sub><b>Figura 1:</b> Visão panorâmica dos fluxos de interação (Fonte: Elaboração própria/Miro)</sub>
+</div>
 
-##  Legenda da Notação
-* **u:** Ação ou fala do Usuário.
-* **d:** Ação, resposta ou fala do Designer (representado pelo sistema).
-* **Retângulos Arredondados:** Cenas (momentos da interação).
-* **Caixas Internas:** Detalhes da interface ou opções disponíveis naquela cena.
-* **XOR:** Escolha exclusiva (o usuário faz um ou outro).
-
----
-
-## 1. Autenticação e Acesso
-**Objetivo:** Garantir o acesso seguro ao sistema através da validação de credenciais.
-
-![Diagrama de Autenticação e Dashboard](./caminho/para/imagem_login.jpg)
-
-* **Fluxo Principal:** O usuário (`u`) manifesta a intenção de entrar no sistema.
-* **Interação (Autenticar no Sistema):**
-    * O sistema solicita e o usuário informa (`d+u`):
-        * **Matrícula/e-mail**
-        * **Senha**
-        * **Manter conectado** (opção selecionável)
-    * O usuário confirma o acesso (`u: confirmar acesso`).
-* **Processamento:**
-    * O sistema verifica a validade das informações.
-* **Desvios:**
-    * **Falha:** Se o login for inválido ou usuário não encontrado (`d`), o sistema retorna à tela de autenticação para nova tentativa.
-    * **Sucesso:** Se as credenciais forem válidas (`d`), o sistema direciona o usuário para o **Dashboard**.
+**Descrição do Fluxo Macro:**
+* **Ponto de Entrada:** Autenticação (cena comum a todos).
+* **Bifurcação:** Direcionamento para dashboards específicos após login.
+* **Convergência:** Configurações de acessibilidade acessíveis de qualquer ponto.
+* **Saída:** Logout e conclusão de tarefas como encerramento da conversa.
 
 ---
 
-## Dashboard e Navegação
-**Objetivo:** Centralizar as operações principais disponíveis para o usuário autenticado.
+## 3. Detalhamento dos Fluxos de Conversa
 
-* **Estado Atual:** Usuário logado na tela "Dashboard".
-* **Opções de Navegação (`u`):**
-    O usuário pode escolher seguir para os seguintes fluxos (representados pelos conectores):
-    1.  **Gerenciar orientandos** $\rightarrow$ Leva ao fluxo **A**.
-    2.  **Ver minhas tarefas** $\rightarrow$ Leva ao fluxo **B**.
-    3.  **Cadastrar projeto** $\rightarrow$ Leva ao fluxo **C**.
-    4.  **Consultar editais** $\rightarrow$ Leva ao fluxo **D**.
-    5.  **Biblioteca de modelos** $\rightarrow$ Leva ao fluxo **E**.
-* **Saída:**
-    * **SAIR:** O usuário opta por encerrar a sessão, finalizando a interação com o sistema (símbolo de encerramento).
+### 🔐 1. Autenticação e Acesso
+![Foco](https://img.shields.io/badge/FOCO-SEGURANÇA-791297?style=flat-square)
+
+**Objetivo:** Garantir o acesso seguro através da validação de credenciais.
+
+<div align="center">
+  <img width="100%" src="./caminho/para/imagem_login.jpg" alt="MoLIC Autenticação">
+</div>
+
+* **Interação Inicial:** O usuário (`u`) manifesta intenção de entrar.
+* **Diálogo de Credenciais (`d+u`):**
+    * Sistema solicita: **Matrícula/e-mail** e **Senha**.
+    * Usuário preenche e pode marcar "Manter conectado".
+    * Usuário confirma (`u`: confirmar acesso).
+* **Processamento & Desvios:**
+    * **Falha:** Sistema (`d`) informa erro e retorna à cena de login.
+    * **Sucesso:** Sistema (`d`) valida e transita para o **Dashboard**.
 
 ---
 
-## 2. Personalização e Acessibilidade
-**Objetivo:** Permitir que o usuário adapte a interface às suas necessidades visuais e cognitivas.
+### ♿ 2. Personalização e Acessibilidade
+![Foco](https://img.shields.io/badge/FOCO-ADAPTAÇÃO-c38ae2?style=flat-square)
 
-![Diagrama de Acessibilidade](./caminho/para/imagem_acessibilidade.jpg)
-*(Substitua pelo caminho real da imagem 1001307664.jpg)*
+**Objetivo:** Permitir a adaptação da interface às necessidades visuais e cognitivas.
 
-O sistema oferece dois caminhos principais de ajuste:
-1.  **Acessibilidade Visual:**
-    * Ajuste de Contraste (Alto contraste vs. Padrão).
-    * Tipografia (Aumentar fonte ou Fonte para dislexia).
+<div align="center">
+  <img width="100%" src="./caminho/para/imagem_acessibilidade.jpg" alt="MoLIC Acessibilidade">
+</div>
+
+O diálogo de configuração oferece dois caminhos principais:
+
+1.  **Acessibilidade Visual (`u` seleciona):**
+    * Ajuste de Contraste (Alto contraste / Padrão).
+    * Tipografia (Aumentar fonte / Fonte para dislexia).
     * Zoom de navegação.
-2.  **Suporte Cognitivo (Gerenciar Foco):**
-    * **Modo de Trabalho:** Sem distrações vs. Normal.
-    * **Suporte Visual:** Ícones com rótulos ou Cores semânticas.
-    * **Orientação:** Exibição de checklist da tarefa atual.
+2.  **Suporte Cognitivo (`u` seleciona):**
+    * **Modo de Trabalho:** Ativar "Sem distrações".
+    * **Suporte Visual:** Ativar ícones com rótulos e cores semânticas.
+    * **Orientação:** Exibir checklist da tarefa atual.
 
 ---
 
-## 3. Gestão de Projetos (Advisor/Aluno)
+### 📂 3. Gestão de Projetos (Orientador)
+![Foco](https://img.shields.io/badge/FOCO-INTEGRAÇÃO-791297?style=flat-square)
+
 **Objetivo:** Cadastro de novos projetos acadêmicos e integração com sistemas externos.
 
-![Diagrama de Novo Projeto](./caminho/para/imagem_projeto.jpg)
-*(Substitua pelo caminho real da imagem 1001307667.jpg)*
+<div align="center">
+  <img width="100%" src="./caminho/para/imagem_projeto.jpg" alt="MoLIC Novo Projeto">
+</div>
 
 * **Cena: Novo Projeto Acadêmico**
-    * **Integração:** O sistema permite importar dados diretamente do *E-Campus*.
-        * `d`: Exibe erro na integração se falhar ou carrega dados automaticamente se sucesso.
-    * **Definições:** Seleção de modalidade (PIBIC/PACE).
-    * **Equipe:** Busca e adição de alunos.
-        * `d`: Feedback se matrícula não for encontrada ou vínculo realizado com sucesso.
-    * **Finalização:** O sistema valida campos obrigatórios antes de ativar o projeto.
+    * **Integração (`System`):** Sistema tenta importar dados do *E-Campus*.
+        * `d`: Exibe erro se falhar ou carrega dados se sucesso.
+    * **Definições (`u`):** Seleciona modalidade (PIBIC/PACE).
+    * **Equipe (`u` + `d`):**
+        * Usuário busca aluno por matrícula.
+        * `d`: Feedback (Aluno encontrado ou Matrícula inválida).
+    * **Encerramento:** Sistema valida obrigatórios e ativa o projeto.
 
 ---
 
-## 4. Exploração de Editais
-**Objetivo:** Permitir que o usuário encontre oportunidades de bolsas e projetos.
+### 📢 4. Exploração de Editais
+![Foco](https://img.shields.io/badge/FOCO-INFORMAÇÃO-c38ae2?style=flat-square)
 
-![Diagrama de Editais](./caminho/para/imagem_editais.jpg)
-*(Substitua pelo caminho real da imagem 1001307668.jpg)*
+**Objetivo:** Encontrar oportunidades de bolsas e projetos.
 
-* **Interação:** O usuário consulta editais a partir do Dashboard.
-* **Funcionalidades:**
-    * Filtros por status ou pré-reitoria.
-    * Download do edital (com tratamento de erro de conexão).
-    * Opção de favoritar editais para acesso rápido.
+<div align="center">
+  <img width="100%" src="./caminho/para/imagem_editais.jpg" alt="MoLIC Editais">
+</div>
+
+* **Interação:** Consulta iniciada a partir do Dashboard.
+* **Ações do Usuário (`u`):**
+    * Filtrar por Status ou Pró-Reitoria.
+    * Baixar Edital (Download).
+    * Favoritar para acesso rápido.
+* **Tratamento de Erro:** Sistema alerta caso o download falhe por conexão.
 
 ---
 
-## 5. Fluxo de Orientação (Visão do Orientador)
-**Objetivo:** Gerenciar as atividades dos orientandos e fornecer feedback.
+### 🎓 5. Fluxo de Orientação
+![Foco](https://img.shields.io/badge/FOCO-FEEDBACK-791297?style=flat-square)
 
-![Diagrama de Orientação](./caminho/para/imagem_orientador.jpg)
-*(Substitua pelo caminho real da imagem 1001307665.jpg)*
+**Objetivo:** Gerenciar atividades dos orientandos e fornecer feedback pedagógico.
+
+<div align="center">
+  <img width="100%" src="./caminho/para/imagem_orientador.jpg" alt="MoLIC Orientação">
+</div>
 
 * **Cena: Gerenciar Atividades**
-    * O orientador pode **Criar Nova Tarefa** (definindo título, prazo e anexos).
-    * O orientador pode **Revisar Entregas**:
-        * Visualiza a produção e histórico.
-        * Decide entre **Aprovar** ou **Solicitar Correção**.
-    * **Feedback:** Se solicitar correção, insere motivos/orientações que retornam ao aluno.
+    * **Ação 1 (`u`):** Criar Nova Tarefa (título, prazo, anexos).
+    * **Ação 2 (`u`):** Revisar Entregas.
+* **Ponto de Decisão (Avaliação):**
+    * Caminho A: **Aprovar**.
+    * Caminho B: **Solicitar Correção**.
+* **Feedback (`d`):** Se houver correção, o sistema exige inserção de texto e devolve o fluxo ao aluno.
 
 ---
 
-## 6. Realização de Tarefas (Visão do Aluno)
-**Objetivo:** Acompanhar pendências e realizar entregas.
+### 📝 6. Realização de Tarefas (Aluno)
+![Foco](https://img.shields.io/badge/FOCO-ENTREGA-c38ae2?style=flat-square)
 
-![Diagrama de Tarefas](./caminho/para/imagem_aluno.jpg)
-*(Substitua pelo caminho real da imagem 1001307666.jpg)*
+**Objetivo:** Acompanhar pendências e realizar submissões.
+
+<div align="center">
+  <img width="100%" src="./caminho/para/imagem_aluno.jpg" alt="MoLIC Tarefas">
+</div>
 
 * **Cena: Lista de Pendências**
-    * O aluno visualiza prazos e status.
+    * Aluno visualiza prazos e status atual.
 * **Cena: Detalhes da Tarefa**
-    * Lê orientações.
-    * Realiza o upload do arquivo (entrega).
-    * `d`: Sistema confirma entrega ou alerta sobre erro no upload.
+    * Leitura de orientações.
+    * Upload de arquivo (`u`).
+* **Confirmação:**
+    * `d`: Sistema confirma "Entrega realizada com sucesso" ou alerta erro de upload.
 
 ---
 
-## 7. Geração de Documentos
-**Objetivo:** Automatizar a criação de relatórios e requerimentos.
+### 📄 7. Geração de Documentos
+![Foco](https://img.shields.io/badge/FOCO-AUTOMAÇÃO-791297?style=flat-square)
 
-![Diagrama de Documentos](./caminho/para/imagem_docs.jpg)
-*(Substitua pelo caminho real da imagem 1001307669.jpg)*
+**Objetivo:** Automatizar a criação de relatórios e requerimentos oficiais.
 
-* **Fluxo:**
-    1.  **Configurar Documento:** Seleciona modelo (Relatório de Atividades ou Requerimento).
-    2.  **Dados:** O sistema preenche o cabeçalho vinculado automaticamente, usuário edita dados específicos.
-    3.  **Pré-visualização:** O sistema exibe o documento gerado.
-    4.  **Exportação:** Usuário baixa o arquivo final.
+<div align="center">
+  <img width="100%" src="./caminho/para/imagem_docs.jpg" alt="MoLIC Documentos">
+</div>
+
+* **Fluxo de Diálogo:**
+    1.  **Configurar (`u`):** Seleciona modelo (Relatório/Requerimento).
+    2.  **Processamento (`d`):** Sistema preenche cabeçalho e dados vinculados.
+    3.  **Edição (`u`):** Usuário completa dados específicos.
+    4.  **Prévia (`d`):** Exibição do documento gerado.
+    5.  **Encerramento (`u`):** Download do arquivo final.
 
 ---
-
-##  Ferramentas Utilizadas
-* Diagramação: Miro
+<div align="center">
+<sub>Documentação de Modelagem de Interação • Atualizado em 2024</sub>
+</div>
