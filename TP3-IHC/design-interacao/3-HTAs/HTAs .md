@@ -181,5 +181,5 @@ Recursos para usuários com TDAH, ansiedade ou dificuldades de concentração.
 
 ---
 <div align="center">
-<sub>Documentação de Análise de Tarefas • Atualizado em 2024</sub>
+<sub>Documentação de Análise de Tarefas • Atualizado em 2025</sub>
 </div>
