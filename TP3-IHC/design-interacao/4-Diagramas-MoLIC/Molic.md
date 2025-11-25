@@ -73,18 +73,38 @@ O objetivo destes diagramas é mapear os diálogos entre o usuário e o sistema,
 ---
 
 ## 1. Autenticação e Acesso
-**Objetivo:** Garantir o acesso seguro ao sistema.
+**Objetivo:** Garantir o acesso seguro ao sistema através da validação de credenciais.
 
-![Diagrama de Autenticação](./caminho/para/imagem_login.jpg)
-*(Substitua pelo caminho real da imagem 1001307663.jpg)*
+![Diagrama de Autenticação e Dashboard](./caminho/para/imagem_login.jpg)
 
-* **Fluxo Principal:** O usuário inicia a entrada no sistema.
-* **Interação:**
-    * `u`: Informa credenciais (matrícula/e-mail e senha).
-    * `d`: Verifica as credenciais.
+* **Fluxo Principal:** O usuário (`u`) manifesta a intenção de entrar no sistema.
+* **Interação (Autenticar no Sistema):**
+    * O sistema solicita e o usuário informa (`d+u`):
+        * **Matrícula/e-mail**
+        * **Senha**
+        * **Manter conectado** (opção selecionável)
+    * O usuário confirma o acesso (`u: confirmar acesso`).
+* **Processamento:**
+    * O sistema verifica a validade das informações.
 * **Desvios:**
-    * Se inválido: O sistema retorna feedback de "login inválido" e permite nova tentativa.
-    * Se válido: O sistema direciona o usuário para o **Dashboard**.
+    * **Falha:** Se o login for inválido ou usuário não encontrado (`d`), o sistema retorna à tela de autenticação para nova tentativa.
+    * **Sucesso:** Se as credenciais forem válidas (`d`), o sistema direciona o usuário para o **Dashboard**.
+
+---
+
+## Dashboard e Navegação
+**Objetivo:** Centralizar as operações principais disponíveis para o usuário autenticado.
+
+* **Estado Atual:** Usuário logado na tela "Dashboard".
+* **Opções de Navegação (`u`):**
+    O usuário pode escolher seguir para os seguintes fluxos (representados pelos conectores):
+    1.  **Gerenciar orientandos** $\rightarrow$ Leva ao fluxo **A**.
+    2.  **Ver minhas tarefas** $\rightarrow$ Leva ao fluxo **B**.
+    3.  **Cadastrar projeto** $\rightarrow$ Leva ao fluxo **C**.
+    4.  **Consultar editais** $\rightarrow$ Leva ao fluxo **D**.
+    5.  **Biblioteca de modelos** $\rightarrow$ Leva ao fluxo **E**.
+* **Saída:**
+    * **SAIR:** O usuário opta por encerrar a sessão, finalizando a interação com o sistema (símbolo de encerramento).
 
 ---
 
