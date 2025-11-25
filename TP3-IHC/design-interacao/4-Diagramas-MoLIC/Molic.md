@@ -41,7 +41,7 @@ A linguagem MoLIC é baseada na **Engenharia Semiótica** e trata a interação 
 
 > **Visualização completa do sistema mostrando todos os fluxos integrados**
 
-![Diagrama MoLIC Geral](https://miro.com/app/board/uXjVJl0c37E=/)
+(https://miro.com/app/board/uXjVJl0c37E=/)
 
 *Diagrama MoLIC Geral - Visão completa dos fluxos de interação do E-Project*
 
