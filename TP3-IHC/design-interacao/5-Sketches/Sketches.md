@@ -59,12 +59,4 @@
 | **Descrição:** Foca na escolha visual do tipo de documento através de ícones grandes (Prancheta, Diploma, Carta). | **Descrição:** Permite selecionar os dados em um menu lateral e exibe uma pré-visualização do documento antes do download. |
 <div align="center">
 
-  Abaixo, a visão consolidada dos principais fluxos desenhados à mão.
-
-  <img width="70%" alt="Visão Geral dos Sketches" src="https://github.com/user-attachments/assets/b405931e-0e74-453a-bb4e-a4b0914730f3" />
-  <br>
-  <sub><b>Figura 1:</b> Painel geral dos sketches do sistema (Fonte: Autores, 2025)</sub>
-</div>
-
----
 
