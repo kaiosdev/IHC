@@ -4,6 +4,9 @@ Este documento descreve a modelagem da interação do **Sistema de Gestão de Pr
 
 O objetivo destes diagramas é mapear os diálogos entre o usuário e o sistema, prevendo fluxos de sucesso, tratamento de erros e personalização da interface.
 
+## Diagrama geral:
+https://miro.com/app/board/uXjVJl0c37E=/
+
 ##  Legenda da Notação
 * **u:** Ação ou fala do Usuário.
 * **d:** Ação, resposta ou fala do Designer (representado pelo sistema).
