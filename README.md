@@ -9,6 +9,17 @@ Este repositório atua como portfólio acadêmico, centralizando as atividades p
 
 ---
 
+## Sumário
+
+
+
+- [TP1 – Avaliação de Sistema](#tp1--avaliação-de-sistema)
+
+- [TP2 – IHC e ML](#tp2--ihc-e-ml)
+
+- [TP3 – Design IHC](#tp3--design-ihc)
+
+
 ## Estrutura do Projeto
 
 O desenvolvimento da disciplina foi dividido em três marcos práticos (TPs), detalhados a seguir:
