@@ -40,7 +40,7 @@ Ciclo completo de design de uma solução digital baseada em uma demanda real de
 
 ---
 
-## 👥 Equipe de Desenvolvimento
+## Equipe de Desenvolvimento
 
 | Código | Discentes |  
 | :--- | :---: |
@@ -53,7 +53,7 @@ Ciclo completo de design de uma solução digital baseada em uma demanda real de
 
 ---
 
-## 🛠 Recursos e Gestão
+## Recursos e Gestão
 
 Para garantir a organização e rastreabilidade das entregas, utilizamos as seguintes ferramentas de apoio:
 
