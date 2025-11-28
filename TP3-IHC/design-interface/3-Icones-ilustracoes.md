@@ -16,14 +16,16 @@ Optamos pela biblioteca **Material Symbols**, no estilo **Rounded** (Arredondado
 ## 2. Ícones Principais do Sistema
 Abaixo, listamos os ícones semânticos que representarão as principais funcionalidades do E-Project:
 
-| Ícone (Nome Google) | Significado no E-Project |
-| :--- | :--- |
-| **`home`** | **Dashboard/Início:** Visão geral do sistema. |
-| **`folder_open`** | **Meus Projetos:** Acesso aos projetos de PIBIC/PACE cadastrados. |
-| **`feed`** | **Editais:** Feed unificado de oportunidades (Propesp/Proext). |
-| **`description`** | **Documentos:** Área de geração de relatórios e cartas. |
-| **`person`** | **Perfil:** Dados do usuário e configurações de conta. |
-| **`visibility`** | **Acessibilidade:** Menu de alto contraste e tamanho de fonte. |
+| Visualização | Nome (Google Fonts) | Significado no E-Project |
+| :---: | :--- | :--- |
+|  Home <img width="24" height="24" alt="home_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/5dc2e4d4-7a41-41e8-a83c-d134bfd7c4ac" /> | **`home`** | **Dashboard/Início:** Visão geral do sistema. |
+| Projetos <img width="24" height="24" alt="folder_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/cf4ec748-6e78-41b1-a2b4-533bd8e7dbc4" /> | **`folder_open`** | **Meus Projetos:** Acesso aos projetos de PIBIC/PACE cadastrados. |
+| Editais <img width="24" height="24" alt="article_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/4909449d-238e-45b8-a119-254dba3fe214" /> | **`feed`** | **Editais:** Feed unificado de oportunidades (Propesp/Proext). |
+| Docs <img width="24" height="24" alt="visibility_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/62585baf-84e8-487f-adf9-60775990e2a3" /> | **`description`** | **Documentos:** Área de geração de relatórios e cartas. |
+| Perfil <img width="24" height="24" alt="person_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/13cee9d3-6fd6-45a9-b822-91d048ef7f72" /> | **`person`** | **Perfil:** Dados do usuário e configurações de conta. |
+| Acessibilidade <img width="24" height="24" alt="visibility_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/d7737943-2077-4801-b509-a0c4734b2925" /> | **`visibility`** | **Acessibilidade:** Menu de alto contraste e tamanho de fonte. |
+
+> *Nota: As imagens acima são exemplos no estilo Rounded.*
 
 ---
 
