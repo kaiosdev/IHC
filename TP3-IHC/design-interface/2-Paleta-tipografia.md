@@ -24,14 +24,19 @@ A paleta utiliza as cores institucionais (Verde/Amarelo/Azul) modernizadas para 
 ### Justificativa de Acessibilidade (Contraste)
 Para atender à Persona de Acessibilidade (Prof. Carlos), as cores foram testadas contra o fundo branco e cinza:
 
+<img width="589" height="419" alt="image" src="https://github.com/user-attachments/assets/0f089564-a2f7-4fef-8edb-61206aacd787" />
+
+
 1.  **Verde (#00663C) sobre Branco:** Garante leitura confortável para textos e componentes interativos.
-2.  **Azul (#005875) sobre Branco:** Excelente contraste para títulos e leitura prolongada.
-3.  **Amarelo (#FFF700):** Uso restrito a elementos gráficos ou fundos com texto preto, pois não possui contraste suficiente para texto branco.
+2.  **Azul (#005875) sobre Branco:** Excelente contraste para títulos e leituras que precisam de atenção Maior.
+3.  **Amarelo (#FFF700):** Uso para Alto Constrate e fundos com texto preto.
 
 > **Evidência de Teste (WebAIM):**
->
+> 
+## 1
 > <img width="611" height="762" alt="Paleta Fundo e Cabeçalho" src="https://github.com/user-attachments/assets/132080e3-af1c-4eaf-ba27-dc8f76c257bb" />
->
+
+## 2
 > <img width="618" height="755" alt="Captura de tela 2025-11-27 174947" src="https://github.com/user-attachments/assets/918c544e-2fc1-44c4-a8f2-045678f2fc8f" />
 
 
