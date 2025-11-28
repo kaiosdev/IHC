@@ -58,8 +58,11 @@ Esta análise baseia-se nas **10 Heurísticas de Usabilidade de Nielsen (1994)**
 
 ## Microsoft Teams - Referência de Design
 
+![preview](https://github.com/user-attachments/assets/ba69ba61-64bc-49a6-888b-9f7c9bface0b)
+
 
 O **Microsoft Teams** é uma plataforma de colaboração corporativa e educacional desenvolvida pela Microsoft, lançada em 2017. Integra comunicação (chat, videoconferência), gerenciamento de arquivos e fluxos de trabalho em um único ambiente. Tornou-se referência em design de interfaces profissionais por equilibrar funcionalidades avançadas com acessibilidade para usuários iniciantes.
+
 
 ###  Funcionalidades Principais
 
