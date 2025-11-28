@@ -24,7 +24,8 @@ A paleta utiliza as cores institucionais (Verde/Amarelo/Azul) modernizadas para 
 ### Justificativa de Acessibilidade (Contraste)
 Para atender à Persona de Acessibilidade (Prof. Carlos), as cores foram testadas contra o fundo branco e cinza:
 
-<img width="589" height="419" alt="image" src="https://github.com/user-attachments/assets/0f089564-a2f7-4fef-8edb-61206aacd787" />
+<img width="868" height="461" alt="image" src="https://github.com/user-attachments/assets/ba11fe1d-f46e-4f36-9db6-17d481107288" />
+
 
 
 1.  **Verde (#00663C) sobre Branco:** Garante leitura confortável para textos e componentes interativos.
