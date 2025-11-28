@@ -111,9 +111,6 @@ Esta análise baseia-se nas **10 Heurísticas de Usabilidade de Nielsen (1994)**
 
 ---
 
-<div align="center">
-
-## Conclusão do Mural de Inspiração
 
 </div>
 
