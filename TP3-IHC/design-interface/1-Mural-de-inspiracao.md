@@ -119,6 +119,3 @@ O diferencial do E-Project está em **especializar** esses padrões consolidados
 
 ---
 
-<div align="center">
-
-</div>
