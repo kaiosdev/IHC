@@ -8,7 +8,7 @@ Este documento evidencia a inspiração e em quais sistemas serviram de base par
 
 ---
 
-## Google Classroom - Referência de Design
+## Google Classroom - Referência de interface e cores
 
 ![preview (1)](https://github.com/user-attachments/assets/6a8bd044-af79-4c92-8e93-a143492f3df5)
 
