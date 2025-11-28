@@ -35,7 +35,6 @@ O Google Classroom é uma plataforma educacional gratuita desenvolvida pelo Goog
 - **Ações contextuais** (pasta, perfil, menu) na base de cada card
 - **Responsivo:** Adapta-se perfeitamente a desktop, tablet e mobile
 
-###  Conclusão
 
 O Google Classroom exemplifica design centrado no usuário ao eliminar complexidade desnecessária. Sua força está em permitir que professores e alunos realizem tarefas essenciais (criar turma, enviar atividade, consultar prazo) em **3 cliques ou menos**. A interface prioriza reconhecimento sobre memorização, com elementos visuais claros que dispensam manuais ou treinamento.
 
@@ -59,7 +58,6 @@ Esta análise baseia-se nas **10 Heurísticas de Usabilidade de Nielsen (1994)**
 
 ## Microsoft Teams - Referência de Design
 
-###  Introdução
 
 O **Microsoft Teams** é uma plataforma de colaboração corporativa e educacional desenvolvida pela Microsoft, lançada em 2017. Integra comunicação (chat, videoconferência), gerenciamento de arquivos e fluxos de trabalho em um único ambiente. Tornou-se referência em design de interfaces profissionais por equilibrar funcionalidades avançadas com acessibilidade para usuários iniciantes.
 
@@ -86,7 +84,6 @@ O **Microsoft Teams** é uma plataforma de colaboração corporativa e educacion
 - **Estados vazios informativos:** Ilustrações e mensagens motivacionais
 - **Atalhos de teclado:** Suporte extensivo para usuários avançados (Ctrl+Alt+G)
 
-###  Conclusão
 
 O Microsoft Teams representa **design escalável para ambientes complexos**. Sua força está em oferecer **múltiplas camadas de profundidade** (iniciantes usam chat básico, avançados automatizam workflows) sem comprometer a simplicidade inicial. A interface utiliza padrões consolidados da Microsoft (Fluent Design), garantindo familiaridade para usuários do ecossistema Windows/Office.
 
@@ -116,7 +113,7 @@ Esta análise baseia-se nas **10 Heurísticas de Usabilidade de Nielsen (1994)**
 
 A seleção do **Google Classroom** e **Microsoft Teams** como referências principais fundamenta-se em sua excelência comprovada em usabilidade, com bilhões de interações diárias validando suas escolhas de design. Ao adotarmos padrões visuais já familiares aos usuários acadêmicos (cards, menu lateral, busca global), **reduzimos drasticamente a curva de aprendizado** do E-Project — o Prof. Victor e Ana Beatriz reconhecerão elementos que já dominam em suas rotinas.
 
-As análises baseadas nas **Heurísticas de Nielsen** estabelecem um **benchmark mensurável** (ambas as plataformas atingem ⭐⭐⭐⭐⭐ em 6+ critérios) e revelam soluções diretas para as dores identificadas no briefing: o feed unificado do Classroom resolve o problema de "acessar 3+ sites para editais", as notificações do Teams eliminam o medo de Ana de perder prazos, e a paleta sóbria de ambos atende às necessidades de acessibilidade do Prof. Carlos.
+
 
 O diferencial do E-Project está em **especializar** esses padrões consolidados para o contexto UFAM: em vez de ferramentas genéricas que exigem adaptação (Trello, Notion, Excel), oferecemos uma solução **pré-configurada** com a "linguagem nativa" da universidade (PIBIC, PACE, PROPESP), combinando a simplicidade do Classroom (≤ 3 cliques por tarefa) com a navegação modular do Teams e a identidade institucional verde (#00663C). Este mural serve como alicerce técnico para todas as decisões subsequentes de design, garantindo que o sistema não apenas "pareça profissional", mas **funcione de forma intuitiva** para as personas mapeadas.
 
