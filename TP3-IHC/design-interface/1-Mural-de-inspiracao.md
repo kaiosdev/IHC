@@ -10,6 +10,8 @@ Este documento evidencia a inspiração e em quais sistemas serviram de base par
 
 ## Google Classroom - Referência de Design
 
+![preview (1)](https://github.com/user-attachments/assets/6a8bd044-af79-4c92-8e93-a143492f3df5)
+
 O Google Classroom é uma plataforma educacional gratuita desenvolvida pelo Google para facilitar a comunicação e organização entre professores e alunos. Lançado em 2014, tornou-se referência global em design de interfaces educacionais por sua simplicidade e eficiência.
 
 ###  Funcionalidades Principais
