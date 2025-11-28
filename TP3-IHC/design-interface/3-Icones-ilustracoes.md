@@ -6,6 +6,9 @@ Optamos pela biblioteca **Material Symbols**, no estilo **Rounded** (Arredondado
 * **Fonte:** [Google Fonts Icons](https://fonts.google.com/icons)
 * **Estilo:** Preenchido (Filled) para estados ativos e Contorno (Outlined) para estados inativos.
 
+ <img width="534" height="122" alt="image" src="https://github.com/user-attachments/assets/7bb8dfee-15fc-479e-b122-e13474256162" />
+
+
 ### Justificativa de Escolha
 1.  **Coerência Visual:** A geometria dos ícones Material Symbols "Rounded" harmoniza perfeitamente com a tipografia **Roboto** e **Montserrat** escolhida para o projeto.
 2.  **Familiaridade (Heurística de Nielsen):** Sendo a biblioteca padrão do Android e produtos Google, os ícones (como a Lupa para busca ou a Casa para Home) são universalmente reconhecidos pelos usuários, reduzindo a curva de aprendizado.
