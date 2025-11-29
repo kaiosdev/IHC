@@ -1,7 +1,6 @@
 # E-Project - Sistema de Gestão de Projetos Acadêmicos UFAM
 
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
-[![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)]()
 
 ##  Sobre o Projeto
 
