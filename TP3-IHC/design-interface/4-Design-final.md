@@ -215,4 +215,137 @@ Painel dedicado às configurações de acessibilidade, desenvolvido especificame
 #### Funcionalidades
 
 **A. Tamanho da Fonte**
-- **Controles
+- **Controles:** Botões [-] e [+] com ícone de texto (`text_fields`)
+- **Opções:** Pequeno (14px) / Médio (16px - Padrão) / Grande (18px) / Extra Grande (20px)
+- **Feedback Visual:** Tamanho atual destacado em verde
+
+**B. Modo de Alto Contraste**
+- **Toggle Switch:** Ativa/Desativa modo de alto contraste
+- **Ícone:** Olho com brilho (`visibility`)
+- **Efeito:** Inverte cores para fundo escuro (#000000) com texto branco (#FFFFFF)
+
+**C. Espaçamento de Elementos**
+- **Slider:** Ajusta padding entre componentes (Compacto/Normal/Espaçoso)
+- **Ícone:** Régua (`straighten`)
+- **Aplicação:** Aumenta área de toque em 25% quando configurado para "Espaçoso"
+
+**D. Navegação por Teclado**
+- **Checkbox:** Ativa indicadores visuais de foco (bordas destacadas)
+- **Ícone:** Teclado (`keyboard`)
+- **Benefício:** Facilita navegação sem mouse para usuários com mobilidade reduzida
+
+**E. Leitor de Tela (Screen Reader)**
+- **Status:** Detecta automaticamente se há leitor ativo (NVDA/JAWS)
+- **Ícone:** Alto-falante (`volume_up`)
+- **Configuração:** Adiciona `aria-labels` descritivos em todos os elementos
+
+#### Botões de Ação
+- **Salvar Preferências:** Verde UFAM
+- **Redefinir Padrão:** Azul Profundo
+- **Fechar:** Ícone X (`close`) no canto superior direito
+
+#### Heurísticas Aplicadas
+- **Flexibilidade:** 5 níveis de customização adaptam-se a diferentes necessidades
+- **Reconhecimento:** Cada opção tem ícone + rótulo + descrição auxiliar
+- **Consistência:** Configurações persistem entre sessões via `localStorage`
+
+---
+
+## 6. Princípios de Design Aplicados
+
+### A. Acessibilidade (WCAG 2.1 Nível AA)
+✅ **Contraste Mínimo 4.5:1** em todos os textos  
+✅ **Área de Toque ≥ 48x48dp** em dispositivos móveis  
+✅ **Navegação por Teclado** com indicadores visuais claros  
+✅ **Rótulos Textuais** acompanham todos os ícones  
+✅ **Feedback Sonoro** para ações críticas (via screen reader)
+
+### B. Heurísticas de Nielsen
+| Heurística | Implementação |
+|:-----------|:--------------|
+| **Visibilidade do Estado** | Menu lateral destaca seção ativa em verde |
+| **Linguagem do Usuário** | Termos acadêmicos (PIBIC, PACE) conhecidos pela comunidade UFAM |
+| **Controle e Liberdade** | Botão "Voltar" sempre presente, ações reversíveis |
+| **Consistência** | Mesma estrutura de card em todos os módulos |
+| **Prevenção de Erros** | Validação de formulários em tempo real |
+| **Reconhecimento** | Ícones Material + rótulos eliminam memorização |
+| **Flexibilidade** | Atalhos de teclado para usuários avançados |
+| **Design Minimalista** | Máximo de 3 ações por card |
+| **Recuperação de Erros** | Mensagens claras com soluções ("Senha incorreta. Clique aqui para redefinir") |
+| **Ajuda** | Tooltips contextuais em elementos complexos |
+
+### C. Psicologia das Cores
+- **Verde (`#00663C`):** Institucionalidade, confiança, crescimento acadêmico
+- **Azul (`#005875`):** Profissionalismo, clareza, navegação neutra
+- **Amarelo (`#FFF700`):** Urgência, destaque, ações importantes (usado com moderação)
+- **Cinza Gelo (`#F5F5F5`):** Reduz fadiga visual comparado ao branco puro
+
+### D. Responsividade
+- **Desktop (≥1024px):** Grid de 3 colunas para cards
+- **Tablet (768-1023px):** Grid de 2 colunas
+- **Mobile (<768px):** Layout em coluna única com menu hamburger
+
+---
+
+## 7. Diferenciais do E-Project
+
+### Comparação com Soluções Genéricas
+
+| Aspecto | Trello/Notion (Genérico) | E-Project (Especializado) |
+|:--------|:-------------------------|:--------------------------|
+| **Terminologia** | "Board", "Task", "Workspace" | "Projeto PIBIC", "Relatório PACE", "Edital PROPESP" |
+| **Fluxo de Trabalho** | Usuário configura do zero | Pré-configurado para processos UFAM |
+| **Integração** | APIs externas complexas | Integração nativa com SIGAA/PROPESP |
+| **Curva de Aprendizado** | 5-7 dias para dominar | ≤ 3 cliques por tarefa (imediato) |
+| **Identidade Visual** | Paletas genéricas | Verde institucional UFAM |
+
+---
+
+## 8. Validação com Personas
+
+### Persona 1: Prof. Victor (Eficiência)
+✅ Dashboard mostra todos os projetos em uma única tela  
+✅ Busca global encontra qualquer informação em < 2 segundos  
+✅ Botão flutuante (+) permite criar projeto em 3 cliques  
+
+### Persona 2: Ana Beatriz (Organização)
+✅ Cards visuais com status coloridos facilitam priorização  
+✅ Filtros de editais por área de conhecimento (Humanas)  
+✅ Checklist de tarefas com barra de progresso motivacional  
+
+### Persona 3: Prof. Carlos (Acessibilidade)
+✅ Modo de alto contraste com 4.5:1 de contraste mínimo  
+✅ Fonte ajustável até 20px sem quebra de layout  
+✅ Todos os ícones possuem `aria-label` descritivo  
+
+---
+
+## 9. Próximos Passos
+
+1. **Prototipação Interativa:** Desenvolver versão clicável no Figma para testes de usabilidade
+2. **Testes com Usuários Reais:** 5 professores da UFAM (incluindo pessoa com baixa visão)
+3. **Ajustes Iterativos:** Refinar com base no feedback (metodologia ágil)
+4. **Implementação Front-end:** HTML/CSS/JavaScript seguindo este guia de estilos
+5. **Integração Back-end:** Conectar com APIs do SIGAA e PROPESP
+
+---
+
+## 10. Conclusão
+
+O design final do **E-Project** materializa os princípios estabelecidos nos documentos anteriores, criando uma interface que é simultaneamente:
+
+- **Institucional:** Reflete a identidade visual da UFAM
+- **Funcional:** Resolve os problemas mapeados nas personas
+- **Acessível:** Atende rigorosamente às diretrizes WCAG 2.1
+- **Familiar:** Inspira-se em padrões consolidados (Classroom/Teams)
+- **Especializado:** Fala a "linguagem nativa" da comunidade acadêmica
+
+Ao consolidar gestão de projetos, editais e documentos em uma única plataforma otimizada, o E-Project reduz a fragmentação de ferramentas e aumenta a produtividade dos pesquisadores da UFAM, cumprindo sua promessa de ser **"Electronic, Efficient, UFAM"**.
+
+---
+
+<div align="center">
+
+**Desenvolvido com 💚 para a comunidade acadêmica da UFAM**
+
+</div>
