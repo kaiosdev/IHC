@@ -3,3 +3,4 @@
 <img width="630" height="876" alt="Captura de tela 2025-11-28 200321" src="https://github.com/user-attachments/assets/f200afae-afd2-4139-ad06-81fdb82a8844" />
 <img width="809" height="821" alt="Captura de tela 2025-11-28 200356" src="https://github.com/user-attachments/assets/8040f874-0163-433a-855a-bed0ecedfc0e" />
 <img width="512" height="554" alt="Captura de tela 2025-11-28 200409" src="https://github.com/user-attachments/assets/96e6424a-c613-4beb-91e2-b03fb639b672" />
+   
