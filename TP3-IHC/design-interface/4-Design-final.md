@@ -1,4 +1,234 @@
-# Design Final - E-Project
+# E-Project - Sistema de Gestão de Projetos Acadêmicos UFAM
+
+[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
+[![Plataforma](https://img.shields.io/badge/plataforma-multiplataforma-blue)]()
+[![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)]()
+
+## 📋 Sobre o Projeto
+
+O **E-Project** é um sistema de gestão acadêmica desenvolvido especificamente para a Universidade Federal do Amazonas (UFAM), focado no gerenciamento e acompanhamento de projetos de pesquisa, extensão e ensino.
+
+### 🎯 Objetivo
+
+Criar uma solução **prática, dinâmica e simples** que elimine o retrabalho de adaptação exigido por ferramentas genéricas (como Trello ou Excel), oferecendo um sistema pré-configurado com as características específicas dos projetos da UFAM.
+
+## 🖼️ Interfaces do Sistema
+
+### Tela de Login
+![Tela de Login](Image%201)
+
+A tela inicial do E-Project apresenta:
+- Logo institucional da UFAM
+- Identificação do sistema "E-Project"
+- Opções de acesso diferenciadas:
+  - **Orientador**: Para professores e coordenadores
+  - **Orientando**: Para alunos e bolsistas
+- Sistema específico para projetos: PIBIC, PACE, Pibex, PIBID e Mestrado
+
+### Dashboard do Orientador
+![Dashboard Orientador](Image%202%20e%203)
+
+O painel do orientador oferece uma visão completa com:
+
+**Métricas Principais:**
+- Total de Projetos (6)
+- Projetos em Andamento (4)
+- Projetos Concluídos (0)
+- Projetos Atrasados (1)
+
+**Funcionalidades:**
+- 📝 **Ver Editais**: Acesso a 3 novos editais disponíveis
+- 👥 **Controle de Presença**: Registro específico de presença dos orientandos
+- ➕ **Novo Projeto**: Cadastro rápido de projetos
+
+**Filtros por Tipo:**
+- Todos
+- PIBIC
+- PACE
+- Pibex
+- PIBID
+- Mestrado
+
+**Lista de Projetos Ativos:**
+Cada projeto exibe:
+- Nome e descrição
+- Status (tag colorida)
+- Orientador responsável
+- Datas de início e término
+- Pró-reitoria vinculada
+- Progresso visual (%)
+- Número do edital
+
+### Dashboard do Orientando
+![Dashboard Orientando](Image%201%20e%203)
+
+O painel do orientando apresenta:
+
+**Informações Centralizadas:**
+- Nome do projeto vinculado
+- Orientador responsável
+- Acesso aos editais das Pró-Reitorias
+
+**Filtros de Visualização:**
+- Todas
+- Propesp (Pesquisa)
+- Proext (Extensão)
+- Proeg (Ensino)
+- Proplan (Planejamento)
+
+**Status das Atividades:**
+- Total de Editais (8)
+- Editais Abertos (5)
+- Encerramento em Breve (3)
+- Novos (últimos 7 dias) (0)
+
+**Lista de Editais Disponíveis:**
+Cada edital mostra:
+- Tipo (PIBIC, PACE, Pibex, PIBID)
+- Título do programa
+- Descrição resumida
+- Data de publicação
+- Prazo final (destacado em vermelho quando próximo)
+- Pró-reitoria responsável
+- Número do edital
+- Botão "Acessar Edital"
+
+## 🚀 Funcionalidades Principais
+
+### Para Orientadores
+- ✅ Gestão completa de projetos acadêmicos
+- ✅ Acompanhamento de progresso em tempo real
+- ✅ Controle de presença específico para bolsistas
+- ✅ Visualização integrada de projetos relacionados
+- ✅ Envio de demandas aos orientandos
+- ✅ Dashboard com métricas e indicadores
+- ✅ Filtros por tipo de projeto e pró-reitoria
+
+### Para Orientandos
+- ✅ Visualização de tarefas e demandas
+- ✅ Acompanhamento do próprio progresso
+- ✅ Acesso centralizado aos editais abertos
+- ✅ Notificações de prazos importantes
+- ✅ Interface simplificada e intuitiva
+
+### Centralização de Editais
+- 📢 Agregação automática de editais das pró-reitorias
+- 🔔 Notificações de novos editais
+- 🔗 Links diretos para documentação oficial
+- ⏰ Alertas de prazos próximos ao vencimento
+
+## 🎓 Tipos de Projetos Suportados
+
+| Tipo | Descrição | Pró-Reitoria |
+|------|-----------|--------------|
+| **PIBIC** | Programa Institucional de Bolsas de Iniciação Científica | Propesp |
+| **PACE** | Programa de Apoio à Cultura e Extensão | Proext |
+| **Pibex** | Programa Institucional de Bolsas de Extensão | Proext |
+| **PIBID** | Programa Institucional de Bolsas de Iniciação à Docência | Propesp |
+| **Mestrado** | Programas de Pós-Graduação Stricto Sensu | Propesp |
+
+## 💡 Diferenciais
+
+### 🎯 Especificidade UFAM
+- Sistema pré-configurado com as características dos projetos da UFAM
+- Elimina retrabalho de adaptação de ferramentas genéricas
+- Nomenclaturas, fluxos e processos alinhados com as normativas institucionais
+
+### 🔄 Integração Planejada
+- **E-campus**: Sincronização de atualizações e relatórios
+- **Sites das Pró-Reitorias**: Importação automática de editais
+- Conformidade com SEI e sistemas oficiais
+
+### 📱 Multiplataforma
+- Acesso via computador (desktop)
+- Notebook
+- Dispositivos móveis (smartphone/tablet)
+- Sincronização automática entre dispositivos
+
+### 🔐 Controle de Acesso
+- **Nível Orientador**: Acesso total e gestão completa
+- **Nível Orientando**: Acesso restrito focado em tarefas e demandas
+
+## 🛠️ Tecnologias Previstas
+
+- **Frontend**: Interface responsiva e moderna
+- **Backend**: API robusta e escalável
+- **Banco de Dados**: Armazenamento seguro de informações
+- **Integrações**: Web scraping para editais, APIs de sistemas UFAM
+
+## 📊 Problemas Resolvidos
+
+| Problema | Solução E-Project |
+|----------|-------------------|
+| Ferramentas genéricas sem especificidade | Sistema customizado para UFAM |
+| Retrabalho de adaptação | Pré-configuração inteligente |
+| E-campus/SEI sem acompanhamento | Dashboard com métricas e progresso |
+| Dispersão de informações | Centralização de editais |
+| Múltiplos acessos diários | Portal único integrado |
+
+## 🎨 Paleta de Cores
+
+- **Verde Institucional**: `#1B5E20` (cor principal UFAM)
+- **Verde Claro**: `#4CAF50` (destaques e ações positivas)
+- **Azul Escuro**: `#1565C0` (informações e links)
+- **Amarelo**: `#FDD835` (alertas e destaques)
+- **Vermelho**: `#D32F2F` (prazos críticos)
+- **Cinza**: `#424242` (textos secundários)
+
+## 📈 Roadmap
+
+### Fase 1 - MVP (Produto Mínimo Viável)
+- [ ] Sistema de login diferenciado
+- [ ] Dashboard do orientador
+- [ ] Dashboard do orientando
+- [ ] Cadastro e gestão de projetos
+- [ ] Listagem de editais
+
+### Fase 2 - Funcionalidades Avançadas
+- [ ] Controle de presença
+- [ ] Sistema de notificações
+- [ ] Relatórios automáticos
+- [ ] Histórico de atividades
+
+### Fase 3 - Integrações
+- [ ] Integração com E-campus
+- [ ] Web scraping de editais
+- [ ] Sincronização com SEI
+- [ ] API para terceiros
+
+## 👥 Público-Alvo
+
+### Primário
+- **Professores/Orientadores**: Gestão completa de projetos e equipes
+
+### Secundário
+- **Alunos/Orientandos**: Acompanhamento de tarefas e demandas
+- **Coordenadores**: Visão estratégica dos programas
+
+## 📝 Fontes de Informação
+
+- Editais oficiais dos projetos
+- Sites das Pró-Reitorias (Proext, Propesp, Proeg)
+- Normativas e legislação da UFAM
+- Resoluções do CONSEPE e CONSAD
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas! Este projeto visa melhorar a gestão acadêmica na UFAM.
+
+## 📄 Licença
+
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 📞 Contato
+
+Para mais informações sobre o E-Project, entre em contato com a equipe de desenvolvimento.
+
+---
+
+**E-Project** - Gestão Acadêmica Inteligente para a UFAM 🎓
+
+*Universidade Federal do Amazonas - Simplificando a gestão de projetos acadêmicos*# Design Final - E-Project
 
 <div align="center">
 
