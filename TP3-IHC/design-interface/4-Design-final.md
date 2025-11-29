@@ -39,9 +39,9 @@ O painel do orientador oferece uma visão completa com:
 - Projetos Atrasados (1)
 
 **Funcionalidades:**
-- 📝 **Ver Editais**: Acesso a 3 novos editais disponíveis
-- 👥 **Controle de Presença**: Registro específico de presença dos orientandos
-- ➕ **Novo Projeto**: Cadastro rápido de projetos
+-  **Ver Editais**: Acesso a 3 novos editais disponíveis
+-  **Controle de Presença**: Registro específico de presença dos orientandos
+-  **Novo Projeto**: Cadastro rápido de projetos
 
 **Filtros por Tipo:**
 - Todos
