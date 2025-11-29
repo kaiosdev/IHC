@@ -8,6 +8,9 @@
 
 O **E-Project** é um sistema de gestão acadêmica desenvolvido especificamente para a Universidade Federal do Amazonas (UFAM), focado no gerenciamento e acompanhamento de projetos de pesquisa, extensão e ensino.
 
+("https://www.figma.com/design/lLDopNGZcEgvP0ihCUu2W0/E-Project?node-id=0-1&t=hEyeKuFrlvNCNUQj-1")
+
+
 ###  Objetivo
 
 Criar uma solução **prática, dinâmica e simples** que elimine o retrabalho de adaptação exigido por ferramentas genéricas (como Trello ou Excel), oferecendo um sistema pré-configurado com as características específicas dos projetos da UFAM.
@@ -144,22 +147,9 @@ Cada edital mostra:
 - **Sites das Pró-Reitorias**: Importação automática de editais
 - Conformidade com SEI e sistemas oficiais
 
-###  Multiplataforma
-- Acesso via computador (desktop)
-- Notebook
-- Dispositivos móveis (smartphone/tablet)
-- Sincronização automática entre dispositivos
-
 ###  Controle de Acesso
 - **Nível Orientador**: Acesso total e gestão completa
 - **Nível Orientando**: Acesso restrito focado em tarefas e demandas
-
-##  Tecnologias Previstas
-
-- **Frontend**: Interface responsiva e moderna
-- **Backend**: API robusta e escalável
-- **Banco de Dados**: Armazenamento seguro de informações
-- **Integrações**: Web scraping para editais, APIs de sistemas UFAM
 
 ##  Problemas Resolvidos
 
@@ -180,28 +170,8 @@ Cada edital mostra:
 - **Vermelho**: `#D32F2F` (prazos críticos)
 - **Cinza**: `#424242` (textos secundários)
 
-## 📈 Roadmap
 
-### Fase 1 - MVP (Produto Mínimo Viável)
-- [ ] Sistema de login diferenciado
-- [ ] Dashboard do orientador
-- [ ] Dashboard do orientando
-- [ ] Cadastro e gestão de projetos
-- [ ] Listagem de editais
-
-### Fase 2 - Funcionalidades Avançadas
-- [ ] Controle de presença
-- [ ] Sistema de notificações
-- [ ] Relatórios automáticos
-- [ ] Histórico de atividades
-
-### Fase 3 - Integrações
-- [ ] Integração com E-campus
-- [ ] Web scraping de editais
-- [ ] Sincronização com SEI
-- [ ] API para terceiros
-
-## 👥 Público-Alvo
+##  Público-Alvo
 
 ### Primário
 - **Professores/Orientadores**: Gestão completa de projetos e equipes
