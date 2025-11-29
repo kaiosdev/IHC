@@ -100,7 +100,7 @@ O Microsoft Teams representa **design escalável para ambientes complexos**. Sua
 
 Para o **E-Project**, o Teams valida a importância de **feedback visual imediato** e **navegação modular**: cada funcionalidade (Projetos, Editais, Tarefas) pode ter sua própria "cena" sem poluir o Dashboard principal — abordagem já modelada nos diagramas MoLIC do projeto.
 
-### 🔍 Referências nas Heurísticas de Nielsen
+###  Referências nas Heurísticas de Nielsen
 
 Esta análise baseia-se nas **10 Heurísticas de Usabilidade de Nielsen (1994)**, utilizadas para avaliar a qualidade da interface:
 
