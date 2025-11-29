@@ -183,3 +183,48 @@ Cada edital mostra:
 *Universidade Federal do Amazonas - Simplificando a gestão de projetos acadêmicos*# Design Final - E-Project
 
 <div align="center">
+
+
+---
+---
+
+## 📱 Interface Mobile - Fluxo do Aluno (Membro 4)
+
+Este módulo foi desenhado especificamente para a **Persona Ana Beatriz** (Estudante de Engenharia e bolsista PIBIC), focando em resolver suas dores principais: sobrecarga de tarefas e incerteza sobre a comunicação com o orientador.
+
+### 1. Tela de Tarefas (Dashboard Mobile)
+Focada na organização rápida e redução de ansiedade.
+* **Card de Destaque:** Exibe a entrega mais urgente ("Relatório Parcial") com alerta de prazo em destaque, ajudando a aluna a priorizar.
+* **Lista de Demandas:** Cards com áreas de toque expandidas (acessibilidade) para facilitar o uso em movimento.
+* **Integração:** Exibe tarefas reais do projeto "Biodiversidade Amazônica" e obrigações administrativas (Frequência, Estágio).
+
+<img width="631" height="1358" alt="Tela 1 - Lista de Tarefas" src="https://github.com/user-attachments/assets/2166ef33-4208-4276-8b74-7554dcc541fb" />
+
+### 2. Submissão e Atualização
+Combina duas funcionalidades em uma única tela para otimizar o tempo do aluno:
+* **Upload Intuitivo:** Área de anexo clara com padrão de traçado.
+* **Canal Direto:** Campo de mensagem integrado para enviar atualizações de status junto com o arquivo, centralizando a comunicação que antes ficava dispersa no WhatsApp.
+* **Botão de Ação:** Botão "Enviar Atividade" com largura total para fácil alcance do polegar.
+
+<img width="631" height="1358" alt="Tela 2 - Upload e Envio" src="https://github.com/user-attachments/assets/a716f782-e566-45c0-877b-90fd1cf55c33" />
+
+### 3. Feedback do Sistema (Sucesso e Erro)
+Telas essenciais para garantir a confirmação da ação e reduzir a insegurança da aluna.
+* **Sucesso (Verde):** Confirmação visual clara e mensagem tranquilizadora ("O orientador recebeu sua notificação").
+* **Erro (Alerta):** Instrução clara de correção ("Verifique sua conexão") para evitar frustração.
+
+<img width="631" height="1358" alt="Tela 3 - Sucesso" src="https://github.com/user-attachments/assets/f3602ce5-2fec-45ba-92de-8121a8e3e812" />
+<img width="631" height="1358" alt="Tela 4 - Erro" src="https://github.com/user-attachments/assets/de6fd4be-f523-4498-9646-d4159f3d1cd4" />
+
+### 🎨 Consistência Visual e Grid
+O projeto mobile segue estritamente o Design System estabelecido para a versão Desktop (Membro 3):
+* **Cores:** Uso do Verde UFAM (#1B5E20) como cor primária e Vermelho (#D32F2F) para estados de erro/alerta.
+* **Tipografia:** Hierarquia de textos alinhada com o sistema web.
+* **Responsividade:** Uso de Grid de 4 colunas (padrão mobile) para garantir alinhamento perfeito.
+
+()
+
+
+
+
+
