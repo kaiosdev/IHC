@@ -113,7 +113,6 @@ Esta análise baseia-se nas **10 Heurísticas de Usabilidade de Nielsen (1994)**
 | **7. Flexibilidade e eficiência** | ⭐⭐⭐⭐⭐ Atalhos de teclado para usuários avançados |
 | **8. Estética e design minimalista** | ⭐⭐⭐⭐⭐ Hierarquia clara, uso estratégico de cor |
 
----
 
 ---
 
