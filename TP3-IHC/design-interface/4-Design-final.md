@@ -214,7 +214,7 @@ Telas essenciais para garantir a confirmação da ação e reduzir a inseguranç
 * **Erro (Alerta):** Instrução clara de correção ("Verifique sua conexão") para evitar frustração.
 
 <img width="631" height="1358" alt="Tela 3 - Sucesso" src="https://github.com/user-attachments/assets/f3602ce5-2fec-45ba-92de-8121a8e3e812" />
-<img width="631" height="1358" alt="Tela 4 - Erro" src="https://github.com/user-attachments/assets/67e3205e-0ec4-473c-9ee5-5269745de3ed" />
+<img width="392" height="851" alt="Tela 4 - Erro" src="https://github.com/user-attachments/assets/fa57e469-ada6-44d1-8fa6-08564fe11a94" />
 
 ### 🎨 Consistência Visual e Grid
 O projeto mobile segue estritamente o Design System estabelecido para a versão Desktop (Membro 3):
