@@ -198,7 +198,7 @@ Focada na organização rápida e redução de ansiedade.
 * **Lista de Demandas:** Cards com áreas de toque expandidas (acessibilidade) para facilitar o uso em movimento.
 * **Integração:** Exibe tarefas reais do projeto "Biodiversidade Amazônica" e obrigações administrativas (Frequência, Estágio).
 
-<img width="631" height="1358" alt="Tela 1 - Lista de Tarefas" src="https://github.com/user-attachments/assets/2166ef33-4208-4276-8b74-7554dcc541fb" />
+<img width="631" height="1358" alt="Tela 1 - Lista de Tarefas" src="https://github.com/user-attachments/assets/1b84709c-6758-4d2d-9177-ef4ad72b23b8" />
 
 ### 2. Submissão e Atualização
 Combina duas funcionalidades em uma única tela para otimizar o tempo do aluno:
@@ -206,7 +206,7 @@ Combina duas funcionalidades em uma única tela para otimizar o tempo do aluno:
 * **Canal Direto:** Campo de mensagem integrado para enviar atualizações de status junto com o arquivo, centralizando a comunicação que antes ficava dispersa no WhatsApp.
 * **Botão de Ação:** Botão "Enviar Atividade" com largura total para fácil alcance do polegar.
 
-<img width="631" height="1358" alt="Tela 2 - Upload e Envio" src="https://github.com/user-attachments/assets/a716f782-e566-45c0-877b-90fd1cf55c33" />
+<img width="631" height="1358" alt="Tela 2 - Upload e Envio" src="https://github.com/user-attachments/assets/b4e1b8ca-debd-4043-b829-aa01588b5226" />
 
 ### 3. Feedback do Sistema (Sucesso e Erro)
 Telas essenciais para garantir a confirmação da ação e reduzir a insegurança da aluna.
@@ -214,7 +214,7 @@ Telas essenciais para garantir a confirmação da ação e reduzir a inseguranç
 * **Erro (Alerta):** Instrução clara de correção ("Verifique sua conexão") para evitar frustração.
 
 <img width="631" height="1358" alt="Tela 3 - Sucesso" src="https://github.com/user-attachments/assets/f3602ce5-2fec-45ba-92de-8121a8e3e812" />
-<img width="631" height="1358" alt="Tela 4 - Erro" src="https://github.com/user-attachments/assets/de6fd4be-f523-4498-9646-d4159f3d1cd4" />
+<img width="631" height="1358" alt="Tela 4 - Erro" src="https://github.com/user-attachments/assets/67e3205e-0ec4-473c-9ee5-5269745de3ed" />
 
 ### 🎨 Consistência Visual e Grid
 O projeto mobile segue estritamente o Design System estabelecido para a versão Desktop (Membro 3):
