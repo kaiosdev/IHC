@@ -198,7 +198,7 @@ Focada na organização rápida e redução de ansiedade.
 * **Lista de Demandas:** Cards com áreas de toque expandidas (acessibilidade) para facilitar o uso em movimento.
 * **Integração:** Exibe tarefas reais do projeto "Biodiversidade Amazônica" e obrigações administrativas (Frequência, Estágio).
 
-<img width="631" height="1358" alt="Tela 1 - Lista de Tarefas" src="https://github.com/user-attachments/assets/1b84709c-6758-4d2d-9177-ef4ad72b23b8" />
+<img width="631" height="1358" alt="Tela 1 - Lista de Tarefas" src="https://github.com/user-attachments/assets/30fcf375-11ac-4f23-b343-05e19292e2bb" />
 
 ### 2. Submissão e Atualização
 Combina duas funcionalidades em uma única tela para otimizar o tempo do aluno:
