@@ -1,3 +1,26 @@
+<div align="center">
+
+<h1>UI Kit e Guia de Estilos - E-Project</h1>
+
+<img src="https://img.shields.io/badge/Instituição-UFAM-00663C?style=for-the-badge&logo=googlescholar&logoColor=white">
+
+<img src="https://img.shields.io/badge/Artefato-UI_Kit_&_Design-00663C?style=for-the-badge&logo=figma&logoColor=white">
+
+<img src="https://img.shields.io/badge/Foco-Acessibilidade-00663C?style=for-the-badge&logo=accessibility&logoColor=white">
+
+<br><br>
+
+> Este documento estabelece as diretrizes visuais para o **E-Project**, o Sistema de Gestão de Projetos Acadêmicos.
+> Design focado na institucionalidade e acessibilidade (Personas: Prof. Carlos e Prof. Vitor).
+
+<br>
+
+<a href="LINK-DO-SEU-PROJETO-AQUI">
+  <img src="https://img.shields.io/badge/🔗_ACESSAR_GUIA_DE_ESTILOS-00663C?style=for-the-badge">
+</a>
+
+</div>
+
 # UI Kit e Guia de Estilos - E-Project
 
 Este documento estabelece as diretrizes visuais para o **E-Project**, o Sistema de Gestão de Projetos Acadêmicos. O design foi concebido para transmitir a institucionalidade da UFAM, priorizando rigorosamente a acessibilidade para usuários com baixa visão (Persona: Prof. Carlos) e a clareza de informações (Persona: Prof. Vitor).
