@@ -238,13 +238,13 @@ As ações "Baixar" e "Visualizar" são botões de alto contraste, garantindo f�
 
 Hierarquia de Ação:
 
-O botão "Abrir para Revisão" é o botão primário, com um ícone de olho (👁️) que reforça a natureza da tarefa. Ele guia o usuário para o próximo passo no fluxo de trabalho.
-
-O botão "Marcar como Não Aplicável" é o botão secundário, posicionado de forma discreta para não desviar a atenção da ação principal, mas acessível se necessário.
-
+- O botão "Abrir para Revisão" é o botão primário, com um ícone de olho (👁️) que reforça a natureza da tarefa. Ele guia o usuário para o próximo passo no fluxo de trabalho.
+- O botão "Marcar como Não Aplicável" é o botão secundário, posicionado de forma discreta para não desviar a atenção da ação principal, mas acessível se necessário.
+- O ícone de acessibilidade deve ser um elemento persistente no cabeçalho (header) de todos os viewports (telas de 1 a 8), mantendo-se como um recurso de sistema de alta prioridade. A navegação acionada deve levar diretamente ao frame 'Acessibilidade' (penúltima tela), que, por sua vez, deve ter um botão 'Salvar' que leva ao frame de confirmação 'Alterações Salvas com Sucesso!' (última tela).
 Instruções Flexíveis: As instruções breves estão disponíveis, com o botão "Ver instruções completas" permitindo a expansão de detalhes sem sobrecarregar a tela.
+<img width="237" height="523" alt="Captura de tela 2025-12-01 144148" src="https://github.com/user-attachments/assets/ca4df9e8-e754-4fde-b2fb-d479b97e0875" />
 
-<img width="239" height="526" alt="Captura de tela 2025-12-01 104214" src="https://github.com/user-attachments/assets/710ff398-fdb7-40cf-84c8-ad983a0bb820" />
+
 
 ### 5. Enviar Artigo
 Função:
@@ -256,8 +256,7 @@ Prevenção de Erros (WCAG 3.3.4): A seção "Requisitos de Submissão" atua com
 Upload Intuitivo: A área de upload com o ícone de nuvem e a borda tracejada oferece suporte a "arrastar e soltar" e é visualmente clara. O feedback de arquivo carregado ("Tese_Final_Ana.pdf") com a opção de "Remover" permite correção imediata.
 
 Hierarquia Visual: O prazo está destacado, e as notas opcionais estão separadas, mantendo o foco do usuário no upload e no checklist.
-
-<img width="392" height="851" alt="Tela 6" src="https://github.com/user-attachments/assets/8df11aed-7ae9-4114-ab79-125403a3f35e" />
+<img width="392" height="851" alt="Tela 6" src="https://github.com/user-attachments/assets/b306d8fe-9fb6-473a-8299-1b44de608175" />
 
 
 ### 6. Registrar Presença
@@ -272,8 +271,7 @@ Clareza da Localização: A validação "✔ LOCALIZAÇÃO VÁLIDA" em verde for
 Contexto Temporal (E6): A data "Hoje é: Segunda-feira..." é exibida com destaque, informando imediatamente o usuário sobre o contexto da tarefa.
 
 Organização: O link "Ver histórico de Presença" está convenientemente posicionado como um botão secundário para usuários organizados (como a Ana) que desejam conferir registros anteriores.
-
-<img width="392" height="851" alt="Tela 7" src="https://github.com/user-attachments/assets/952fd764-57ba-4f26-8bd9-ea2c8bea9d78" />
+<img width="392" height="851" alt="Tela 7" src="https://github.com/user-attachments/assets/fe9ea190-e5de-4762-9e2b-1374761ef772" />
 
 
 ### 7. Relatório de Estágio
@@ -287,8 +285,7 @@ Instruções Detalhadas: Os links "Ver Instruções Completas" e "Ver Regras de 
 Múltiplos Uploads: A seção "Upload de Arquivo" distingue claramente entre o 1. Arquivo Principal e o 2. Anexo Obrigatório, resolvendo o desafio de submissão de múltiplos documentos. Cada botão de upload é rotulado para clareza.
 
 Requisitos Formaiss: O "Checklist" garante que itens críticos (como a assinatura do supervisor) não sejam esquecidos, fundamental para relatórios de estágio.
-<img width="392" height="851" alt="Tela 8" src="https://github.com/user-attachments/assets/0f97779c-5b6d-4984-9faf-28d20ff00cc7" />
-
+<img width="392" height="851" alt="Tela 8" src="https://github.com/user-attachments/assets/d15c76ee-bbd8-4bf6-89c6-a1270ea408bb" />
 
 ### 8. Opções de Acessibilidade
 Função:
@@ -322,7 +319,7 @@ Alertas de Tempo Estendido: Permite mais tempo para o usuário responder a mensa
 Componentes de Interface: O uso de Toggle Switches para as opções binárias (Ligado/Desligado) é intuitivo e padrão em interfaces móveis.
 
 Ação Final: O botão "SALVAR ALTERAÇÕES" é o ponto focal da tela, e o link "Restaurar Configurações Padrão" permite o reset seguro das preferências.
-<img width="392" height="851" alt="Acessibilidade (2)" src="https://github.com/user-attachments/assets/2a36a26b-8afa-459e-b260-68ee77b4118e" />
+<img width="392" height="851" alt="Acessibilidade" src="https://github.com/user-attachments/assets/24d5a9cf-cf5d-4865-8288-413ca19708b7" />
 
 
 - Tela de Confirmação (Pós-Ação)
@@ -335,8 +332,7 @@ Clareza Imediata: O ícone de check em um círculo verde é um padrão universal
 Foco na Ação: O texto "Alterações Salvas com Sucesso!" é breve e direto.
 
 Ação de Saída: O único botão ativo é "Voltar para o Início", guiando o usuário de volta ao ponto principal de navegação para continuar seu trabalho.
-
-<img width="392" height="851" alt="Acessibilidade (1)" src="https://github.com/user-attachments/assets/e7431fdf-fd7c-44e3-b4b2-9824d5afb72a" />
+<img width="392" height="851" alt="Acessibilidade-1" src="https://github.com/user-attachments/assets/52e5ff4e-aa91-4d51-bfa7-c8d986b3857b" />
 
 
 
