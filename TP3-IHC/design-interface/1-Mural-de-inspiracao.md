@@ -12,7 +12,7 @@ Este documento evidencia a inspiração e em quais sistemas serviram de base par
 
 <div align="center">
 
-<img width="1920" height="1080" alt="inspirações design ihc design" src="https://github.com/user-attachments/assets/e675f518-9952-4c1d-9ceb-7a8818fbdd6f" />
+<img width="1199" height="812" alt="design de inspiração" src="https://github.com/user-attachments/assets/869fff8b-d058-4b7b-9a48-1862f2a4fa95" />
 
 </div>
 
