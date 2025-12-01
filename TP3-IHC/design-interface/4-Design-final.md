@@ -197,16 +197,16 @@ Focada na organização rápida e redução de ansiedade.
 * **Card de Destaque:** Exibe a entrega mais urgente ("Relatório Parcial") com alerta de prazo em destaque, ajudando a aluna a priorizar.
 * **Lista de Demandas:** Cards com áreas de toque expandidas (acessibilidade) para facilitar o uso em movimento.
 * **Integração:** Exibe tarefas reais do projeto "Biodiversidade Amazônica" e obrigações administrativas (Frequência, Estágio).
-
-<img width="631" height="1358" alt="Tela 1 - Lista de Tarefas" src="https://github.com/user-attachments/assets/30fcf375-11ac-4f23-b343-05e19292e2bb" />
+  
+<img width="392" height="851" alt="Tela 1 - Lista de Tarefas" src="https://github.com/user-attachments/assets/b6fefac4-7730-46e5-84dc-3ff3aa0dd2f6" />
 
 ### 2. Submissão e Atualização
 Combina duas funcionalidades em uma única tela para otimizar o tempo do aluno:
 * **Upload Intuitivo:** Área de anexo clara com padrão de traçado.
 * **Canal Direto:** Campo de mensagem integrado para enviar atualizações de status junto com o arquivo, centralizando a comunicação que antes ficava dispersa no WhatsApp.
 * **Botão de Ação:** Botão "Enviar Atividade" com largura total para fácil alcance do polegar.
-
-<img width="631" height="1358" alt="Tela 2 - Upload e Envio" src="https://github.com/user-attachments/assets/b4e1b8ca-debd-4043-b829-aa01588b5226" />
+* 
+<img width="392" height="851" alt="Tela 2 - Upload e Envio" src="https://github.com/user-attachments/assets/c0784aff-d239-4d6a-b9fc-7b135aefee21" />
 
 ### 3. Feedback do Sistema (Sucesso e Erro)
 Telas essenciais para garantir a confirmação da ação e reduzir a insegurança da aluna.
