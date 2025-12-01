@@ -6,7 +6,8 @@ Optamos pela biblioteca **Material Symbols**, no estilo **Rounded** (Arredondado
 * **Fonte:** [Google Fonts Icons](https://fonts.google.com/icons)
 * **Estilo:** Preenchido (Filled) para estados ativos e Contorno (Outlined) para estados inativos.
 
- <img width="534" height="122" alt="image" src="https://github.com/user-attachments/assets/7bb8dfee-15fc-479e-b122-e13474256162" />
+<img width="799" height="210" alt="image" src="https://github.com/user-attachments/assets/488576dc-d58d-4a98-bc12-f2e38bcd2b47" />
+
 
 
 ### Justificativa de Escolha
