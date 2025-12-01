@@ -12,7 +12,7 @@ Este documento evidencia a inspiração e em quais sistemas serviram de base par
 
 <div align="center">
 
-  ![preview (1)](https://github.com/user-attachments/assets/6a8bd044-af79-4c92-8e93-a143492f3df5)
+<img width="1199" height="812" alt="Design sem nome" src="https://github.com/user-attachments/assets/aa0e002a-519e-4683-9a8a-d069eee5baf2" />
 
 </div>
 
