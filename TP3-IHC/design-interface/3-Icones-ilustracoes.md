@@ -28,7 +28,7 @@ Abaixo, listamos os ícones semânticos que representarão as principais funcion
 | Editais <img width="24" height="24" alt="source_notes_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/294acd6b-da9e-466c-958f-5028ecdef299" /> | **`Source Notes`** | **Editais:** Feed unificado de oportunidades (Propesp/Proext). |
 | Docs <img width="24" height="24" alt="docs_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/960035f0-9559-46f1-a418-ae0b9a0eac94" /> | **`description`** | **Documentos:** Área de geração de relatórios e cartas. |
 | Perfil <img width="24" height="24" alt="person_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/13cee9d3-6fd6-45a9-b822-91d048ef7f72" /> | **`person`** | **Perfil:** Dados do usuário e configurações de conta. |
-| Acessibilidade <img width="24" height="24" alt="visibility_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/d7737943-2077-4801-b509-a0c4734b2925" /> | **`visibility`** | **Acessibilidade:** Menu de alto contraste e tamanho de fonte. |
+| Acessibilidade <img width="24" height="24" alt="accessible_menu_24dp_FFFFFF_FILL1_wght400_GRAD0_opsz24" src="https://github.com/user-attachments/assets/0a4c9b82-c1d5-4e59-b26c-856a9024b255" /> | **`visibility`** | **Acessibilidade:** Menu de alto contraste e tamanho de fonte. |
 
 > *Nota: As imagens acima são exemplos no estilo Rounded.*
 
