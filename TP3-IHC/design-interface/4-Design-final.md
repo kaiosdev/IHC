@@ -223,6 +223,121 @@ O projeto mobile segue estritamente o Design System estabelecido para a versão 
 
 
 
+### 4. Confirmação de Funções 
+(Revisar Apresentação)
+Função:
+Esta tela serve como o ponto de entrada para a tarefa "Revisar Apresentação", fornecendo à Ana Beatriz todo o contexto (status, prazo, instruções) e os documentos necessários para iniciar a revisão.
+
+Decisões de Usabilidade e Acessibilidade:
+Comunicação de Urgência: O bloco Status é proeminente, usando um ícone de alerta (⚠️) e a cor vermelha/laranja para o Prazo (14/12/2025), sinalizando que a tarefa é Pendente e requer ação imediata (WCAG 1.4.1 – Uso de cor).
+
+Acesso a Documentos (CRUCIAL):
+
+A seção "Documentos Necessários" lista de forma clara tanto o arquivo principal (Rascunho_Projeto1.pptx) quanto o anexo de apoio (Feedback_Prof.pdf).
+As ações "Baixar" e "Visualizar" são botões de alto contraste, garantindo fácil acesso aos materiais.
+
+Hierarquia de Ação:
+
+O botão "Abrir para Revisão" é o botão primário, com um ícone de olho (👁️) que reforça a natureza da tarefa. Ele guia o usuário para o próximo passo no fluxo de trabalho.
+
+O botão "Marcar como Não Aplicável" é o botão secundário, posicionado de forma discreta para não desviar a atenção da ação principal, mas acessível se necessário.
+
+Instruções Flexíveis: As instruções breves estão disponíveis, com o botão "Ver instruções completas" permitindo a expansão de detalhes sem sobrecarregar a tela.
+<img width="239" height="526" alt="Captura de tela 2025-12-01 104214" src="https://github.com/user-attachments/assets/710ff398-fdb7-40cf-84c8-ad983a0bb820" />
+
+### 5. Enviar Artigo
+Função:
+Permitir que o usuário, Ana Beatriz, submeta seu artigo final, garantindo que todos os requisitos de formato e conteúdo sejam atendidos antes do envio.
+
+Decisões de Usabilidade e Acessibilidade:
+Prevenção de Erros (WCAG 3.3.4): A seção "Requisitos de Submissão" atua como um checklist obrigatório. O botão "Enviar Artigo Definitivo" é desabilitado (cinza) e só é habilitado em verde após o upload e a marcação dos requisitos, minimizando erros formais de submissão.
+
+Upload Intuitivo: A área de upload com o ícone de nuvem e a borda tracejada oferece suporte a "arrastar e soltar" e é visualmente clara. O feedback de arquivo carregado ("Tese_Final_Ana.pdf") com a opção de "Remover" permite correção imediata.
+
+Hierarquia Visual: O prazo está destacado, e as notas opcionais estão separadas, mantendo o foco do usuário no upload e no checklist.
+<img width="392" height="851" alt="Tela 6" src="https://github.com/user-attachments/assets/8df11aed-7ae9-4114-ab79-125403a3f35e" />
+
+
+### 6. Registrar Presença
+Função:
+Oferecer um mecanismo de check-in simples e rápido para a presença da Ana Beatriz (conforme a necessidade da Persona P2), validando sua localização dentro de um raio permitido.
+
+Decisões de Usabilidade e Acessibilidade:
+Simplicidade e Rapidez (E1): O design é focado na ação de "CHECK-IN AGORA". O botão primário é grande, verde e imediatamente clicável, desde que a validação de localização seja positiva.
+
+Clareza da Localização: A validação "✔ LOCALIZAÇÃO VÁLIDA" em verde fornece feedback visual imediato, essencial para tarefas sensíveis a localização. O ícone de localização reforça o contexto.
+
+Contexto Temporal (E6): A data "Hoje é: Segunda-feira..." é exibida com destaque, informando imediatamente o usuário sobre o contexto da tarefa.
+
+Organização: O link "Ver histórico de Presença" está convenientemente posicionado como um botão secundário para usuários organizados (como a Ana) que desejam conferir registros anteriores.
+<img width="392" height="851" alt="Tela 7" src="https://github.com/user-attachments/assets/952fd764-57ba-4f26-8bd9-ea2c8bea9d78" />
+
+
+### 7. Relatório de Estágio
+Função:
+Gerenciar a submissão formal do Relatório de Estágio, que requer vários anexos e o cumprimento de requisitos específicos de formatação e conteúdo.
+Decisões de Usabilidade e Acessibilidade:
+Clareza de Fluxo: A tela é dividida em blocos lógicos (Instruções, Checklist, Upload), guiando o usuário passo a passo pela submissão.
+
+Instruções Detalhadas: Os links "Ver Instruções Completas" e "Ver Regras de Formatação ABNT" permitem que a Ana acesse informações adicionais sem sobrecarregar a tela principal.
+
+Múltiplos Uploads: A seção "Upload de Arquivo" distingue claramente entre o 1. Arquivo Principal e o 2. Anexo Obrigatório, resolvendo o desafio de submissão de múltiplos documentos. Cada botão de upload é rotulado para clareza.
+
+Requisitos Formaiss: O "Checklist" garante que itens críticos (como a assinatura do supervisor) não sejam esquecidos, fundamental para relatórios de estágio.
+<img width="392" height="851" alt="Tela 8" src="https://github.com/user-attachments/assets/0f97779c-5b6d-4984-9faf-28d20ff00cc7" />
+
+
+### 8. Opções de Acessibilidade
+Função:
+Permitir que o usuário ajuste a interface do aplicativo para atender às suas necessidades visuais, cognitivas e de interação, tornando o aplicativo mais inclusivo e aderente às diretrizes WCAG.
+
+Decisões de Usabilidade e Acessibilidade:
+Organização por Categorias: A tela é claramente dividida em três categorias lógicas (Visualização e Contraste, Auxílio à Leitura, Interação e Tempo), facilitando a navegação e o entendimento rápido das opções.
+
+- Visualização e Contraste:
+
+Tamanho de Texto: Uso de slider (controle deslizante) para ajuste fino do tamanho da fonte, crucial para baixa visão.
+
+Modo de Alto Contraste: Permite ativar o modo de contraste mais alto, garantindo legibilidade (idealmente contraste de 7:1 para texto grande e 4.5:1 para texto normal).
+
+Modo Escuro (Dark Mode): Reduz o cansaço visual.
+
+Desativar Animações: Evita confusão e desorientação para usuários com sensibilidade a movimentos (WCAG 2.3.3).
+
+- Auxílio à Leitura:
+
+Destaque de Foco para Teclado: Ativa um contorno visível (anel de foco) ao redor do elemento ativo, essencial para a navegação por teclado (WCAG 2.4.7).
+
+Simplificar Rótulos de Botão: Melhora a experiência para usuários de leitores de tela ao reduzir a complexidade textual.
+
+- Interação e Tempo:
+
+Aumentar Área de Toque (Hit Area): Garante que a área de toque dos botões e links atinja o mínimo recomendado de 44×44px, auxiliando usuários com dificuldades motoras (WCAG 2.5.5).
+
+Alertas de Tempo Estendido: Permite mais tempo para o usuário responder a mensagens ou janelas de sessão, evitando que a ação expire rapidamente (WCAG 2.2.1).
+
+Componentes de Interface: O uso de Toggle Switches para as opções binárias (Ligado/Desligado) é intuitivo e padrão em interfaces móveis.
+
+Ação Final: O botão "SALVAR ALTERAÇÕES" é o ponto focal da tela, e o link "Restaurar Configurações Padrão" permite o reset seguro das preferências.
+
+<img width="392" height="851" alt="Acessibilidade" src="https://github.com/user-attachments/assets/fc5369a5-0d79-47dd-bdd8-2bd0d642f002" /> 
+
+- Tela de Confirmação (Pós-Ação)
+Função:
+Essa tela é um feedback imediato, simples e inconfundível para o usuário, confirmando que uma ação importante (como salvar configurações, enviar um artigo, ou fazer um check-in) foi concluída com êxito.
+
+Decisões de Usabilidade:
+Clareza Imediata: O ícone de check em um círculo verde é um padrão universal de "Sucesso", garantindo que o usuário não tenha dúvidas sobre o resultado.
+
+Foco na Ação: O texto "Alterações Salvas com Sucesso!" é breve e direto.
+
+Ação de Saída: O único botão ativo é "Voltar para o Início", guiando o usuário de volta ao ponto principal de navegação para continuar seu trabalho.
+
+<img width="392" height="851" alt="Acessibilidade (1)" src="https://github.com/user-attachments/assets/e7431fdf-fd7c-44e3-b4b2-9824d5afb72a" />
+
+
+
+
 
 
 
