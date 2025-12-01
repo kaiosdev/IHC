@@ -243,6 +243,7 @@ O botão "Abrir para Revisão" é o botão primário, com um ícone de olho (�
 O botão "Marcar como Não Aplicável" é o botão secundário, posicionado de forma discreta para não desviar a atenção da ação principal, mas acessível se necessário.
 
 Instruções Flexíveis: As instruções breves estão disponíveis, com o botão "Ver instruções completas" permitindo a expansão de detalhes sem sobrecarregar a tela.
+
 <img width="239" height="526" alt="Captura de tela 2025-12-01 104214" src="https://github.com/user-attachments/assets/710ff398-fdb7-40cf-84c8-ad983a0bb820" />
 
 ### 5. Enviar Artigo
@@ -255,6 +256,7 @@ Prevenção de Erros (WCAG 3.3.4): A seção "Requisitos de Submissão" atua com
 Upload Intuitivo: A área de upload com o ícone de nuvem e a borda tracejada oferece suporte a "arrastar e soltar" e é visualmente clara. O feedback de arquivo carregado ("Tese_Final_Ana.pdf") com a opção de "Remover" permite correção imediata.
 
 Hierarquia Visual: O prazo está destacado, e as notas opcionais estão separadas, mantendo o foco do usuário no upload e no checklist.
+
 <img width="392" height="851" alt="Tela 6" src="https://github.com/user-attachments/assets/8df11aed-7ae9-4114-ab79-125403a3f35e" />
 
 
@@ -270,6 +272,7 @@ Clareza da Localização: A validação "✔ LOCALIZAÇÃO VÁLIDA" em verde for
 Contexto Temporal (E6): A data "Hoje é: Segunda-feira..." é exibida com destaque, informando imediatamente o usuário sobre o contexto da tarefa.
 
 Organização: O link "Ver histórico de Presença" está convenientemente posicionado como um botão secundário para usuários organizados (como a Ana) que desejam conferir registros anteriores.
+
 <img width="392" height="851" alt="Tela 7" src="https://github.com/user-attachments/assets/952fd764-57ba-4f26-8bd9-ea2c8bea9d78" />
 
 
@@ -319,8 +322,8 @@ Alertas de Tempo Estendido: Permite mais tempo para o usuário responder a mensa
 Componentes de Interface: O uso de Toggle Switches para as opções binárias (Ligado/Desligado) é intuitivo e padrão em interfaces móveis.
 
 Ação Final: O botão "SALVAR ALTERAÇÕES" é o ponto focal da tela, e o link "Restaurar Configurações Padrão" permite o reset seguro das preferências.
+<img width="392" height="851" alt="Acessibilidade (2)" src="https://github.com/user-attachments/assets/2a36a26b-8afa-459e-b260-68ee77b4118e" />
 
-<img width="392" height="851" alt="Acessibilidade" src="https://github.com/user-attachments/assets/fc5369a5-0d79-47dd-bdd8-2bd0d642f002" /> 
 
 - Tela de Confirmação (Pós-Ação)
 Função:
