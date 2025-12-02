@@ -13,6 +13,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1CXAGMnd4XSkg1B3wSyyWtP_NaTs2Ol5O" width="100%">
+</div>
 
 ## 1. Introdução
 
