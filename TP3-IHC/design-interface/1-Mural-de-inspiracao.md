@@ -210,6 +210,15 @@ Esta análise baseia-se nas **10 Heurísticas de Usabilidade de Nielsen (1994)**
 - ✅ **Feed visual de editais:** Cards com badges de status (🟢 Aberto, 🔴 Encerrado) substituem lista textual
 
 ---
+<div align="center">
 
-**Fonte:** Nielsen, J. (1994). *10 Usability Heuristics for User Interface Design*. Nielsen Norman Group | W3C (2018). *Web Content Accessibility Guidelines (WCAG) 2.1*
+  ## 🎨 Design de Logotipo: Inspiração Institucional UFAM
+
+</div>
+
+<img width="2048" height="821" alt="inspiração logo" src="https://github.com/user-attachments/assets/14fd4ebc-39fb-47af-b8c0-d80d1d9d875f" />
+
+O **logotipo da UFAM** (Universidade Federal do Amazonas) representa a identidade institucional consolidada ao longo de décadas, reconhecida imediatamente por toda a comunidade acadêmica. Seu design circular com bordadura preta, louros verdes emoldurando uma pomba estilizada (símbolo de paz e conhecimento) e a estrela amarela (representando o estado do Amazonas) cria uma **linguagem visual de tradição e credibilidade**. O lema latino "In Universa Scientia Veritas" reforça os valores acadêmicos de busca pela verdade através da ciência. Esta estética clássica, embora formalmente complexa, transmite autoridade institucional — aspecto crítico para o E-Project, que precisa ser **imediatamente reconhecido como uma ferramenta oficial da UFAM**, não como um sistema genérico externo.
+
+Para o **logo do E-Project**, adotamos uma abordagem de **continuidade semântica**: mantivemos o formato circular e os louros (símbolos de excelência acadêmica já familiares aos usuários), mas modernizamos o elemento central substituindo a pomba por um **livro aberto com engrenagem e checkmark** — representando a integração entre conhecimento acadêmico (livro), gestão de projetos (engrenagem) e acompanhamento de tarefas (checkmark). A paleta verde (#00663C) preserva a cor institucional da UFAM presente no logo oficial e nos portais PROPESP/PROEXT, criando **coerência visual** que reduz a percepção de "mais uma ferramenta nova" e estabelece confiança imediata. O texto "TAREFAS & PROJETOS" no rodapé do logo comunica diretamente a função do sistema, atendendo à Heurística 2 de Nielsen (correspondência sistema-mundo real). Esta estratégia de design garante que, ao abrir o E-Project, o Prof. Victor (Persona 1) reconheça instantaneamente: "Este sistema pertence à UFAM, é oficial, posso confiar" — eliminando a barreira psicológica de adoção que ferramentas genéricas como Trello ou Notion enfrentam no contexto institucional.
 
