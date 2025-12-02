@@ -1,18 +1,19 @@
 <div align="center">
 
-<h1>Biblioteca de Ícones e Ilustrações - E-Project</h1>
+<h1>BIBLIOTECA DE ÍCONES E ILUSTRAÇÕES - E-PROJECT</h1>
 
-<img src="https://img.shields.io/badge/Biblioteca-Material_Symbols-00663C?style=for-the-badge&logo=googlefonts&logoColor=white">
-<img src="https://img.shields.io/badge/Estilo-Rounded_(Arredondado)-00663C?style=for-the-badge&logo=materialdesign&logoColor=white">
-<img src="https://img.shields.io/badge/Acessibilidade-WCAG_Compliance-00663C?style=for-the-badge&logo=accessibility&logoColor=white">
+<img src="https://img.shields.io/badge/Biblioteca-Material_Symbols-003f52?style=for-the-badge&logo=googlefonts&logoColor=white">
+<img src="https://img.shields.io/badge/Estilo-Rounded_(Arredondado)-008f54?style=for-the-badge&logo=materialdesign&logoColor=white">
+<img src="https://img.shields.io/badge/Acessibilidade-WCAG_Compliance-003f52?style=for-the-badge&logo=accessibility&logoColor=white">
 
 <br><br>
 
-> Definição dos padrões iconográficos para garantir consistência visual e acessibilidade para o E-Project.
+> **Padrões Iconográficos**
+> <br>Definição dos padrões iconográficos para garantir consistência visual e acessibilidade para o E-Project.
 > **Fonte Oficial:** [Google Fonts Icons](https://fonts.google.com/icons)
 
 <br>
-</div>
+</div><div align="center">
 
 ---
 
