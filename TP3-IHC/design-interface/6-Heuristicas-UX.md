@@ -25,7 +25,7 @@ Apresentar e justificar as escolhas de design adotadas no aplicativo, relacionan
 O sistema deve manter o usuário informado sobre o que está acontecendo, fornecendo feedback contínuo e claro.
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1VeZC_8hexuH72w-ez9WPNTtah7HsvG1v" width="380px">
+  <img src="https://drive.google.com/uc?export=view&id=1VeZC_8hexuH72w-ez9WPNTtah7HsvG1v" width="420px">
   <br>
   <sub><b>Fig. 1 – Indicadores de progresso e status visuais.</b><br>Fonte: Autores, 2025.</sub>
 </div>
@@ -42,7 +42,7 @@ O sistema deve manter o usuário informado sobre o que está acontecendo, fornec
 A interface utiliza linguagem e símbolos familiares ao contexto do usuário.
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1eMIRZNfBYzc7NOTTudDdAlJb8lWLrWS9" width="380px">
+  <img src="https://drive.google.com/uc?export=view&id=1eMIRZNfBYzc7NOTTudDdAlJb8lWLrWS9" width="500px">
   <br>
   <sub><b>Fig. 2 – Uso de ícones metafóricos e linguagem natural.</b><br>Fonte: Autores, 2025.</sub>
 </div>
@@ -56,7 +56,7 @@ A interface utiliza linguagem e símbolos familiares ao contexto do usuário.
 ## 🔁 **3. Controle e Liberdade do Usuário — Heurística 3**
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1X-Xi00a2BHhdUA-sii3Zm76vLiz-E_nZ" width="380px">
+  <img src="https://drive.google.com/uc?export=view&id=1X-Xi00a2BHhdUA-sii3Zm76vLiz-E_nZ" width="500px">
   <br>
   <sub><b>Fig. 3 – Opções de reversão e feedback sem bloqueio.</b><br>Fonte: Autores, 2025.</sub>
 </div>
@@ -70,7 +70,7 @@ A interface utiliza linguagem e símbolos familiares ao contexto do usuário.
 ## 🚫 **4. Prevenção de Erros — Heurística 5**
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1va7NKjGDjXpB3RxYS1o7NcO1C04inWj5" width="380px">
+  <img src="https://drive.google.com/uc?export=view&id=1va7NKjGDjXpB3RxYS1o7NcO1C04inWj5" width="500px">
   <br>
   <sub><b>Fig. 4 – Mensagens preventivas e requisitos explícitos.</b><br>Fonte: Autores, 2025.</sub>
 </div>
@@ -84,7 +84,7 @@ A interface utiliza linguagem e símbolos familiares ao contexto do usuário.
 ## 🔍 **5. Reconhecimento em vez de Memorização — Heurística 6**
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1eMIRZNfBYzc7NOTTudDdAlJb8lWLrWS9" width="380px">
+  <img src="https://drive.google.com/uc?export=view&id=1eMIRZNfBYzc7NOTTudDdAlJb8lWLrWS9" width="500px">
   <br>
   <sub><b>Fig. 5 – Cards informativos e urgência visual.</b><br>Fonte: Autores, 2025.</sub>
 </div>
@@ -98,7 +98,7 @@ A interface utiliza linguagem e símbolos familiares ao contexto do usuário.
 ## 📚 **6. Ajuda e Documentação — Heurística 10**
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1_Sc85OOv6z32bSwfW0Y-iAbejO45A7gi" width="380px">
+  <img src="https://drive.google.com/uc?export=view&id=1_Sc85OOv6z32bSwfW0Y-iAbejO45A7gi" width="420px">
   <br>
   <sub><b>Fig. 6 – Ajuda contextual e acesso rápido às regras.</b><br>Fonte: Autores, 2025.</sub>
 </div>
@@ -108,7 +108,7 @@ A interface utiliza linguagem e símbolos familiares ao contexto do usuário.
 ## ♿ **7. Acessibilidade e Inclusão**
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1VhyPXNB0ScBo-GWe3mOHIYag620hcA35" width="380px">
+  <img src="https://drive.google.com/uc?export=view&id=1VhyPXNB0ScBo-GWe3mOHIYag620hcA35" width="420px">
   <br>
   <sub><b>Fig. 7 – Configurações de acessibilidade personalizáveis.</b><br>Fonte: Autores, 2025.</sub>
 </div>
@@ -123,7 +123,7 @@ A interface utiliza linguagem e símbolos familiares ao contexto do usuário.
 ## 🔄 **8. Comunicabilidade e Ciclo de Feedback**
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1LweSTGCf5h9nTANPuW9Jc5fee7PeuSl-" width="380px">
+  <img src="https://drive.google.com/uc?export=view&id=1LweSTGCf5h9nTANPuW9Jc5fee7PeuSl-" width="420px">
   <br>
   <sub><b>Fig. 8 – Entrega de feedback direto e contínuo.</b><br>Fonte: Autores, 2025.</sub>
 </div>
