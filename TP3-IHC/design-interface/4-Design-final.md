@@ -1,3 +1,42 @@
+<h1>DESIGN FINAL DA INTERFACE</h1>
+
+#  E-Project Mobile: Fluxo do Aluno e Professor
+
+> *Persona:* Ana Beatriz (Estudante & Bolsista)
+> *Foco:* Organização, Acessibilidade e Redução de Ansiedade.
+
+Este documento detalha a implementação da interface mobile, destacando os fluxos de tarefas, tratamento de erros e conformidade com WCAG.
+
+</div>
+
+---
+
+## 1.  Dashboard e Navegação Vertical
+Visão geral da estrutura de navegação e como o aplicativo lida com listagens longas (Scroll Infinito).
+
+| Dashboard (Topo) | Listagem de Projetos (Scroll) |
+| :---: | :---: |
+| *Foco na Urgência:* O topo da tela isola a "Próxima Entrega" (vence em 2 dias) para priorização imediata. Acesso rápido às configurações de acessibilidade no header. | *Visibilidade de Status:* Cards expansivos com barras de progresso visual. Uso de espaçamento generoso para evitar toques acidentais na rolagem. |
+<img width="887" height="864" alt="Captura de tela 2025-12-01 212652" src="https://github.com/user-attachments/assets/8e39b138-34fd-4020-a6f6-2715702d4fc2" />
+<img width="697" height="778" alt="Captura de tela 2025-12-01 215547" src="https://github.com/user-attachments/assets/d6898187-c1c3-4e0d-918e-4c054167f829" />
+
+## Orientador
+<img width="958" height="810" alt="Captura de tela 2025-11-28 200214" src="https://github.com/user-attachments/assets/bc320e11-2be6-4adf-abb0-8ce036f93396" />
+<img width="1053" height="847" alt="Captura de tela 2025-12-01 215529" src="https://github.com/user-attachments/assets/530bc58b-4950-4b06-88d6-9d7541cdd7b7" />
+
+
+---
+
+## 2.  Descoberta de Editais (Feed)
+Interface otimizada para busca e visualização de oportunidades em telas pequenas.
+
+| Filtros e Busca | Visualização de Prazos |
+| :---: | :---: |
+| *Zona do Polegar:* Filtros (Chips) e barra de busca posicionados para fácil alcance. | *Alerta Visual:* Prazos próximos são destacados em *Vermelho* (14/12/2024) para chamar atenção imediata durante a rolagem rápida. |<img width="592" height="887" alt="Captura de tela 2025-12-01 212715" src="https://github.com/user-attachments/assets/eb29c62c-46be-414c-b610-2053be4523d9" />
+
+| <img width="512" height="554" alt="Captura de tela 2025-11-28 200409" src="https://github.com/user-attachments/assets/0e769985-f435-41e9-a053-601605190a9b" /> |
+
+---
 <div align="center">
 
 <h1>DESIGN FINAL DA INTERFACE</h1>
