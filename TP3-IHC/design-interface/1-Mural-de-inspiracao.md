@@ -1,5 +1,17 @@
 <div align="center">
 
+<h1>MURAL DE INSPIRAÇÃO (MOODBOARD)</h1>
+
+<img src="https://img.shields.io/badge/Disciplina-IHC-003f52?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Disciplina IHC">
+<img src="https://img.shields.io/badge/Artefato-Moodboard-008f54?style=for-the-badge&logo=pinterest&logoColor=white" alt="Mural de Inspiração">
+
+<br><br>
+
+> **Conceito Visual e Estético**
+<br>Referências visuais que orientam o estilo, o clima e a estética desejada para a interface, refletindo os sentimentos e experiências que o aplicativo deve transmitir.
+
+</div><div align="center">
+
 # Referências e Inspirações para o E-Project
 
 </div>
