@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 Interface Mobile - Fluxo do Aluno (PIBIC)
+#  Interface Mobile - Fluxo do Aluno (PIBIC)
 
 <p align="center">
   <a href="#-visão-geral-do-fluxo">Visão Geral</a> •
@@ -11,9 +11,9 @@
 
 ---
 
-### 🎯 Persona em Foco
+###  Persona em Foco
 
-> **👩‍🎓 Ana Beatriz** | Estudante de Engenharia & Bolsista PIBIC
+> ** Ana Beatriz** | Estudante de Engenharia & Bolsista PIBIC
 >
 > **Dores Principais:** Sobrecarga cognitiva por múltiplas tarefas e ansiedade na comunicação com orientador.
 > **Solução Mobile:** Foco em organização rápida, feedback imediato e submissões guiadas.
@@ -33,17 +33,17 @@ Este módulo centraliza a rotina da Ana, desde a priorização de tarefas até a
 
 <br>
 
-### 🚦 Feedback do Sistema
+###  Feedback do Sistema
 Feedback visual claro é essencial para reduzir a insegurança da aluna.
 
-| ✅ Sucesso (Tranquilizador) | ⚠️ Erro (Acionável) |
+|  Sucesso (Tranquilizador) |  Erro (Acionável) |
 | :---: | :---: |
 | Confirmação verde e mensagem positiva. | Instrução clara de correção para evitar frustração. |
 | <img src="https://github.com/user-attachments/assets/f3602ce5-2fec-45ba-92de-8121a8e3e812" width="250" alt="Sucesso" /> | <img src="https://github.com/user-attachments/assets/fa57e469-ada6-44d1-8fa6-08564fe11a94" width="250" alt="Erro" /> |
 
 ---
 
-## 📚 Tarefas Acadêmicas
+##  Tarefas Acadêmicas
 
 Fluxos detalhados para revisão de conteúdo e submissão final de artigos, com travas de segurança (WCAG 3.3.4).
 
@@ -54,7 +54,7 @@ Fluxos detalhados para revisão de conteúdo e submissão final de artigos, com 
 
 ---
 
-## 🏛️ Rotina Administrativa
+##  Rotina Administrativa
 
 Funcionalidades de dia a dia focadas em rapidez e conformidade.
 
@@ -65,7 +65,7 @@ Funcionalidades de dia a dia focadas em rapidez e conformidade.
 
 ---
 
-## ♿ Acessibilidade e Feedback
+##  Acessibilidade e Feedback
 
 Implementação rigorosa das diretrizes WCAG para tornar a interface inclusiva.
 
@@ -78,7 +78,7 @@ Implementação rigorosa das diretrizes WCAG para tornar a interface inclusiva.
 
 <div align="center">
 
-### 🎨 Design System Mobile
+###  Design System Mobile
 
 Mantendo consistência estrita com a versão Desktop.
 
@@ -90,7 +90,7 @@ Mantendo consistência estrita com a versão Desktop.
 ## Módulo de Acessibilidade (WCAG)
 Este módulo demonstra o compromisso do projeto com a inclusão, permitindo que o usuário personalize a interface.
 
-### ⚙️ Painel de Configurações
+###  Painel de Configurações
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b9a858b4-2e07-4c98-a4ea-504cf0ed1355" width="300" alt="Tela de Configurações de Acessibilidade" />
 </div>
@@ -100,7 +100,7 @@ Este módulo demonstra o compromisso do projeto com a inclusão, permitindo que 
 * **Motora:** Opção "Aumentar Área de Toque" expande os *hit targets* para >44px (WCAG 2.5.5).
 * **Cognitiva:** "Simplificar Rótulos" e "Alertas de Tempo Estendido" reduzem a carga cognitiva e ansiedade (WCAG 2.2.1).
 
-### ✅ Confirmação de Ajuste
+###  Confirmação de Ajuste
 <div align="center">
   <img src="https://github.com/user-attachments/assets/87a70d19-8a2c-4205-8980-6b471178d5a5" width="300" alt="Feedback de Alterações Salvas" />
 </div>
@@ -114,7 +114,7 @@ Este módulo demonstra o compromisso do projeto com a inclusão, permitindo que 
 ## 2. Dashboard e Navegação
 O ponto de partida da aluna, focado em organização e redução de ansiedade.
 
-### 📋 Lista de Tarefas (Home)
+###  Lista de Tarefas (Home)
 <div align="center">
   <img src="https://github.com/user-attachments/assets/018d97e9-a02f-4a3c-b534-7aab7e10ee38" width="300" alt="Dashboard Principal" />
 </div>
@@ -129,7 +129,7 @@ O ponto de partida da aluna, focado em organização e redução de ansiedade.
 ## 3. Fluxo de Submissão e Feedback
 Gerenciamento de envios com comunicação integrada e tratamento de erros.
 
-### 📤 Upload e Envio
+###  Upload e Envio
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4d90a93b-7556-4e71-9a4c-77e9dd99610f" width="300" alt="Tela de Upload" />
 </div>
@@ -138,7 +138,7 @@ Gerenciamento de envios com comunicação integrada e tratamento de erros.
 * **Multitarefa:** Combina a ação de upload (ícone de nuvem grande) com um campo de mensagem opcional, permitindo contextualizar o envio para o orientador na mesma tela.
 * **Affordance:** O botão "ENVIAR ATIVIDADE" ocupa toda a largura, facilitando o toque com o polegar.
 
-### 🔔 Feedback do Sistema
+###  Feedback do Sistema
 O sistema comunica claramente o resultado da ação, reduzindo incertezas.
 
 | Sucesso | Erro (Tratamento) |
@@ -151,7 +151,7 @@ O sistema comunica claramente o resultado da ação, reduzindo incertezas.
 ## 4. Tarefas Acadêmicas Específicas
 Telas desenhadas para fluxos de trabalho complexos.
 
-### 👁️ Revisar Apresentação
+###  Revisar Apresentação
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e57b959e-d84d-480d-bd64-7a764d6fb24f" width="300" alt="Tela de Revisão" />
 </div>
@@ -160,7 +160,7 @@ Telas desenhadas para fluxos de trabalho complexos.
 * **Contexto:** Exibe status "Pendente" com ícone de alerta amarelo.
 * **Recursos:** Lista clara de documentos necessários com botões distintos para "Baixar" e "Visualizar", facilitando o acesso ao feedback do professor.
 
-### 📝 Enviar Artigo
+###  Enviar Artigo
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0b57e5a5-9924-4c77-a7c5-fabfd86bcfb8" width="300" alt="Tela de Envio de Artigo" />
 </div>
@@ -168,7 +168,7 @@ Telas desenhadas para fluxos de trabalho complexos.
 **Função:** Submissão final com controle de qualidade.
 * **Prevenção de Erros:** Implementa um **Checklist de Requisitos** (ABNT, Gramática, PDF). O design sugere que o envio só deve prosseguir se esses itens forem validados, prevenindo erros de submissão (WCAG 3.3.4).
 
-### 📍 Registrar Presença
+###  Registrar Presença
 <div align="center">
   <img src="https://github.com/user-attachments/assets/db8d3e7a-a879-4413-b2c4-2b2cc1a168e1" width="300" alt="Tela de Presença" />
 </div>
@@ -176,7 +176,7 @@ Telas desenhadas para fluxos de trabalho complexos.
 **Função:** Validação rápida de frequência.
 * **Geolocalização:** Feedback visual imediato ("Localização Válida" com check verde) informa que o aluno está no local correto (Campus 2, Bloco A), permitindo o check-in.
 
-### 📂 Relatório de Estágio
+###  Relatório de Estágio
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0459f7fc-0deb-4d2c-8b2f-54c377f07b12" width="300" alt="Tela de Relatório de Estágio" />
 </div>
