@@ -3,7 +3,7 @@
 <h1>UI KIT E GUIA DE ESTILOS - E-PROJECT</h1>
 
 <img src="https://img.shields.io/badge/Instituição-UFAM-003f52?style=for-the-badge&logo=googlescholar&logoColor=white">
-<img src="https://img.shields.io/badge/Artefato-UI_Kit_&_Design-008f54?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/-UI_Kit_&_Design-008f54?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Foco-Acessibilidade-003f52?style=for-the-badge&logo=accessibility&logoColor=white">
 
 <br><br>
