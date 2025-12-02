@@ -1,13 +1,17 @@
 <div align="center">
 
-# 📱 **Relatório de Design de Interface**
-### Aplicativo de Gestão Acadêmica
-#### *Disciplina: Interação Humano-Computador — UFAM*
----
+<h1>HEURÍSTICAS DE USABILIDADE E UX</h1>
+
+<img src="https://img.shields.io/badge/Disciplina-IHC-003f52?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Disciplina IHC">
+<img src="https://img.shields.io/badge/Artefato-Análise_Heurística-008f54?style=for-the-badge&logo=search&logoColor=white" alt="Análise Heurística">
+<img src="https://img.shields.io/badge/Método-Jakob_Nielsen-003f52?style=for-the-badge&logo=book&logoColor=white" alt="Método Nielsen">
+
+<br><br>
+
+> **Avaliação de Interface**
+> <br>Demonstração prática da aplicação das **10 Heurísticas de Nielsen** e princípios de UX no E-Project. Cada seção evidencia como as decisões de design previnem erros, garantem visibilidade e promovem a eficiência do usuário.
 
 </div>
-
-Este documento apresenta a documentação das principais decisões de design aplicadas na construção do aplicativo acadêmico. A análise aborda os critérios de **Heurísticas de Nielsen**, **UX**, **Comunicabilidade** e **Acessibilidade**, demonstrando como cada princípio foi implementado nas interfaces.
 
 ---
 
