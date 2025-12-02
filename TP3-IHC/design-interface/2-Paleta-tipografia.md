@@ -13,9 +13,7 @@
 
 <br>
 
-<a href="LINK-DO-SEU-PROJETO-AQUI">
-  <img src="https://img.shields.io/badge/🔗_ACESSAR_GUIA_DE_ESTILOS-008f54?style=for-the-badge">
-</a>
+
 
 </div>
 
@@ -56,8 +54,8 @@ Para atender à Persona de Acessibilidade (**Prof. Carlos**), as cores foram val
 </div>
 
 1.  **Verde (#00663C) sobre Branco:** Contraste suficiente para botões e cabeçalhos.
-2.  **Azul (#005875) sobre Branco:** Excelente contraste para leitura.
-3.  **Preto (#000000) sobre Branco:** Contraste máximo (**21:1**), ideal para dados críticos.
+2.  **Azul (#005875) sobre Branco:** Excelente contraste para leitura e Destacar informações.
+3.  **Preto (#000000) sobre Branco:** Contraste máximo, ideal para dados críticos.
 
 #### Evidência de Teste (WebAIM)
 
@@ -65,11 +63,15 @@ Para atender à Persona de Acessibilidade (**Prof. Carlos**), as cores foram val
   <table>
     <tr>
       <td align="center"><strong>Teste 1: Fundo e Cabeçalho</strong></td>
-      <td align="center"><strong>Teste 2: Botões e Destaques</strong></td>
+      <td align="center"><strong>Teste 2: Textos/Botões clicáveis</strong></td>
+      <td align="center"><strong>Teste 3: Alto Contraste</strong></td>
+      <td align="center"><strong>Teste 4: Botões e Destaques</strong></td>
     </tr>
     <tr>
       <td><img width="400" alt="Teste WebAIM 1" src="https://github.com/user-attachments/assets/132080e3-af1c-4eaf-ba27-dc8f76c257bb"></td>
       <td><img width="400" alt="Teste WebAIM 2" src="https://github.com/user-attachments/assets/918c544e-2fc1-44c4-a8f2-045678f2fc8f"></td>
+      <td><<img width="400" alt="Captura de tela 2025-11-27 191620" src="https://github.com/user-attachments/assets/02c3f472-f94e-4bb5-bf5b-f3d8fa166b24"></td>
+      <td><img width="400" alt="Captura de tela 2025-11-27 172314" src="https://github.com/user-attachments/assets/132617cc-cf01-44b2-acfd-308efaafa182" ></td>
     </tr>
   </table>
 </div>
