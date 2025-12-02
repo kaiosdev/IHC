@@ -28,7 +28,6 @@ Optamos pela biblioteca **Material Symbols**, no estilo **Rounded** (Arredondado
 <div align="center">
   <img width="80%" alt="Exemplo de Icones" src="https://github.com/user-attachments/assets/cb1e8c8e-167f-4fcb-b483-e8140bc8b6cd" />
   <br>
-  <sub><b>Figura 1:</b> Variações de peso e preenchimento da biblioteca Material Symbols Rounded. (Fonte: Google Fonts, 2024) [cite_start][cite: 68]</sub>
 </div>
 
 ### Justificativa de Escolha
@@ -75,8 +74,3 @@ Em dispositivos móveis, a área de toque mínima deve ser de **48x48dp**, mesmo
 Os ícones devem seguir rigorosamente a paleta de cores para garantir contraste suficiente:
 * **Ação/Navegação:** Verde UFAM (`#00663C`) ou Azul Profundo (`#005875`).
 * **Alerta:** Amarelo (`#FFF700`) - sempre utilizado com contorno escuro ou fundo contrastante para legibilidade.
-
----
-<div align="center">
-<sub>Documentação de Design System • Atualizado em 2025</sub>
-</div>
