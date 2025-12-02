@@ -1,20 +1,20 @@
 <div align="center">
 
-<h1>UI Kit e Guia de Estilos - E-Project</h1>
+<h1>UI KIT E GUIA DE ESTILOS - E-PROJECT</h1>
 
-<img src="https://img.shields.io/badge/Instituição-UFAM-00663C?style=for-the-badge&logo=googlescholar&logoColor=white">
-<img src="https://img.shields.io/badge/Artefato-UI_Kit_&_Design-00663C?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Foco-Acessibilidade-00663C?style=for-the-badge&logo=accessibility&logoColor=white">
+<img src="https://img.shields.io/badge/Instituição-UFAM-003f52?style=for-the-badge&logo=googlescholar&logoColor=white">
+<img src="https://img.shields.io/badge/Artefato-UI_Kit_&_Design-008f54?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Foco-Acessibilidade-003f52?style=for-the-badge&logo=accessibility&logoColor=white">
 
 <br><br>
 
-> Este documento estabelece as diretrizes visuais para o **E-Project**, o Sistema de Gestão de Projetos Acadêmicos.
-> Design focado na institucionalidade e acessibilidade (Personas: Prof. Carlos e Prof. Vitor).
+> **Diretrizes Visuais**
+> <br>Este documento estabelece as diretrizes visuais para o **E-Project**, o Sistema de Gestão de Projetos Acadêmicos. Design focado na institucionalidade e acessibilidade (Personas: Prof. Carlos e Prof. Vitor).
 
 <br>
 
 <a href="LINK-DO-SEU-PROJETO-AQUI">
-  <img src="https://img.shields.io/badge/🔗_ACESSAR_GUIA_DE_ESTILOS-00663C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🔗_ACESSAR_GUIA_DE_ESTILOS-008f54?style=for-the-badge">
 </a>
 
 </div>
