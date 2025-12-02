@@ -1,11 +1,38 @@
 <div align="center">
 
-# 📱 Interface Mobile — Fluxo do Aluno (PIBIC)
+<h1>DESIGN FINAL DA INTERFACE</h1>
 
-### Ana Beatriz — Estudante de Engenharia & Bolsista PIBIC
+<img src="https://img.shields.io/badge/Disciplina-IHC-003f52?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Disciplina IHC">
+<img src="https://img.shields.io/badge/Artefato-UI_Design-008f54?style=for-the-badge&logo=figma&logoColor=white" alt="UI Design">
 
-> **Dores Principais:** Sobrecarga cognitiva por múltiplas tarefas e ansiedade na comunicação com orientador.  
-> **Solução Mobile:** Organização rápida, feedback imediato e submissões guiadas.
+<br><br>
+
+> **Interface de Alta Fidelidade**
+> <br>Apresentação das telas principais e fluxos de navegação, evidenciando a aplicação das Heurísticas de Nielsen, signos metalinguísticos e requisitos de acessibilidade.
+
+</div>
+
+---
+
+## 1. Interface Mobile — Fluxo do Aluno (PIBIC)
+
+Esta seção detalha a experiência projetada para o uso em smartphones, priorizando notificações rápidas e consulta de pendências.
+
+### 👤 Persona em Foco: Ana Beatriz
+<img src="https://img.shields.io/badge/PERFIL-ESTUDANTE_DE_ENGENHARIA-003f52?style=flat-square">
+<img src="https://img.shields.io/badge/VÍNCULO-BOLSISTA_PIBIC-008f54?style=flat-square">
+
+> **Cenário:** Ana precisa conciliar aulas, estágio e pesquisa. O aplicativo deve ser seu "assistente pessoal", evitando que ela perca prazos.
+
+| 😫 Dores e Necessidades | 💡 Solução de Design (Mobile) |
+| :--- | :--- |
+| **Sobrecarga Cognitiva:** Medo de esquecer prazos em meio a muitas tarefas. | **Dashboard Limpo:** Foco total na "Próxima Entrega" e cards de pendências com contagem regressiva. |
+| **Ansiedade na Comunicação:** Insegurança se o orientador recebeu os arquivos. | **Feedback Imediato:** Uso de microinterações e mensagens de sucesso claras após cada envio. |
+| **Uso em Trânsito:** Acesso rápido entre uma aula e outra. | **Navegação Simplificada:** Menus inferiores acessíveis com o polegar e textos curtos. |
+
+<br>
+
+<div align="center">
 
 ---
 
