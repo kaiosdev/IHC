@@ -2,19 +2,20 @@
 
 <h1>🎬 MICROINTERAÇÕES – E-PROJECT UFAM</h1>
 
-<img src="https://img.shields.io/badge/Disciplina-Interação_Humano--Computador-791297?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Disciplina: IHC">
-<img src="https://img.shields.io/badge/Projeto-E--Project_UFAM-c38ae2?style=for-the-badge&logo=figma&logoColor=white" alt="Projeto: E-Project UFAM">
-<img src="https://img.shields.io/badge/Ferramenta-Figma-9b59b6?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/Disciplina-Interação_Humano--Computador-003f52?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Disciplina: IHC">
+<img src="https://img.shields.io/badge/Projeto-E--Project_UFAM-008f54?style=for-the-badge&logo=figma&logoColor=white" alt="Projeto: E-Project UFAM">
+<img src="https://img.shields.io/badge/Ferramenta-Figma-003f52?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+
+<br><br>
+
+> **Feedback e Fluidez**
+> <br>Protótipo de alta fidelidade com foco em **microinterações**, **feedback imediato** e **fluidez de navegação** para o sistema acadêmico **E-Project UFAM**. As animações foram concebidas utilizando **Smart Animate** e **Prototype Interactions** no Figma.
 
 <br>
 
-> Protótipo de alta fidelidade com foco em **microinterações**, **feedback imediato** e **fluidez de navegação** para o sistema acadêmico **E-Project UFAM**.  
-> As animações foram concebidas utilizando **Smart Animate** e **Prototype Interactions** no Figma.
-
-<br>
-
-📎 **Protótipo no Figma**  
-🔗 [Abrir E-Project UFAM no Figma](https://www.figma.com/design/lLDopNGZcEgvP0ihCUu2W0/E-Project?node-id=0-1&p=f&t=5IBWSzOBG1SzTdvN-0)
+<a href="https://www.figma.com/design/lLDopNGZcEgvP0ihCUu2W0/E-Project?node-id=0-1&p=f&t=5IBWSzOBG1SzTdvN-0">
+  <img src="https://img.shields.io/badge/🔗_ABRIR_PROTÓTIPO_NO_FIGMA-008f54?style=for-the-badge&logo=figma&logoColor=white">
+</a>
 
 </div>
 
