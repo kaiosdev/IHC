@@ -1,5 +1,17 @@
 <div align="center">
 
+<h1>DESIGN FINAL DA INTERFACE</h1>
+
+<img src="https://img.shields.io/badge/Disciplina-IHC-003f52?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Disciplina IHC">
+<img src="https://img.shields.io/badge/Artefato-UI_Design-008f54?style=for-the-badge&logo=figma&logoColor=white" alt="UI Design">
+
+<br><br>
+
+> **Interface de Alta Fidelidade**
+> <br>Apresentação das telas principais e fluxos de navegação, evidenciando a aplicação das Heurísticas de Nielsen, signos metalinguísticos e requisitos de acessibilidade.
+
+</div><div align="center">
+
 #  Interface Mobile - Fluxo do Aluno (PIBIC)
 
 <p align="center">
