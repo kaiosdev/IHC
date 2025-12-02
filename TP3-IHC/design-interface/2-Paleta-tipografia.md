@@ -90,11 +90,17 @@ A escolha tipográfica equilibra a seriedade acadêmica com a funcionalidade de 
 ### Escala Tipográfica (Mobile & Desktop)
 | Elemento | Fonte | Peso | Tamanho (px) |
 | :--- | :--- | :---: | :--- |
-| **H1 (Título Página)** | Montserrat | Bold (700) | 24px (Mob) / 32px (Desk) |
-| **H2 (Seções)** | Montserrat | SemiBold (600) | 20px (Mob) / 24px (Desk) |
+| **H1 (Título Página)** | Montserrat | Bold (700) | 24px (Mob) |
+| **H2 (Seções)** | Montserrat | SemiBold (600) | 20px (Mob) |
 | **Body (Padrão)** | Roboto | Regular (400) | **16px** (Acessibilidade) |
 | **Legendas**| Roboto | Medium (500) | 14px |
 | **Botões** | Roboto | Bold (700) | 16px |
+
+
+> Exemplo Em Sequência como na Tabela
+> <div align="center">
+>   <img width="500" alt="image" src="https://github.com/user-attachments/assets/8f9a6a42-c899-4f17-9966-ffefa5201d74" />
+> </div>
 
 ---
 
