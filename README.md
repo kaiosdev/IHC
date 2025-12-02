@@ -13,7 +13,7 @@
 
 <br>
 
-[TP1 – Avaliação](#-tp1--avaliação-de-sistemas-interativos) • [TP2 – IHC e ML](#-tp2--inteligência-artificial-e-afetividade) • [TP3 – Design](#-tp3--design-e-prototipação-de-interfaces)
+[TP1 – Avaliação de Sistemas](#-tp1--avaliação-de-sistemas-interativos) • [TP2 – IHC e ML](#-tp2--inteligência-artificial-e-afetividade) • [TP3 – Design-IHC](#-tp3--design-e-prototipação-de-interfaces)
 
 </div>
 
