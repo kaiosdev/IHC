@@ -212,7 +212,7 @@ Esta análise baseia-se nas **10 Heurísticas de Usabilidade de Nielsen (1994)**
 ---
 <div align="center">
 
-  ## 🎨 Design de Logotipo: Inspiração Institucional UFAM
+  ##  Design de Logotipo: Inspiração Institucional UFAM
 
 </div>
 
