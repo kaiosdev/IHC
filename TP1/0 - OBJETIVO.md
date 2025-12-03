@@ -105,6 +105,8 @@ trabalho-patrico-I/
 │   ├── 6 - Avaliação de comunicabilidade/
 │   └── 7 - conclusões e Reflexões sobre o Aprendizado/
 └── README.md
+
+```
 <div align="center">
 
 Universidade Federal do Amazonas (ICET) • 2025/02
