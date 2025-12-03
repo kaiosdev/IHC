@@ -1,126 +1,107 @@
-# Avaliação de Usabilidade e Comunicabilidade do Discord
+<div align="center">
 
-## Informações Acadêmicas
+<h1>Avaliação de Usabilidade e Comunicabilidade: Discord</h1>
 
-**Curso:** Engenharia de Software  
-**Disciplina:** Interação Humano-Computador 2025/02  
-**Docente:** Andrey Rodrigues  
-**Sistema Analisado:** Discord
+<img src="https://img.shields.io/badge/Disciplina-IHC_2025%2F02-00663C?style=for-the-badge&logo=googlescholar&logoColor=white">
+<img src="https://img.shields.io/badge/Sistema-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Docente-Andrey_Rodrigues-005875?style=for-the-badge&logo=teacher&logoColor=white">
 
-## Equipe de Desenvolvimento
+<br><br>
 
-| Membro | Nome Completo |
-|--------|---------------|
-| A1 | GEOVANNA BEATHRYZ AMORIM PAIVA
-| A2 | GUSTAVO PINHEIRO DE SOUZA 
-| A3 | IASMIM BRAGA BELÉM
-| A4 | JEAN CARLOS DOS SANTOS BARAÚNA 
-| A5 | KAIO SOBRAL MOREIRA 
+> **Trabalho Acadêmico - Engenharia de Software**
+> Análise abrangente utilizando Avaliação Heurística e Método de Avaliação de Comunicabilidade (MAC).
 
-## Objetivo do Trabalho
+<br>
 
-Este trabalho apresenta uma análise abrangente da plataforma Discord, utilizando métodos consolidados de avaliação de interfaces. A pesquisa emprega duas abordagens metodológicas principais:
+<a href="https://www.notion.so/27c2667c527180268521fda1bb72b8e1?v=27c2667c52718153b836000cf31abb9e&source=copy_link">
+  <img src="https://img.shields.io/badge/NOTION-ACESSAR_DASHBOARD_DO_PROJETO-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
 
-**Avaliação por Inspeção:** Aplicação de princípios heurísticos de usabilidade para identificar problemas na interface do usuário, fundamentada nos critérios estabelecidos por especialistas em IHC.
+</div>
 
-**Método MAC (Avaliação de Comunicabilidade):** Análise da comunicabilidade do sistema baseada na engenharia semiótica, avaliando como o sistema comunica suas funcionalidades e intenções de design aos usuários.
+---
 
-O objetivo central é identificar falhas de usabilidade e comunicabilidade, propondo melhorias que aprimorem a experiência do usuário na plataforma Discord.
+## 👥 Equipe de Desenvolvimento
 
-## Estrutura do Trabalho
+<div align="center">
 
-[**Acesso ao Notion**](https://www.notion.so/27c2667c527180268521fda1bb72b8e1?v=27c2667c52718153b836000cf31abb9e&source=copy_link)
+| ID | Membro |
+| :---: | :--- |
+| **A1** | Geovanna Beathryz Amorim Paiva |
+| **A2** | Gustavo Pinheiro de Souza |
+| **A3** | Iasmim Braga Belém |
+| **A4** | Jean Carlos dos Santos Baraúna |
+| **A5** | Kaio Sobral Moreira |
 
-### 1. Apresentação do Grupo e Distribuição das Tarefas
-**Descrição:** Apresentação formal dos membros da equipe e definição das responsabilidades individuais no desenvolvimento do projeto.
+</div>
 
-**Conteúdo:** Perfil dos integrantes, cronograma de atividades e matriz de responsabilidades.
+---
 
-[**Acessar Documentação**](https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/1%20-%20Apresenta%C3%A7%C3%A3o%20do%20grupo%20e%20distribui%C3%A7%C3%A3o%20das%20tarefas)
+## 🎯 Objetivo do Trabalho
 
-### 2. Objetivo do Sistema e Perfil de Usuários
-**Descrição:** Análise detalhada dos propósitos do Discord e caracterização do público-alvo da plataforma.
+Este trabalho apresenta uma análise abrangente da plataforma **Discord**. O objetivo central é identificar falhas de usabilidade e comunicabilidade, propondo melhorias que aprimorem a experiência do usuário. A pesquisa emprega duas abordagens principais:
 
-**Conteúdo:** Funcionalidades principais, contexto de uso e personas identificadas.
+1.  **Avaliação por Inspeção:** Aplicação de heurísticas de usabilidade para identificar problemas na interface.
+2.  **Método MAC:** Análise baseada na engenharia semiótica para avaliar como o sistema comunica suas intenções.
 
-[**Acessar Documentação**](https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/2%20-%20descricao_do_%20sistema)
+---
 
-### 3. Avaliação Sistemática do Discord
+## 📂 Estrutura e Documentação
 
-#### 3.1 Avaliação de Comunicabilidade
-**Metodologia:** Aplicação do método MAC para análise da comunicabilidade entre sistema e usuário.
+### 1. Planejamento e Contexto
+Etapa inicial de organização da equipe, definição de responsabilidades e entendimento do objeto de estudo.
 
-**Escopo:** Avaliação de como o Discord comunica suas funcionalidades, estados e possibilidades de interação.
+| Etapa | Descrição | Acesso |
+| :--- | :--- | :---: |
+| **1. Equipe e Tarefas** | Apresentação dos membros, cronograma e matriz de responsabilidades. | <a href="https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/1%20-%20Apresenta%C3%A7%C3%A3o%20do%20grupo%20e%20distribui%C3%A7%C3%A3o%20das%20tarefas"><img src="https://img.shields.io/badge/Abrir_Doc-00663C?style=flat-square&logo=github&logoColor=white"></a> |
+| **2. Perfil e Personas** | Análise dos propósitos do Discord, contexto de uso e público-alvo. | <a href="https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/2%20-%20descricao_do_%20sistema"><img src="https://img.shields.io/badge/Abrir_Doc-00663C?style=flat-square&logo=github&logoColor=white"></a> |
 
-[**Acessar Análise**](https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/6%20-%20Avalia%C3%A7%C3%A3o%20de%20comunicabilidade)
+### 2. Avaliação Sistemática (Resultados)
+Abaixo estão os relatórios técnicos das avaliações realizadas na plataforma.
 
-#### 3.2 Avaliação de Experiência do Usuário (UX)
-**Metodologia:** Análise holística da experiência do usuário na plataforma Discord.
+| Tipo de Avaliação | Metodologia Aplicada | Documentação |
+| :--- | :--- | :---: |
+| **3.1 Comunicabilidade** | **Método MAC:** Como o Discord comunica suas funcionalidades e estados. | <a href="https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/6%20-%20Avalia%C3%A7%C3%A3o%20de%20comunicabilidade"><img src="https://img.shields.io/badge/Ver_Análise-005875?style=flat-square"></a> |
+| **3.2 Experiência (UX)** | **Holística:** Satisfação, eficiência e aspectos emocionais. | <a href="https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/5%20-%20Avalia%C3%A7%C3%A3o%20UX"><img src="https://img.shields.io/badge/Ver_Análise-005875?style=flat-square"></a> |
+| **3.3 Inspeção** | **Heurísticas:** Identificação de problemas de interface. | <a href="https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/3%20-%20Inspecao%20de%20usabilidade"><img src="https://img.shields.io/badge/Ver_Análise-005875?style=flat-square"></a> |
+| **3.4 Teste com Usuário** | **Prático:** Coleta de dados quantitativos e qualitativos reais. | <a href="https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/4%20-%20Teste%20de%20usabilidade%20"><img src="https://img.shields.io/badge/Ver_Análise-005875?style=flat-square"></a> |
 
-**Escopo:** Avaliação da satisfação, eficiência, eficácia e aspectos emocionais da interação.
+### 3. Conclusão
+**Síntese dos resultados:** Lições aprendidas, principais descobertas e recomendações para o campo de IHC.
 
-[**Acessar Análise**](https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/5%20-%20Avalia%C3%A7%C3%A3o%20UX)
+<a href="https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/7%20-%20conclus%C3%B5es%20e%20Reflex%C3%B5es%20sobre%20o%20AprendizadO">
+  <img src="https://img.shields.io/badge/📄_LER_CONCLUSÕES_E_REFLEXÕES-00663C?style=for-the-badge">
+</a>
 
-#### 3.3 Inspeção de Usabilidade
-**Metodologia:** Aplicação de heurísticas de usabilidade para identificação de problemas de interface.
+---
 
-**Escopo:** Análise sistemática baseada em princípios estabelecidos de design de interface.
+## ⚗️ Metodologia e Contribuições
 
-[**Acessar Análise**](https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/3%20-%20Inspecao%20de%20usabilidade)
+O trabalho adota uma abordagem multimétodos:
 
-#### 3.4 Teste de Usabilidade
-**Metodologia:** Testes práticos com usuários reais para validação dos achados das inspeções.
+* 📊 **Quantitativos:** Métricas de usabilidade, tempo de tarefa e taxa de sucesso.
+* 💬 **Qualitativos:** Observação, verbalização e feedback.
+* 🔍 **Heurística:** Princípios de Nielsen.
+* 🧩 **Semiótica:** Interpretação dos signos de interface.
 
-**Escopo:** Coleta de dados quantitativos e qualitativos sobre a performance dos usuários.
+**Contribuições do Projeto:**
+1.  Compreensão dos desafios de usabilidade em chats.
+2.  Aplicação prática de métodos consolidados.
+3.  Identificação de oportunidades de melhoria.
+4.  Desenvolvimento de competências em avaliação.
 
-[**Acessar Análise**](https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/4%20-%20Teste%20de%20usabilidade%20)
+---
 
-### 4. Conclusões e Reflexões sobre o Aprendizado2
-**Conteúdo:** Síntese dos resultados obtidos, lições aprendidas durante o processo de avaliação e recomendações para melhorias no Discord.
+## 🧱 Estrutura de Arquivos
 
-**Escopo:** Análise crítica dos métodos aplicados, principais descobertas e contribuições para o campo de IHC.
-
-[**Acessar Documentação**](https://github.com/kaiosdev/IHC/tree/0a97e79540e5eb9059130b2a7f0712dc1ae82260/docs/7%20-%20conclus%C3%B5es%20e%20Reflex%C3%B5es%20sobre%20o%20AprendizadO)
-
-## Metodologia de Avaliação
-
-O trabalho adota uma abordagem multimétodos para garantir uma análise abrangente:
-
-**Métodos Quantitativos:** Métricas de usabilidade, tempo de execução de tarefas, taxa de sucesso.
-
-**Métodos Qualitativos:** Observação de comportamentos, análise de verbalização, feedback dos usuários.
-
-**Análise Heurística:** Aplicação dos princípios de Nielsen e outros frameworks reconhecidos.
-
-**Engenharia Semiótica:** Interpretação dos signos de interface e sua comunicabilidade.
-
-## Contribuições do Projeto
-
-Este trabalho oferece contribuições significativas para:
-
-- Compreensão dos desafios de usabilidade em plataformas de comunicação
-- Aplicação prática de métodos consolidados de avaliação de IHC
-- Identificação de oportunidades de melhoria em sistemas amplamente utilizados
-- Desenvolvimento de competências em avaliação de interfaces
-
-## Estrutura de Arquivos
-
-```
+```bash
 trabalho-patrico-I/
 ├── docs/
 │   ├── 1 - Apresentação do grupo e distribuição das tarefas/
-│   ├── 2 - descricao_do_ sistema/
+│   ├── 2 - descricao_do_sistema/
 │   ├── 3 - Inspecao de usabilidade/
 │   ├── 4 - Teste de usabilidade/
 │   ├── 5 - Avaliação UX/
 │   ├── 6 - Avaliação de comunicabilidade/
 │   └── 7 - conclusões e Reflexões sobre o Aprendizado/
 └── README.md
-```
-
----
-
-
-**Universidade:** [Instituto de Ciências Exatas e Tecnologia (ICET)]  
-**Período:** 2025/02  
-**Data de Conclusão:** [29/09/2025]
